@@ -1,0 +1,201 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p3-20-13",
+    "quote": "we continue to be confident of adding 15 - 17 million new customers in FY27",
+    "statement": "Add 15-17 million new customers in FY27",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": 17,
+    "unit": "million customers",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-14",
+    "quote": "we're confident of a 20% to 24% AUM growth",
+    "statement": "FY27 AUM growth of 20-24%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 24,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-14",
+    "quote": "On opex to NTI, we expect to see continued improvement of 25 to 40 basis points from current levels.",
+    "statement": "Opex to NTI to improve by 25-40 bps in FY27",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 25,
+    "target_high": 40,
+    "unit": "bps",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-14",
+    "quote": "NIM, we expect marginal moderation.",
+    "statement": "NIM expected to moderate marginally in FY27",
+    "metric": "nim",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-15",
+    "quote": "We continue to guide for 4.4% to 4.6%.",
+    "statement": "FY27 ROA guidance of 4.4-4.6%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 4.4,
+    "target_high": 4.6,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-15",
+    "quote": "we continue to guide for 19% to 20%",
+    "statement": "FY27 ROE guidance of 19-20%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 19,
+    "target_high": 20,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-16",
+    "quote": "we expect them to remain range bound and well within our long-term guidance",
+    "statement": "GNPA and NNPA to remain range bound and within long-term guidance",
+    "metric": "asset_quality",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-4",
+    "quote": "We foresee gold loan portfolio to probably cross 5-odd percent of total AUM by FY'27.",
+    "statement": "Gold loan portfolio to reach about 5% of AUM by FY27",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 5,
+    "target_high": 5,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-5",
+    "quote": "We expect that it should come back to double-digit growth or the company growth momentum between Q2 and Q3 of FY'27.",
+    "statement": "MSME growth to return to double-digit by Q2-Q3FY27",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "Q2-Q3FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p3-20-12",
+    "quote": "We are well on course to cross 5 million loans in a single month as a firm.",
+    "statement": "Cross 5 million loans in a single month during FY27",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 5,
+    "target_high": null,
+    "unit": "million loans per month",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p10-40-2",
+    "quote": "We orchestrate these 4 to deliver an outcome of 4.3% to 4.7% ROA",
+    "statement": "Long-term ROA of 4.3-4.7%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 4.3,
+    "target_high": 4.7,
+    "unit": "%",
+    "horizon": "long-term",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p10-40-2",
+    "quote": "20% to 22% ROE to investors on a long-term basis",
+    "statement": "Long-term ROE of 20-22%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 22,
+    "unit": "%",
+    "horizon": "long-term",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p16-73-1",
+    "quote": "we should be as a firm aspiring to grow 2x of what the system growth is",
+    "statement": "Aspire to grow at 2x system growth, to be a top 5-6 lender in 5-7 years",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 2,
+    "target_high": 2,
+    "unit": "x system growth",
+    "horizon": "next 5-7 years",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p18-76-5",
+    "quote": "the profit growth principally should be higher than balance sheet growth",
+    "statement": "Profit growth to exceed balance sheet growth",
+    "metric": "pat_growth",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "unspecified",
+    "speaker": "Rajeev Jain",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says it is confident of 20-24% AUM growth and of ROA and ROE guidance, while stating the outlook is contingent on easing geopolitical tensions and macro stability."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BAJFINANCE guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5644,
+  "est_output_tokens": 1727,
+  "est_usd": 0.00143
+ }
+}

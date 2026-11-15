@@ -1,0 +1,41 @@
+{
+ "output": {
+  "one_line": "Postal ballot seeks approval to appoint Anup Bagchi as MD & CEO for three years from 27 Oct 2026; e-voting closes 6 Nov.",
+  "so_what": "Leadership change at a bank with Rs 3.6 lakh cr TTM revenue. Total pay of Rs 35.9 cr is immaterial at that scale; variable pay is 75% of total compensation, with 67% non-cash.",
+  "key_numbers": [
+   {
+    "label": "Total fixed pay (incl. perquisites)",
+    "value": "8,97,43,659"
+   },
+   {
+    "label": "Total variable pay",
+    "value": "26,92,30,978"
+   },
+   {
+    "label": "Term",
+    "value": "27 Oct 2026 to 26 Oct 2029"
+   },
+   {
+    "label": "E-voting closes",
+    "value": "November 6, 2026 5:00 P.M. (IST)"
+   }
+  ],
+  "expertise_needed": [
+   "bank governance and RBI approvals",
+   "executive compensation design"
+  ],
+  "questions": [
+   "How does the 67% non-cash, deferred variable pay tie the new MD & CEO to asset quality and long-term returns?",
+   "What is the transition plan for strategy and key executives, and which priorities will change under the new CEO?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HDFCBANK brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4215,
+  "est_output_tokens": 322,
+  "est_usd": 0.00058
+ }
+}

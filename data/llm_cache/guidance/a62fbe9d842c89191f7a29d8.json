@@ -1,0 +1,175 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q1FY27-p3-14-1",
+    "quote": "we are on course to commence the trial production by quarter 4 of FY '27 and commercial production to begin quarter 1 of FY '28",
+    "statement": "Oppo-linked facility: trial production by Q4FY27, commercial production from Q1FY28",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p3-14-1",
+    "quote": "we expect to begin with around 8 million units in the first year",
+    "statement": "About 8 million units in the first year of operations",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 8,
+    "target_high": 8,
+    "unit": "million units",
+    "horizon": "first year of operations (from Q1FY28)",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p3-14-1",
+    "quote": "expect to double to almost about 15 million, 16 million in the second year of operations",
+    "statement": "Volume of about 15-16 million units in the second year of operations",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": 16,
+    "unit": "million units",
+    "horizon": "second year of operations",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p3-14-3",
+    "quote": "we expect this division to deliver growth of about 30% to 35% for the full year",
+    "statement": "Railway Sub-system & Defense revenue growth of 30-35% in FY27",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 30,
+    "target_high": 35,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p8-39-1",
+    "quote": "the margins in this financial year, we look at around in the range of 15% to 16% for this division",
+    "statement": "Railway division EBITDA margin of 15-16% in FY27",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": 16,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p12-78-1",
+    "quote": "from quarter 3 onwards, you will see the margins coming back to normalized level",
+    "statement": "Standard PCB margins to normalise to 15-16% from Q3FY27",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": 16,
+    "unit": "%",
+    "horizon": "Q3FY27 onwards",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p14-92-1",
+    "quote": "it should range between 13% to 15%",
+    "statement": "Consumer durables industry growth of 13-15% in FY27, with guidance intact",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 13,
+    "target_high": 15,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Sachin Gupta",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p16-114-1",
+    "quote": "We have already announced a capex of close to about INR3,200 crores in Jewar",
+    "statement": "Announced PCB capex of about INR 3,200 crore at Jewar",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 3200,
+    "target_high": 3200,
+    "unit": "INR crore",
+    "horizon": "unspecified",
+    "speaker": "Jasbir Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p16-114-1",
+    "quote": "The plant will be up and running this financial year of Hosur.",
+    "statement": "Hosur PCB plant to be up and running in FY27",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p16-114-2",
+    "quote": "And for Jewar, it will take about 18 months from now for the trial production to start.",
+    "statement": "Jewar PCB trial production to start in about 18 months (from Aug-2026)",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": 18,
+    "target_high": 18,
+    "unit": "months",
+    "horizon": "about 18 months from Aug-2026",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p16-114-2",
+    "quote": "there's a very decent growth of 35% to 40% coming in",
+    "statement": "Power electronics growth of 35-40%",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 35,
+    "target_high": 40,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p10-54-1",
+    "quote": "by '29, '30, we expect that we should be having our own CCL plants by then",
+    "statement": "Own copper clad laminate (CCL) plants expected by FY29-FY30",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY29-FY30",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "mixed",
+   "why": "Management reaffirms railway growth of 30-35%, the Oppo ramp-up and CD industry growth, but flags bare PCB margin compression and a muted festive season."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AMBER guidance Q1 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4157,
+  "est_output_tokens": 1641,
+  "est_usd": 0.00124
+ }
+}

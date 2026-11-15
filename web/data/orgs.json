@@ -1,0 +1,1273 @@
+{
+ "iitb": {
+  "name": "IIT Bombay",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Technology Bombay",
+   "Indian Institute of Technology, Bombay",
+   "IIT Mumbai"
+  ]
+ },
+ "iitd": {
+  "name": "IIT Delhi",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Technology Delhi",
+   "Indian Institute of Technology, Delhi"
+  ]
+ },
+ "iitk": {
+  "name": "IIT Kanpur",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Technology Kanpur",
+   "Indian Institute of Technology, Kanpur"
+  ]
+ },
+ "iitm": {
+  "name": "IIT Madras",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Technology Madras",
+   "Indian Institute of Technology, Madras"
+  ]
+ },
+ "iitkgp": {
+  "name": "IIT Kharagpur",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Technology Kharagpur",
+   "Indian Institute of Technology, Kharagpur"
+  ]
+ },
+ "iima": {
+  "name": "IIM Ahmedabad",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Management Ahmedabad",
+   "Indian Institute of Management, Ahmedabad"
+  ]
+ },
+ "iimb": {
+  "name": "IIM Bangalore",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Management Bangalore",
+   "Indian Institute of Management, Bangalore",
+   "IIM Bengaluru"
+  ]
+ },
+ "iimc": {
+  "name": "IIM Calcutta",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Management Calcutta",
+   "Indian Institute of Management, Calcutta",
+   "IIM Kolkata"
+  ]
+ },
+ "iiml": {
+  "name": "IIM Lucknow",
+  "type": "university",
+  "aliases": [
+   "Indian Institute of Management Lucknow",
+   "Indian Institute of Management, Lucknow"
+  ]
+ },
+ "jbims": {
+  "name": "JBIMS",
+  "type": "university",
+  "aliases": [
+   "Jamnalal Bajaj Institute of Management Studies"
+  ]
+ },
+ "isb": {
+  "name": "Indian School of Business",
+  "type": "university",
+  "aliases": [
+   "ISB",
+   "ISB Hyderabad"
+  ]
+ },
+ "xlri": {
+  "name": "XLRI Jamshedpur",
+  "type": "university",
+  "aliases": [
+   "XLRI",
+   "Xavier School of Management"
+  ]
+ },
+ "fms": {
+  "name": "FMS Delhi",
+  "type": "university",
+  "aliases": [
+   "Faculty of Management Studies",
+   "Faculty of Management Studies, University of Delhi"
+  ]
+ },
+ "srcc": {
+  "name": "SRCC",
+  "type": "university",
+  "aliases": [
+   "Shri Ram College of Commerce"
+  ]
+ },
+ "icai": {
+  "name": "ICAI",
+  "type": "institute",
+  "aliases": [
+   "Institute of Chartered Accountants of India",
+   "Chartered Accountant",
+   "Chartered Accountants"
+  ]
+ },
+ "icsi": {
+  "name": "ICSI",
+  "type": "institute",
+  "aliases": [
+   "Institute of Company Secretaries of India"
+  ]
+ },
+ "ictmumbai": {
+  "name": "ICT Mumbai",
+  "type": "university",
+  "aliases": [
+   "Institute of Chemical Technology",
+   "UDCT",
+   "University Department of Chemical Technology"
+  ]
+ },
+ "bits": {
+  "name": "BITS Pilani",
+  "type": "university",
+  "aliases": [
+   "Birla Institute of Technology and Science",
+   "Birla Institute of Technology & Science, Pilani"
+  ]
+ },
+ "nitk": {
+  "name": "NIT Surathkal",
+  "type": "university",
+  "aliases": [
+   "National Institute of Technology Karnataka"
+  ]
+ },
+ "wharton": {
+  "name": "Wharton School",
+  "type": "university",
+  "aliases": [
+   "The Wharton School",
+   "University of Pennsylvania"
+  ]
+ },
+ "insead": {
+  "name": "INSEAD",
+  "type": "university",
+  "aliases": []
+ },
+ "lbs": {
+  "name": "London Business School",
+  "type": "university",
+  "aliases": []
+ },
+ "afmc": {
+  "name": "AFMC Pune",
+  "type": "university",
+  "aliases": [
+   "Armed Forces Medical College"
+  ]
+ },
+ "aiims": {
+  "name": "AIIMS New Delhi",
+  "type": "university",
+  "aliases": [
+   "All India Institute of Medical Sciences"
+  ]
+ },
+ "kotak-ie": {
+  "name": "Kotak Institutional Equities",
+  "type": "company",
+  "sector": "Financial services",
+  "aliases": [
+   "Kotak Securities",
+   "Kotak Institutional Equities Research"
+  ],
+  "theme": "capital_markets",
+  "industry": "Institutional equities",
+  "size": 1
+ },
+ "ambit": {
+  "name": "Ambit Capital",
+  "type": "company",
+  "sector": "Financial services",
+  "aliases": [
+   "Ambit"
+  ],
+  "theme": "capital_markets",
+  "industry": "Institutional equities",
+  "size": 1
+ },
+ "jm-financial": {
+  "name": "JM Financial",
+  "type": "company",
+  "sector": "Financial services",
+  "aliases": [
+   "JM Financial Institutional Securities"
+  ]
+ },
+ "icici-sec": {
+  "name": "ICICI Securities",
+  "type": "company",
+  "sector": "Financial services",
+  "aliases": [
+   "I-Sec",
+   "ICICI Securities Limited",
+   "ICICI Securities Ltd",
+   "ICICI Securities Limited (I-Sec)"
+  ],
+  "theme": "capital_markets",
+  "industry": "Broking & investment banking",
+  "size": 2
+ },
+ "icici-pru-life": {
+  "name": "ICICI Prudential Life Insurance",
+  "type": "company",
+  "sector": "Insurance",
+  "aliases": [
+   "ICICI Prudential Life Insurance Company",
+   "ICICI Prudential Life Insurance Company Limited",
+   "ICICI Pru Life",
+   "ICICI Life Insurance",
+   "ICICI Life Insurance Limited",
+   "ICICI Life"
+  ],
+  "listed": false,
+  "theme": "insurance",
+  "industry": "Life insurance",
+  "size": 3
+ },
+ "goldman-india": {
+  "name": "Goldman Sachs",
+  "type": "company",
+  "sector": "Financial services",
+  "aliases": [
+   "Goldman Sachs India",
+   "Goldman Sachs (India) Securities"
+  ]
+ },
+ "morgan-stanley": {
+  "name": "Morgan Stanley",
+  "type": "company",
+  "sector": "Financial services",
+  "aliases": [
+   "Morgan Stanley India"
+  ]
+ },
+ "jpmorgan": {
+  "name": "J.P. Morgan",
+  "type": "company",
+  "sector": "Financial services",
+  "aliases": [
+   "JP Morgan",
+   "JPMorgan",
+   "J P Morgan"
+  ]
+ },
+ "mckinsey": {
+  "name": "McKinsey & Company",
+  "type": "company",
+  "sector": "Consulting",
+  "aliases": [
+   "McKinsey"
+  ]
+ },
+ "bcg": {
+  "name": "Boston Consulting Group",
+  "type": "company",
+  "sector": "Consulting",
+  "aliases": [
+   "BCG"
+  ]
+ },
+ "ey": {
+  "name": "EY",
+  "type": "company",
+  "sector": "Professional services",
+  "aliases": [
+   "Ernst & Young",
+   "Ernst and Young",
+   "S.R. Batliboi"
+  ]
+ },
+ "deloitte": {
+  "name": "Deloitte",
+  "type": "company",
+  "sector": "Professional services",
+  "aliases": [
+   "Deloitte Haskins & Sells",
+   "Deloitte India"
+  ]
+ },
+ "kpmg": {
+  "name": "KPMG",
+  "type": "company",
+  "sector": "Professional services",
+  "aliases": [
+   "BSR & Co",
+   "B S R & Co"
+  ]
+ },
+ "pwc": {
+  "name": "PwC",
+  "type": "company",
+  "sector": "Professional services",
+  "aliases": [
+   "PricewaterhouseCoopers",
+   "Price Waterhouse"
+  ]
+ },
+ "unilever": {
+  "name": "Unilever",
+  "type": "company",
+  "sector": "FMCG",
+  "aliases": [
+   "Unilever plc"
+  ]
+ },
+ "pepsico-india": {
+  "name": "PepsiCo India",
+  "type": "company",
+  "sector": "FMCG",
+  "aliases": [
+   "PepsiCo",
+   "Pepsico India Holdings"
+  ]
+ },
+ "flextronics": {
+  "name": "Flex",
+  "type": "company",
+  "sector": "Electronics manufacturing",
+  "aliases": [
+   "Flextronics",
+   "Flextronics Technologies India"
+  ]
+ },
+ "foxconn": {
+  "name": "Foxconn",
+  "type": "company",
+  "sector": "Electronics manufacturing",
+  "aliases": [
+   "Hon Hai",
+   "Bharat FIH",
+   "FIH Mobile"
+  ]
+ },
+ "jabil": {
+  "name": "Jabil",
+  "type": "company",
+  "sector": "Electronics manufacturing",
+  "aliases": [
+   "Jabil Circuit India"
+  ]
+ },
+ "honeywell": {
+  "name": "Honeywell",
+  "type": "company",
+  "sector": "Chemicals & industrials",
+  "aliases": [
+   "Honeywell International"
+  ]
+ },
+ "chemours": {
+  "name": "Chemours",
+  "type": "company",
+  "sector": "Chemicals",
+  "aliases": [
+   "The Chemours Company"
+  ]
+ },
+ "drdo": {
+  "name": "DRDO",
+  "type": "government",
+  "sector": "Defence",
+  "aliases": [
+   "Defence Research and Development Organisation"
+  ]
+ },
+ "mod": {
+  "name": "Ministry of Defence",
+  "type": "government",
+  "sector": "Defence",
+  "aliases": [
+   "MoD",
+   "Department of Defence Production"
+  ]
+ },
+ "rbi": {
+  "name": "Reserve Bank of India",
+  "type": "government",
+  "sector": "Banking regulator",
+  "aliases": [
+   "RBI"
+  ],
+  "theme": "banking",
+  "industry": "Regulator",
+  "size": 3
+ },
+ "sebi": {
+  "name": "SEBI",
+  "type": "government",
+  "sector": "Markets regulator",
+  "aliases": [
+   "Securities and Exchange Board of India"
+  ]
+ },
+ "ujjivan": {
+  "name": "Ujjivan Small Finance Bank",
+  "type": "company",
+  "sector": "Microfinance",
+  "aliases": [
+   "Ujjivan",
+   "Ujjivan Financial Services"
+  ]
+ },
+ "bandhan": {
+  "name": "Bandhan Bank",
+  "type": "company",
+  "sector": "Microfinance",
+  "aliases": [
+   "Bandhan Financial Services"
+  ]
+ },
+ "spandana": {
+  "name": "Spandana Sphoorty",
+  "type": "company",
+  "sector": "Microfinance",
+  "aliases": [
+   "Spandana Sphoorty Financial"
+  ]
+ },
+ "grameen-koota": {
+  "name": "Grameen Koota",
+  "type": "company",
+  "sector": "Microfinance",
+  "aliases": [
+   "Grameen Koota Financial Services"
+  ]
+ },
+ "future-retail": {
+  "name": "Future Retail",
+  "type": "company",
+  "sector": "Retail",
+  "aliases": [
+   "Future Group",
+   "Big Bazaar"
+  ]
+ },
+ "walmart-india": {
+  "name": "Walmart India",
+  "type": "company",
+  "sector": "Retail",
+  "aliases": [
+   "Best Price",
+   "Walmart"
+  ]
+ },
+ "spencers": {
+  "name": "Spencer's Retail",
+  "type": "company",
+  "sector": "Retail",
+  "aliases": [
+   "Spencers Retail",
+   "RPG Retail"
+  ]
+ },
+ "jockey-intl": {
+  "name": "Jockey International",
+  "type": "company",
+  "sector": "Apparel",
+  "aliases": [
+   "Jockey International Inc"
+  ]
+ },
+ "arvind-brands": {
+  "name": "Arvind Fashions",
+  "type": "company",
+  "sector": "Apparel",
+  "aliases": [
+   "Arvind Brands",
+   "Arvind Lifestyle Brands"
+  ]
+ },
+ "murugappa": {
+  "name": "Murugappa Group",
+  "type": "company",
+  "sector": "Conglomerate",
+  "aliases": [
+   "Murugappa"
+  ]
+ },
+ "tata-group": {
+  "name": "Tata Sons",
+  "type": "company",
+  "sector": "Conglomerate",
+  "aliases": [
+   "Tata Group"
+  ]
+ },
+ "reliance-retail": {
+  "name": "Reliance Retail",
+  "type": "company",
+  "sector": "Retail",
+  "aliases": [
+   "Reliance Retail Ventures"
+  ]
+ },
+ "jio": {
+  "name": "Jio Platforms",
+  "type": "company",
+  "sector": "Telecom",
+  "aliases": [
+   "Reliance Jio",
+   "Reliance Jio Infocomm"
+  ]
+ },
+ "hdfc-ltd": {
+  "name": "HDFC Ltd",
+  "type": "company",
+  "sector": "Housing finance",
+  "aliases": [
+   "Housing Development Finance Corporation",
+   "HDFC Limited"
+  ]
+ },
+ "hdfc-amc": {
+  "name": "HDFC Asset Management",
+  "type": "company",
+  "sector": "Asset management",
+  "listed": "HDFCAMC",
+  "aliases": [
+   "HDFC AMC",
+   "HDFC Asset Management Company"
+  ]
+ },
+ "bajaj-finserv": {
+  "name": "Bajaj Finserv",
+  "type": "company",
+  "sector": "Financial services",
+  "listed": "BAJAJFINSV",
+  "aliases": []
+ },
+ "citi": {
+  "name": "Citibank",
+  "type": "company",
+  "sector": "Banking",
+  "aliases": [
+   "Citi",
+   "Citigroup",
+   "Citibank N.A."
+  ]
+ },
+ "standard-chartered": {
+  "name": "Standard Chartered",
+  "type": "company",
+  "sector": "Banking",
+  "aliases": [
+   "Standard Chartered Bank"
+  ]
+ },
+ "hsbc": {
+  "name": "HSBC",
+  "type": "company",
+  "sector": "Banking",
+  "aliases": [
+   "HSBC India"
+  ]
+ },
+ "ge": {
+  "name": "General Electric",
+  "type": "company",
+  "sector": "Industrials",
+  "aliases": [
+   "GE",
+   "GE India"
+  ]
+ },
+ "isro": {
+  "name": "ISRO",
+  "type": "government",
+  "sector": "Space",
+  "aliases": [
+   "Indian Space Research Organisation"
+  ]
+ },
+ "indian-air-force": {
+  "name": "Indian Air Force",
+  "type": "government",
+  "sector": "Defence",
+  "aliases": [
+   "IAF"
+  ],
+  "theme": "defence",
+  "industry": "Armed forces",
+  "size": 4
+ },
+ "indian-navy": {
+  "name": "Indian Navy",
+  "type": "government",
+  "sector": "Defence",
+  "aliases": []
+ },
+ "HDFCBANK": {
+  "name": "HDFC Bank",
+  "type": "company",
+  "listed": true,
+  "theme": "banking",
+  "industry": "Private bank",
+  "size": 4,
+  "aliases": [
+   "HDFC Bank Limited"
+  ]
+ },
+ "ICICIBANK": {
+  "name": "ICICI Bank",
+  "type": "company",
+  "listed": true,
+  "theme": "banking",
+  "industry": "Private bank",
+  "size": 4,
+  "aliases": [
+   "ICICI Bank Limited"
+  ]
+ },
+ "KOTAKBANK": {
+  "name": "Kotak Mahindra Bank",
+  "type": "company",
+  "listed": true,
+  "theme": "banking",
+  "industry": "Private bank",
+  "size": 4,
+  "aliases": []
+ },
+ "BAJFINANCE": {
+  "name": "Bajaj Finance",
+  "type": "company",
+  "listed": true,
+  "theme": "banking",
+  "industry": "Consumer finance",
+  "size": 4,
+  "aliases": [
+   "Bajaj Finance Limited"
+  ]
+ },
+ "CHOLAFIN": {
+  "name": "Cholamandalam Investment & Finance",
+  "type": "company",
+  "listed": true,
+  "theme": "rural_lending",
+  "industry": "Vehicle & small-business finance",
+  "size": 3,
+  "aliases": [
+   "Cholamandalam Investment and Finance Company",
+   "Chola"
+  ]
+ },
+ "CREDITACC": {
+  "name": "CreditAccess Grameen",
+  "type": "company",
+  "listed": true,
+  "theme": "rural_lending",
+  "industry": "Microfinance",
+  "size": 3,
+  "aliases": [
+   "CreditAccess Grameen Limited",
+   "Grameen Koota"
+  ]
+ },
+ "AAVAS": {
+  "name": "Aavas Financiers",
+  "type": "company",
+  "listed": true,
+  "theme": "rural_lending",
+  "industry": "Affordable housing finance",
+  "size": 2,
+  "aliases": [
+   "AAVAS Financiers",
+   "Aavas"
+  ]
+ },
+ "HOMEFIRST": {
+  "name": "Home First Finance",
+  "type": "company",
+  "listed": true,
+  "theme": "rural_lending",
+  "industry": "Affordable housing finance",
+  "size": 2,
+  "aliases": [
+   "Home First Finance Company"
+  ]
+ },
+ "RELIANCE": {
+  "name": "Reliance Industries",
+  "type": "company",
+  "listed": true,
+  "theme": "energy_conglomerate",
+  "industry": "Conglomerate",
+  "size": 4,
+  "aliases": [
+   "Reliance Industries Limited",
+   "RIL"
+  ]
+ },
+ "TCS": {
+  "name": "Tata Consultancy Services",
+  "type": "company",
+  "listed": true,
+  "theme": "it_services",
+  "industry": "IT services",
+  "size": 4,
+  "aliases": [
+   "TCS"
+  ]
+ },
+ "PERSISTENT": {
+  "name": "Persistent Systems",
+  "type": "company",
+  "listed": true,
+  "theme": "it_services",
+  "industry": "IT services",
+  "size": 3,
+  "aliases": []
+ },
+ "INFY": {
+  "name": "Infosys",
+  "type": "company",
+  "listed": true,
+  "theme": "it_services",
+  "industry": "IT services",
+  "size": 4,
+  "aliases": []
+ },
+ "ITC": {
+  "name": "ITC",
+  "type": "company",
+  "listed": true,
+  "theme": "fmcg",
+  "industry": "FMCG & tobacco",
+  "size": 4,
+  "aliases": [
+   "ITC Limited"
+  ]
+ },
+ "DABUR": {
+  "name": "Dabur India",
+  "type": "company",
+  "listed": true,
+  "theme": "fmcg",
+  "industry": "FMCG",
+  "size": 3,
+  "aliases": [
+   "Dabur",
+   "Dabur India Ltd"
+  ]
+ },
+ "MARICO": {
+  "name": "Marico",
+  "type": "company",
+  "listed": true,
+  "theme": "fmcg",
+  "industry": "FMCG",
+  "size": 3,
+  "aliases": []
+ },
+ "HONASA": {
+  "name": "Honasa Consumer",
+  "type": "company",
+  "listed": true,
+  "theme": "fmcg",
+  "industry": "FMCG",
+  "size": 2,
+  "aliases": [
+   "Mamaearth",
+   "Honasa"
+  ]
+ },
+ "HINDUNILVR": {
+  "name": "Hindustan Unilever",
+  "type": "company",
+  "listed": true,
+  "theme": "fmcg",
+  "industry": "FMCG",
+  "size": 4,
+  "aliases": [
+   "HUL",
+   "Hindustan Unilever Limited"
+  ]
+ },
+ "DMART": {
+  "name": "Avenue Supermarts",
+  "type": "company",
+  "listed": true,
+  "theme": "retail_consumer",
+  "industry": "Hypermarket retail",
+  "size": 3,
+  "aliases": [
+   "DMart",
+   "D-Mart",
+   "Avenue Supermarts Limited"
+  ]
+ },
+ "TRENT": {
+  "name": "Trent",
+  "type": "company",
+  "listed": true,
+  "theme": "retail_consumer",
+  "industry": "Fashion & hypermarket retail",
+  "size": 3,
+  "aliases": []
+ },
+ "PAGEIND": {
+  "name": "Page Industries",
+  "type": "company",
+  "listed": true,
+  "theme": "retail_consumer",
+  "industry": "Innerwear & apparel",
+  "size": 2,
+  "aliases": [
+   "Page Industries Limited"
+  ]
+ },
+ "ARVINDFASN": {
+  "name": "Arvind Fashions",
+  "type": "company",
+  "listed": true,
+  "theme": "retail_consumer",
+  "industry": "Innerwear & apparel",
+  "size": 2,
+  "aliases": [
+   "Arvind Lifestyle Brands",
+   "Arvind Brands"
+  ]
+ },
+ "APOLLOHOSP": {
+  "name": "Apollo Hospitals",
+  "type": "company",
+  "listed": true,
+  "theme": "healthcare",
+  "industry": "Hospitals",
+  "size": 4,
+  "aliases": [
+   "Apollo Hospitals Enterprise"
+  ]
+ },
+ "MEDANTA": {
+  "name": "Global Health (Medanta)",
+  "type": "company",
+  "listed": true,
+  "theme": "healthcare",
+  "industry": "Hospitals",
+  "size": 3,
+  "aliases": [
+   "Medanta",
+   "Global Health"
+  ]
+ },
+ "MAXHEALTH": {
+  "name": "Max Healthcare",
+  "type": "company",
+  "listed": true,
+  "theme": "healthcare",
+  "industry": "Hospitals",
+  "size": 3,
+  "aliases": []
+ },
+ "HAL": {
+  "name": "Hindustan Aeronautics",
+  "type": "company",
+  "listed": true,
+  "theme": "defence",
+  "industry": "Defence PSU",
+  "size": 4,
+  "aliases": [
+   "HAL",
+   "Hindustan Aeronautics Limited"
+  ]
+ },
+ "BEL": {
+  "name": "Bharat Electronics",
+  "type": "company",
+  "listed": true,
+  "theme": "defence",
+  "industry": "Defence PSU",
+  "size": 4,
+  "aliases": [
+   "BEL",
+   "Bharat Electronics Limited"
+  ]
+ },
+ "KAYNES": {
+  "name": "Kaynes Technology",
+  "type": "company",
+  "listed": true,
+  "theme": "semis_electronics",
+  "industry": "Electronics manufacturing (EMS)",
+  "size": 2,
+  "aliases": [
+   "Kaynes",
+   "Kaynes Technology India"
+  ]
+ },
+ "DIXON": {
+  "name": "Dixon Technologies",
+  "type": "company",
+  "listed": true,
+  "theme": "semis_electronics",
+  "industry": "Electronics manufacturing (EMS)",
+  "size": 3,
+  "aliases": [
+   "Dixon"
+  ]
+ },
+ "AMBER": {
+  "name": "Amber Enterprises",
+  "type": "company",
+  "listed": true,
+  "theme": "semis_electronics",
+  "industry": "Electronics manufacturing (EMS)",
+  "size": 2,
+  "aliases": [
+   "Amber"
+  ]
+ },
+ "SYRMA": {
+  "name": "Syrma SGS",
+  "type": "company",
+  "listed": true,
+  "theme": "semis_electronics",
+  "industry": "Electronics manufacturing (EMS)",
+  "size": 2,
+  "aliases": []
+ },
+ "HAVELLS": {
+  "name": "Havells India",
+  "type": "company",
+  "listed": true,
+  "theme": "retail_consumer",
+  "industry": "Consumer electricals",
+  "size": 3,
+  "aliases": [
+   "Havells"
+  ]
+ },
+ "NAVINFLUOR": {
+  "name": "Navin Fluorine International",
+  "type": "company",
+  "listed": true,
+  "theme": "specialty_chem",
+  "industry": "Fluorochemicals",
+  "size": 2,
+  "aliases": [
+   "Navin Fluorine",
+   "NFIL"
+  ]
+ },
+ "SRF": {
+  "name": "SRF",
+  "type": "company",
+  "listed": true,
+  "theme": "specialty_chem",
+  "industry": "Fluorochemicals",
+  "size": 3,
+  "aliases": [
+   "SRF Limited"
+  ]
+ },
+ "GUJFLUORO": {
+  "name": "Gujarat Fluorochemicals",
+  "type": "company",
+  "listed": true,
+  "theme": "specialty_chem",
+  "industry": "Fluorochemicals",
+  "size": 2,
+  "aliases": [
+   "GFL",
+   "Inox Fluorochemicals"
+  ]
+ },
+ "DEEPAKNTR": {
+  "name": "Deepak Nitrite",
+  "type": "company",
+  "listed": true,
+  "theme": "specialty_chem",
+  "industry": "Phenolics & intermediates",
+  "size": 2,
+  "aliases": [
+   "Deepak Nitrite Limited",
+   "Deepak Phenolics"
+  ]
+ },
+ "AARTIIND": {
+  "name": "Aarti Industries",
+  "type": "company",
+  "listed": true,
+  "theme": "specialty_chem",
+  "industry": "Phenolics & intermediates",
+  "size": 2,
+  "aliases": [
+   "Aarti"
+  ]
+ },
+ "TIINDIA": {
+  "name": "Tube Investments of India",
+  "type": "company",
+  "listed": true,
+  "theme": "auto_engineering",
+  "industry": "Engineering & auto components",
+  "size": 3,
+  "aliases": [
+   "TI",
+   "Tube Investments",
+   "TI Clean Mobility"
+  ]
+ },
+ "BOSCHLTD": {
+  "name": "Bosch",
+  "type": "company",
+  "listed": true,
+  "theme": "auto_engineering",
+  "industry": "Auto components",
+  "size": 3,
+  "aliases": [
+   "Bosch Limited",
+   "Robert Bosch",
+   "Bosch India"
+  ]
+ },
+ "HDFCLIFE": {
+  "name": "HDFC Life",
+  "type": "company",
+  "listed": true,
+  "theme": "insurance",
+  "industry": "Life insurance",
+  "size": 3,
+  "aliases": [
+   "HDFC Life Insurance",
+   "HDFC Standard Life"
+  ]
+ },
+ "kelloggs": {
+  "name": "Kellogg India",
+  "type": "company",
+  "theme": "fmcg",
+  "industry": "FMCG",
+  "size": 2,
+  "aliases": [
+   "Kellogg's",
+   "Kelloggs",
+   "Kellogs",
+   "Kellogg"
+  ]
+ },
+ "aima": {
+  "name": "AIMA Delhi",
+  "type": "institute",
+  "aliases": [
+   "All India Management Association",
+   "AIMA"
+  ]
+ },
+ "zepto": {
+  "name": "Zepto",
+  "type": "company",
+  "theme": "retail_consumer",
+  "industry": "Quick commerce",
+  "size": 2,
+  "aliases": [
+   "Kiranakart Technologies"
+  ]
+ },
+ "vishay": {
+  "name": "Vishay Intertechnology",
+  "type": "company",
+  "theme": "semis_electronics",
+  "industry": "Passive components & semiconductors",
+  "size": 3,
+  "aliases": [
+   "Vishay",
+   "Vishay Components India",
+   "Vishay India"
+  ]
+ },
+ "tata-electronics": {
+  "name": "Tata Electronics",
+  "type": "company",
+  "theme": "semis_electronics",
+  "industry": "Semiconductors (OSAT/fab)",
+  "size": 3,
+  "aliases": []
+ },
+ "micron": {
+  "name": "Micron Technology",
+  "type": "company",
+  "theme": "semis_electronics",
+  "industry": "Semiconductors (memory)",
+  "size": 4,
+  "aliases": [
+   "Micron"
+  ]
+ },
+ "khaitan": {
+  "name": "Khaitan & Co",
+  "type": "company",
+  "theme": "legal_regulatory",
+  "industry": "Law firm",
+  "size": 2,
+  "aliases": [
+   "Khaitan and Co"
+  ]
+ },
+ "nse-india": {
+  "name": "National Stock Exchange",
+  "type": "company",
+  "theme": "capital_markets",
+  "industry": "Exchange",
+  "size": 2,
+  "aliases": [
+   "NSE"
+  ]
+ },
+ "symbiosis": {
+  "name": "Symbiosis Pune",
+  "type": "university",
+  "aliases": [
+   "Symbiosis Institute of Business Management",
+   "SIBM"
+  ]
+ },
+ "meridian-ridge": {
+  "name": "Meridian Ridge Capital",
+  "type": "company",
+  "theme": "capital_markets",
+  "industry": "Public-markets fund",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "avantika-fo": {
+  "name": "Avantika Family Office",
+  "type": "company",
+  "theme": "capital_markets",
+  "industry": "Family office",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "khetika": {
+  "name": "Khetika Credit",
+  "type": "company",
+  "theme": "rural_lending",
+  "industry": "Agri-fintech",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "crunchwise": {
+  "name": "Crunchwise Foods",
+  "type": "company",
+  "theme": "fmcg",
+  "industry": "D2C foods",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "clinixa": {
+  "name": "Clinixa Diagnostics",
+  "type": "company",
+  "theme": "healthcare",
+  "industry": "Diagnostics",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "vayu-drones": {
+  "name": "Vayu Drones",
+  "type": "company",
+  "theme": "defence",
+  "industry": "Drones",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "arka-impact": {
+  "name": "Arka Impact Partners",
+  "type": "company",
+  "theme": "rural_lending",
+  "industry": "Impact fund",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "bharat-amc": {
+  "name": "Bharat Asset Management",
+  "type": "company",
+  "theme": "capital_markets",
+  "industry": "Asset management",
+  "size": 2,
+  "aliases": [],
+  "synthetic": true
+ },
+ "ember-ev": {
+  "name": "Ember Mobility",
+  "type": "company",
+  "theme": "auto_engineering",
+  "industry": "EV components",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "paydeck": {
+  "name": "Paydeck",
+  "type": "company",
+  "theme": "banking",
+  "industry": "Consumer fintech",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "milletry": {
+  "name": "Milletry Foods",
+  "type": "company",
+  "theme": "fmcg",
+  "industry": "D2C foods",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "northbeam-pe": {
+  "name": "Northbeam Partners",
+  "type": "company",
+  "theme": "capital_markets",
+  "industry": "Private equity",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "healthbridge-pe": {
+  "name": "Healthbridge Capital",
+  "type": "company",
+  "theme": "healthcare",
+  "industry": "Healthcare private equity",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ },
+ "sterling-advisory": {
+  "name": "Sterling Policy Advisors",
+  "type": "company",
+  "theme": "legal_regulatory",
+  "industry": "Regulatory advisory",
+  "size": 1,
+  "aliases": [],
+  "synthetic": true
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "output": {
+  "one_line": "Completes transfer of CAE Canada's 50% stake in HATSOFF Helicopter Training to HAL; HATSOFF becomes wholly owned.",
+  "so_what": "Routine completion of the Oct-2026 deal. Consideration is not disclosed; the shares' face value (about Rs 38 cr) is about 0.1% of TTM revenue, so impact looks small.",
+  "key_numbers": [
+   {
+    "label": "Shares transferred",
+    "value": "3,84,04,205 equity shares of Rs 10 face value each"
+   },
+   {
+    "label": "Stake acquired",
+    "value": "50% from CAE Canada"
+   },
+   {
+    "label": "Result",
+    "value": "HATSOFF becomes wholly-owned subsidiary"
+   },
+   {
+    "label": "TTM revenue",
+    "value": "₹ 34,769 Cr."
+   }
+  ],
+  "expertise_needed": [
+   "aviation training business",
+   "subsidiary consolidation"
+  ],
+  "questions": [
+   "What consideration is HAL paying CAE Canada for the 50% stake, and how is it being funded?",
+   "What are HATSOFF's revenue, profit and capex plans, and how material is it to HAL's training business?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HAL brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 815,
+  "est_output_tokens": 308,
+  "est_usd": 0.00024
+ }
+}

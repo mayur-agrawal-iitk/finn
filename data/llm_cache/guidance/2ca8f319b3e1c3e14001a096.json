@@ -1,0 +1,110 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p12-50-1",
+    "quote": "I would say probably between 26%, 27% growth we should deliver now on a full year basis",
+    "statement": "FY27 full-year growth of 26-27%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 26,
+    "target_high": 27,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p15-67-1",
+    "quote": "the longer-term growth guidance of 23% to 25%",
+    "statement": "Long-term growth of 23-25% (guidance unchanged)",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 23,
+    "target_high": 25,
+    "unit": "%",
+    "horizon": "long-term",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p18-80-1",
+    "quote": "we have to deliver the long-term 20% to 25% profit growth to investors in 19% to 21% return on equity",
+    "statement": "Long-term PAT growth of 20-25% with return on equity of 19-21%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 19,
+    "target_high": 21,
+    "unit": "%",
+    "horizon": "long-term",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p13-59-1",
+    "quote": "In general, our guidance of 16% to 18%",
+    "statement": "FY27 non-interest (fee) income growth of 16-18%",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 16,
+    "target_high": 18,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p12-55-1",
+    "quote": "I had given a guidance of 10 to 15 basis point compression in the current year",
+    "statement": "NIM compression of 10-15 bps in FY27, with a marginal additional headwind",
+    "metric": "nim",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 15,
+    "unit": "bps",
+    "horizon": "FY27",
+    "speaker": "Sandeep Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p3-16-4",
+    "quote": "We remain pretty comfortable place to deliver a 25 to 40 basis point improvement in FY27 on opex-to-NTI",
+    "statement": "Opex-to-NTI improvement of 25-40 bps in FY27",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 25,
+    "target_high": 40,
+    "unit": "bps",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-16-2",
+    "quote": "We are well on track to deliver between 60 million to 62 million new loans in FY27",
+    "statement": "New loans of 60-62 million in FY27",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 60,
+    "target_high": 62,
+    "unit": "million loans",
+    "horizon": "FY27",
+    "speaker": "Rajeev Jain",
+    "confidence": "high"
+   }
+  ],
+  "tone": {
+   "label": "mixed",
+   "why": "Management reiterates 23-25% long-term growth and 19-21% ROE and sets FY27 targets, but flags a possible RBI restriction under the draft regulation and a 10 bps rise in GNPA as uncertainties."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BAJFINANCE guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4880,
+  "est_output_tokens": 932,
+  "est_usd": 0.00095
+ }
+}

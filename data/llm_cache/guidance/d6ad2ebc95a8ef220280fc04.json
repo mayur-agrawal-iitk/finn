@@ -1,0 +1,123 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p15-94-1",
+    "quote": "Next year, we are targeting almost INR56,000 crores without the Vivo numbers",
+    "statement": "FY27 revenue target of about INR 56,000 crore excluding Vivo JV",
+    "metric": "revenue",
+    "kind": "quantitative",
+    "target_low": 56000,
+    "target_high": 56000,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Atul Lall",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p15-94-1",
+    "quote": "without the Vivo also, the company will keep growing at almost 15% to 17%",
+    "statement": "FY27 revenue growth of about 15-17% excluding Vivo",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": 17,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Atul Lall",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p9-35-2",
+    "quote": "We are targeting almost INR7,500 crores, INR8,000 crores in '26, '27.",
+    "statement": "Telecom and networking revenue of INR 7,500-8,000 crore in FY27",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 7500,
+    "target_high": 8000,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Atul Lall",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-18-8",
+    "quote": "we expect 3x growth in the revenues in the current fiscal against last year",
+    "statement": "IT hardware revenue to grow 3x in FY27 (about INR 4,000 crore per later guidance)",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 3,
+    "target_high": 3,
+    "unit": "x",
+    "horizon": "FY27",
+    "speaker": "Atul Lall",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p18-132-1",
+    "quote": "we expect a higher double-digit teen growth in terms of volumes",
+    "statement": "Mobile volume growth in the high teens in FY27",
+    "metric": "volume_growth",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Saurabh Gupta",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p15-96-1",
+    "quote": "there will be a margin expansion from last year's number by almost 40 bps, 50 bps",
+    "statement": "EBITDA margin expansion of about 40-50 bps once component ramp is complete",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 40,
+    "target_high": 50,
+    "unit": "bps",
+    "horizon": "unspecified",
+    "speaker": "Atul Lall",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p19-148-1",
+    "quote": "As far as the absolute number is concerned, it will be in the similar range",
+    "statement": "FY27 capex in a similar range to FY26 across display, IT and camera module capacity",
+    "metric": "capex",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY27",
+    "speaker": "Atul Lall",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p3-18-6",
+    "quote": "we expect the operation to commence by Q2 this fiscal",
+    "statement": "Noida 1 million sq ft facility to begin operations by Q2 FY27",
+    "metric": "capacity",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q2FY27",
+    "speaker": "Atul Lall",
+    "confidence": "high"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management gives specific FY27 revenue, segment and volume targets and says the balance sheet can fund capex, though it declines to guide to a precise number for mobile volumes."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DIXON guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4816,
+  "est_output_tokens": 1091,
+  "est_usd": 0.00103
+ }
+}

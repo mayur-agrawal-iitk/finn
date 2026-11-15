@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "Secured further orders worth Rs 909 Cr since 21 Oct 2026, covering optronic pedestals, communications, night vision and services.",
+  "so_what": "Routine order flow: Rs 909 Cr is about 3% of trailing revenue (Rs 30,253 Cr). Useful as a steady order run-rate signal, not a change in the story.",
+  "key_numbers": [
+   {
+    "label": "Additional orders",
+    "value": "Rs 909 Cr"
+   },
+   {
+    "label": "Since last disclosure",
+    "value": "21st October 2026"
+   },
+   {
+    "label": "Press release date",
+    "value": "06.11.2026"
+   }
+  ],
+  "expertise_needed": [
+   "defence electronics procurement",
+   "naval and army electronic systems"
+  ],
+  "questions": [
+   "How much of the Rs 909 Cr is near-term execution versus multi-year delivery, and what is the revenue timing?",
+   "Are any of these orders from new programmes rather than follow-on, upgrade or spares work?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BEL brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1055,
+  "est_output_tokens": 278,
+  "est_usd": 0.00024
+ }
+}

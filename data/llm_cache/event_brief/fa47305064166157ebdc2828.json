@@ -1,0 +1,42 @@
+{
+ "output": {
+  "one_line": "Shareholders passed the postal ballot approving Anup Bagchi as Director and MD & CEO; declared passed on Nov 6, 2026.",
+  "so_what": "Top-level leadership change now formally shareholder-approved; remuneration was approved by RBI. No amount is disclosed in the filing, so no direct financial impact is stated.",
+  "key_numbers": [
+   {
+    "label": "Resolution",
+    "value": "Appointment of Mr. Anup Bagchi as Director and MD & CEO"
+   },
+   {
+    "label": "Declared passed on",
+    "value": "Nov 6, 2026"
+   },
+   {
+    "label": "Postal ballot notice dated",
+    "value": "Oct 1, 2026"
+   },
+   {
+    "label": "Market cap",
+    "value": "₹ 12,40,766 Cr."
+   }
+  ],
+  "expertise_needed": [
+   "bank leadership succession",
+   "banking regulator approval of MD/CEO appointments",
+   "shareholder postal ballot governance"
+  ],
+  "questions": [
+   "What is the approved remuneration, tenure and transition plan for the new MD & CEO?",
+   "Does the change in top management alter the bank's strategy or any guidance on growth and margins?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HDFCBANK brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4215,
+  "est_output_tokens": 327,
+  "est_usd": 0.00059
+ }
+}

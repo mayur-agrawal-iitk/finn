@@ -1,0 +1,38 @@
+{
+ "output": {
+  "one_line": "Won fresh orders worth ₹619 crore since the Nov 6 disclosure, mainly communication equipment, drones, electro-optics and services.",
+  "so_what": "About 2% of trailing revenue (₹619 Cr vs ₹30,253 Cr): routine order flow for a defence PSU, positive but not material on its own.",
+  "key_numbers": [
+   {
+    "label": "Order value",
+    "value": "Rs. 619 Crore"
+   },
+   {
+    "label": "Previous disclosure",
+    "value": "6th November 2026"
+   },
+   {
+    "label": "Market cap",
+    "value": "₹ 2,93,012 Cr."
+   }
+  ],
+  "expertise_needed": [
+   "defence procurement",
+   "defence electronics",
+   "order book execution"
+  ],
+  "questions": [
+   "How much of the ₹619 crore is execution-ready this year, and what is the delivery timeline?",
+   "Does this order flow sit inside the larger pipeline, and does it change the product mix or margins?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BEL brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1118,
+  "est_output_tokens": 266,
+  "est_usd": 0.00024
+ }
+}

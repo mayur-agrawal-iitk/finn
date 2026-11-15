@@ -1,0 +1,41 @@
+{
+ "output": {
+  "basis": "consolidated",
+  "unit": "INR million (unit as cited in the auditor's review report; the statement table itself is not among these pages)",
+  "quarter_end": "2026-09-30",
+  "current": {
+   "revenue": null,
+   "ebitda": null,
+   "pbt": null,
+   "pat": null
+  },
+  "prev_quarter": {
+   "revenue": null,
+   "ebitda": null,
+   "pbt": null,
+   "pat": null
+  },
+  "year_ago": {
+   "revenue": null,
+   "ebitda": null,
+   "pbt": null,
+   "pat": null
+  },
+  "ebitda_method": "Not computed. The headline figures (PBT, finance costs, D&A, other income) are not printed on these pages, only the auditor's review reports and the board outcome.",
+  "notes": [
+   "The financial results tables are not included in these pages, so all headline figures are null.",
+   "Consolidated review report is present; the auditor draws attention to restatements of comparatives (Note 10 consolidated, Note 9 standalone) for quarter ended 30 June 2026, quarter and half year ended 30 September 2025, FY ended 31 March 2026 and 1 April 2025, for material prior period errors under Ind AS 8.",
+   "Group share of net loss from associate Mixx Technologies, Inc. (unreviewed, quarter lag) is not verified; the auditor's conclusion on the consolidated statement is qualified as to the effects of this matter.",
+   "Proposed voluntary strike-off of subsidiary Kaynes Embedded Systems Private Limited (KTIL holds 60%) and a joint venture with Toyokawa Techno Private Limited were approved by the board; no financial impact is quantified in these pages."
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "KAYNES results Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5384,
+  "est_output_tokens": 498,
+  "est_usd": 0.00079
+ }
+}

@@ -1,0 +1,314 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Retail-focused lender adding AUM at INR38,000-39,000 crore a quarter. In Q2 FY27 it booked 13.5 million new loans and added 4.42 million customers. Products include consumer loans, gold loans (through a branch network), MSME lending and a digital platform. It owns 87% of housing-finance subsidiary BHFL and intends to fall to a 75% holding. AI bots handle 75% of DIY service volumes. The inputs give no revenue split by segment.",
+   "segments": [
+    {
+     "name": "Consumer / retail lending",
+     "share_pct": null,
+     "comment": "13.5 million new loans in Q2 FY27 (+11% YoY), with 60-62 million guided for FY27. Origination share of 3+ loan (3PL) customers was cut from 14% to 7%, with a target of 3.5%."
+    },
+    {
+     "name": "Gold loans",
+     "share_pct": null,
+     "comment": "Targeted at INR29,000-31,000 crore of AUM, 2,700-2,800 branches and about 5% of total AUM by FY27 end."
+    },
+    {
+     "name": "MSME",
+     "share_pct": null,
+     "comment": "Guided back to double-digit growth between Q2 and Q3 FY27. The inputs give no figure."
+    },
+    {
+     "name": "Housing finance (BHFL subsidiary)",
+     "share_pct": null,
+     "comment": "87% held, with a 75% holding intended. Repivoting from super-prime/prime towards prime/near-prime, with some loans now at about INR500 crore a month."
+    },
+    {
+     "name": "Digital platform",
+     "share_pct": null,
+     "comment": "Targeted at INR50,000 crore of business in FY27 and INR100,000 crore in FY28."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C4",
+    "C5",
+    "C8",
+    "G7",
+    "G9",
+    "G10",
+    "G11",
+    "G22",
+    "G23"
+   ]
+  },
+  "credibility": {
+   "score": 66,
+   "label": "medium",
+   "summary": "Volume guidance is reliable and was raised mid-year, with FY27 AUM growth moving from 20-24% to 26-27%. Return and spread guidance is slipping: reported ROE is 18.0% against a 19-20% guide, now reframed as 3-year 'core ROE', and the 10-15 bps NIM-compression guide has picked up a 'marginal additional headwind'."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "on_track",
+    "evidence": "Raised from 20-24% (G16) to 26-27% on the Q2 FY27 call. Management says H1 growth was 26% (C6), and AUM additions have run at INR38,000-39,000 crore a quarter for two quarters (C4). AUM is not in the facts. Revenue grew 22.8% YoY in Q2 FY27.",
+    "actual": "H1 FY27 growth 26% per management"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "on_track",
+    "evidence": "The long-term 23-25% guide is unchanged. The revenue proxy fits: 3y CAGR 25.6%, 5y 25.2%. AUM growth is not in the facts.",
+    "actual": "Revenue CAGR 3y 25.6%, 5y 25.2%"
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "Fee income growth of 16-18% for FY27. The facts contain no fee-income line and the year is half done.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "Opex-to-NTI improvement of 25-40 bps, the third time this has been guided (G17, G8). The facts include no opex or NTI data.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "New loans of 60-62 million for FY27. Q2 FY27 delivered 13.5 million, or 4.5 million a month (C4). Q1 is not given. Hitting the target needs a seasonal H2 lift, which management attributes to a later festive season.",
+    "actual": "Q2 FY27: 13.5 million new loans"
+   },
+   {
+    "guidance_id": "G3",
+    "status": "at_risk",
+    "evidence": "The long-term guide is 20-25% PAT growth at 19-21% ROE. Reported ROE is 18.0% and the 3y PAT CAGR is 18.9%, both below their bands. Latest-quarter PAT growth was 28.7% YoY. Management instead cites 'core ROE of 19-20% on a 3-year basis' (C7), a different basis from reported ROE.",
+    "actual": "ROE 18.0%; PAT CAGR 3y 18.9%; Q2 FY27 PAT +28.7% YoY"
+   },
+   {
+    "guidance_id": "G5",
+    "status": "at_risk",
+    "evidence": "NIM compression of 10-15 bps, restated with a 'marginal additional headwind', so management itself now leans to or past the top of the range. The facts include no NIM. Revenue growth of 22.8% trails the 26-27% AUM growth guide.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "on_track",
+    "evidence": "The Q1 FY27 opex-to-NTI guide of 25-40 bps was repeated unchanged on the Q2 FY27 call (G6). That rests only on management's word, since the facts cannot check it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G16",
+    "status": "on_track",
+    "evidence": "Drift: the guide was raised from 20-24% (Q4 FY26) to 26-27% (Q2 FY27, G1). Management says H1 ran at 26% (C6), above the original band.",
+    "actual": "Raised to 26-27%; H1 26% per management"
+   },
+   {
+    "guidance_id": "G9",
+    "status": "pending",
+    "evidence": "Gold loan AUM of INR29,000-31,000 crore and 2,700-2,800 branches by FY27 end. No gold-loan AUM or branch count is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "pending",
+    "evidence": "Digital platform business of INR50,000 crore in FY27. No digital-platform volume figure appears in the Q2 FY27 context.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G11",
+    "status": "pending",
+    "evidence": "Target of INR100,000 crore for FY28, and the period has not begun.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "at_risk",
+    "evidence": "In Q1 FY27 management guided 10-15 bps moderation and asked to 'give us a quarter'. The Q2 FY27 call kept the range but added a 'marginal additional headwind' (G5). NIM is not in the facts.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "unverifiable",
+    "evidence": "The custom B2B AI model was due live in Q2 FY27. That quarter has ended, and the Q2 FY27 passages (C5, C6) cover AI bots and agentic apps but never confirm the custom model launched.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G15",
+    "status": "on_track",
+    "evidence": "Q2 FY27 added 4.42 million customers (C4), which annualises to about 17.7 million, at the top of the 15-17 million guide. Q1 additions are not given.",
+    "actual": "Q2 FY27: 4.42 million new customers"
+   },
+   {
+    "guidance_id": "G19",
+    "status": "unverifiable",
+    "evidence": "FY27 ROA guide of 4.4-4.6%, but the facts include no ROA. Reported ROE of 18.0% against a 19-20% guide points to softer returns, but does not settle the ROA guide.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G20",
+    "status": "at_risk",
+    "evidence": "Latest reported ROE is 18.0%, 100 bps below the bottom of the 19-20% FY27 guide. Management now cites 'core ROE' on a 3-year basis (C7) and has flagged a capital raise (C7), which would dilute ROE further.",
+    "actual": "ROE 18.0%"
+   },
+   {
+    "guidance_id": "G14",
+    "status": "pending",
+    "evidence": "Two new business lines are due by Jan-Feb 2027. The deadline has not arrived and the Q2 FY27 context has no update.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "on_track",
+    "evidence": "The 25-40 bps opex-to-NTI guide from Q4 FY26 was repeated in Q1 FY27 (G8) and Q2 FY27 (G6). The facts cannot check it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G22",
+    "status": "pending",
+    "evidence": "Gold loans to reach about 5% of AUM by FY27. The inputs give no gold-loan or total AUM split.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G23",
+    "status": "pending",
+    "evidence": "The window is Q2-Q3 FY27, which runs to December 2026. The Q2 FY27 passages give no MSME growth figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G24",
+    "status": "pending",
+    "evidence": "Target of 5 million loans in a single month. Q2 FY27 averaged 4.5 million a month (13.5 million per quarter, C4), and H2 has the festive season.",
+    "actual": "Q2 FY27 average 4.5 million a month"
+   },
+   {
+    "guidance_id": "G27",
+    "status": "unverifiable",
+    "evidence": "Aspiration to grow at 2x system growth over 5-7 years. The inputs give no system credit growth to compare against.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G25",
+    "status": "unverifiable",
+    "evidence": "Long-term ROA of 4.3-4.7%, but no ROA is in the facts.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Growth is running ahead of plan, and the FY27 guide was raised from 20-24% to 26-27%.",
+    "reality": "Revenue YoY accelerated every quarter: 16.5%, 18.1%, 18.6%, then 22.8%. Q2 FY27 PAT rose 28.7% YoY. The direction matches, though revenue growth still trails the AUM guide by 3-4 points.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G16",
+     "G1",
+     "C6",
+     "F:rev_yoy_last4_pct",
+     "F:pat_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "Management says it delivers 'core ROE of between 19% and 20% on a 3-year basis' and guides FY27 ROE at 19-20%.",
+    "reality": "Reported ROE is 18.0% and the 3y PAT CAGR is 18.9%, against a 20-25% long-term PAT-growth target. The 3y margin change is -600 bps. The 'core' framing covers a shortfall on reported numbers.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C7",
+     "G20",
+     "G3",
+     "F:roe_latest_pct",
+     "F:pat_cagr_3y",
+     "F:margin_change_3y_bps"
+    ]
+   },
+   {
+    "claim": "FY27 is likely one of the lowest credit-cost years in 4 years. The overlay is 'bullet proofing', not a response to stress, and the Q2 GNPA uptick is a day-count effect.",
+    "reality": "Q2 FY27 margin was 34.8%, against 33.1% a year earlier, consistent with lower credit costs. Stage 2+3 ex-gold improved only from 1.90% to 1.88%. The facts include no credit cost or GNPA, and Q3 FY26 margin dipped to 25.8% without explanation in the inputs.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "C6",
+     "C3",
+     "C2",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:margin_last4_pct"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "The FY27 growth guide was raised 6 points at the midpoint, from 20-24% to 26-27%. H1 grew 26% per management, AUM is adding INR38,000-39,000 crore a quarter, and revenue YoY has accelerated from 16.5% to 22.8% over four quarters.",
+    "evidence_ids": [
+     "G16",
+     "G1",
+     "C6",
+     "C4",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "point": "Earnings are compounding: Q2 FY27 PAT rose 28.7% YoY and margin reached 34.8%, against 33.1% a year ago. TTM PAT is INR22,067 crore on INR90,330 crore of revenue.",
+    "evidence_ids": [
+     "F:pat_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:ttm_pat_cr",
+     "F:ttm_revenue_cr"
+    ]
+   },
+   {
+    "point": "Customer acquisition is at the top of guidance: 4.42 million added in Q2 FY27, which annualises to about 17.7 million against a 15-17 million guide. Risk is being tightened at the same time, with 3PL origination share halved from 14% to 7% and a 3.5% target within 6 months.",
+    "evidence_ids": [
+     "G15",
+     "C4",
+     "C1"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Returns are below guide: reported ROE is 18.0% against 19-20% for FY27 and 19-21% long-term. Management is shifting to a 3-year 'core ROE' basis and flags a capital raise. D/E is 4.08x on INR5.02 lakh crore of borrowings.",
+    "evidence_ids": [
+     "F:roe_latest_pct",
+     "G20",
+     "G3",
+     "C7",
+     "F:debt_to_equity",
+     "F:borrowings_cr"
+    ]
+   },
+   {
+    "point": "Spreads are thinning: the 10-15 bps NIM-compression guide now carries a 'marginal additional headwind', and Q2 FY27 revenue growth of 22.8% runs below the 26-27% balance-sheet growth guide. The 3y PAT CAGR of 18.9% sits below the 20-25% target.",
+    "evidence_ids": [
+     "G5",
+     "G12",
+     "G1",
+     "F:rev_yoy_last_q_pct",
+     "F:pat_cagr_3y"
+    ]
+   },
+   {
+    "point": "Growth is being pushed while risk controls tighten: the growth guide went up even as management builds overlays, plans to halve 3PL origination again by February, and sees GNPA rising in Q2. The 25.8% margin in Q3 FY26 shows how much one bad quarter can cost.",
+    "evidence_ids": [
+     "G1",
+     "C1",
+     "C3",
+     "C2",
+     "F:margin_last4_pct"
+    ]
+   }
+  ],
+  "questions": [
+   "Reported ROE is 18.0% against your 19-20% FY27 guide. What reported (not 'core') ROE do you expect for FY27, and how many basis points will the planned capital raise take off it?",
+   "How many basis points beyond the 10-15 bps range is the 'marginal additional headwind' on NIM, and is it funding cost, mix, or pricing to support 26-27% growth?",
+   "Q2 FY27 delivered 13.5 million new loans, or 4.5 million a month. What H2 run-rate does the 60-62 million FY27 guide require, and how much volume does halving 3PL origination again by February remove?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BAJFINANCE synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 5592,
+  "est_output_tokens": 6071,
+  "est_usd": 0.14379
+ }
+}

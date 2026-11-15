@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "Clarifies media reports: the FEMA non-compliance on Jockey and Speedo retail trading was already disclosed in FY26 audited accounts.",
+  "so_what": "Not new: flagged in the audited FY26 notes (Note 40) filed Jul 16, 2026. No amount stated, so the financial size is unknown; the risk is regulatory.",
+  "key_numbers": [
+   {
+    "label": "Previously disclosed in",
+    "value": "Note 40(b)(iv), FY26 audited accounts, filed 16 July 2026"
+   },
+   {
+    "label": "Brands involved",
+    "value": "Jockey and Speedo"
+   },
+   {
+    "label": "Market cap",
+    "value": "₹ 34,940 Cr."
+   }
+  ],
+  "expertise_needed": [
+   "FEMA compliance",
+   "foreign exchange rules for retail trading"
+  ],
+  "questions": [
+   "What is the size and nature of the non-compliance, and has any regulator taken action?",
+   "What remediation is in place for the retail trading of Jockey and Speedo products?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "PAGEIND brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 842,
+  "est_output_tokens": 281,
+  "est_usd": 0.00022
+ }
+}

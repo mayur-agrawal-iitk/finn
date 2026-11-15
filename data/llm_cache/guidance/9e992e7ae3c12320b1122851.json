@@ -1,0 +1,71 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY26-p6-20-1",
+    "quote": "Our intent, I think I mentioned this in the past as well, is to reach a near double-digit growth in terms of performance by the company",
+    "statement": "Aspire to near double-digit company growth; no date given",
+    "metric": "revenue_growth",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "unspecified",
+    "speaker": "Karthik Yathindra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY26-p10-68-1",
+    "quote": "And as we keep telling, we are very happy with the 19% to 21% EBITDA. And we are very confident we can be in that range",
+    "statement": "EBITDA margin within a 19-21% band",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 19,
+    "target_high": 21,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "V.S. Ganesh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY26-p8-38-1",
+    "quote": "We plan to spend around INR140 crores in FY '26",
+    "statement": "FY26 capex of about INR 140 crore",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 140,
+    "target_high": 140,
+    "unit": "INR crore",
+    "horizon": "FY26",
+    "speaker": "Deepanjan B.",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY26-p11-70-1",
+    "quote": "for the year, we generally maintain a 4%, 4.5% budget",
+    "statement": "Marketing budget of 4-4.5% for the year",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 4,
+    "target_high": 4.5,
+    "unit": "%",
+    "horizon": "FY26",
+    "speaker": "V.S. Ganesh",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "mixed",
+   "why": "Management admits first-half revenue has been subpar against internal targets, but is confident about the 19-21% EBITDA margin band and the capex and marketing budgets."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "PAGEIND guidance Q2 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 2679,
+  "est_output_tokens": 578,
+  "est_usd": 0.00056
+ }
+}

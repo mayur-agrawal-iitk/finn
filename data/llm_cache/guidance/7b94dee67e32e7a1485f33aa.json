@@ -1,0 +1,84 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q1FY25-p3-12-1",
+    "quote": "A broad trend line will be around the current run rates of around 23%",
+    "statement": "General merchandise and apparel (GMA) share trend line of around 23%",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 23,
+    "target_high": 23,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Neville Noronha",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY25-p9-25-1",
+    "quote": "typically 10% to 15% of my number count should be my new store opening, broadly",
+    "statement": "New store openings of about 10-15% of the existing store count each year",
+    "metric": "capacity",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 15,
+    "unit": "% of store count",
+    "horizon": "unspecified",
+    "speaker": "Neville Noronha",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY25-p9-25-1",
+    "quote": "So, you will see a 40, 40, 40.",
+    "statement": "About 40 new stores per year",
+    "metric": "capacity",
+    "kind": "quantitative",
+    "target_low": 40,
+    "target_high": 40,
+    "unit": "stores per year",
+    "horizon": "unspecified",
+    "speaker": "Neville Noronha",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q1FY25-p14-51-1",
+    "quote": "whatever we do today, 14%-15% gross margin, we're going to play around that",
+    "statement": "Gross margin to stay in a 14-15% range",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 14,
+    "target_high": 15,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Neville Noronha",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY25-p56-315-1",
+    "quote": "The theme is the same, 15%, 20%. Okay? You replace everything that I said, 15% with 20% even for this year, right? That's the aspiration.",
+    "statement": "Aspirational 15-20% CAGR growth, with store addition as the driver",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": 20,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Neville Noronha",
+    "confidence": "low"
+   }
+  ],
+  "tone": {
+   "label": "cautious",
+   "why": "Management says it will not give forward-looking numbers, tempers expectations on GMA share and gross margin, and calls even a 15% CAGR aspiration dependent on store additions."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DMART guidance Q1 FY25",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5295,
+  "est_output_tokens": 724,
+  "est_usd": 0.00089
+ }
+}

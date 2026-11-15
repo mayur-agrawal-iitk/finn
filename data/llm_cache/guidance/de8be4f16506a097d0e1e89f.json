@@ -1,0 +1,149 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p3-14-10",
+    "quote": "For FY27, we are guiding an AUM growth of 20.0-25.0%",
+    "statement": "FY27 AUM growth guidance of 20-25%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 25,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-14-10",
+    "quote": "NIM of 12.8-13.2%",
+    "statement": "FY27 NIM guidance of 12.8-13.2%",
+    "metric": "nim",
+    "kind": "quantitative",
+    "target_low": 12.8,
+    "target_high": 13.2,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-14-10",
+    "quote": "cost to income of 33.0-35.0%",
+    "statement": "FY27 cost-to-income guidance of 33-35%",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 33,
+    "target_high": 35,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-14-10",
+    "quote": "credit cost of 3.0-4.0%",
+    "statement": "FY27 credit cost guidance of 3-4%",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": 3,
+    "target_high": 4,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-14-10",
+    "quote": "ROA of 4.0-4.8%",
+    "statement": "FY27 ROA guidance of 4.0-4.8%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 4.0,
+    "target_high": 4.8,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-14-10",
+    "quote": "an ROE of 16.0-20.0%",
+    "statement": "FY27 ROE guidance of 16-20%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 16,
+    "target_high": 20,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p15-84-1",
+    "quote": "the microfinance growth being in the range of 10-12%",
+    "statement": "Microfinance loan growth of 10-12%, with rest of growth from non-MFI",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 12,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p15-85-1",
+    "quote": "So that is why the net growth in MFI will be 12%.",
+    "statement": "Net MFI growth of about 12% after graduations",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 12,
+    "target_high": 12,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Nilesh Dalvi",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p16-96-1",
+    "quote": "we should see them achieving breakeven as we near maybe INR 800 Crore to INR 1,000 Crore of mortgage book",
+    "statement": "Standalone mortgage branches to break even at INR 800-1,000 crore mortgage book",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": 800,
+    "target_high": 1000,
+    "unit": "INR crore",
+    "horizon": "unspecified",
+    "speaker": "Nilesh Dalvi",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q4FY26-p7-17-1",
+    "quote": "roughly around 6-8% of our customer base, we should be able to target, convert to retail finance customers every year",
+    "statement": "Convert about 6-8% of customers to retail finance each year",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 6,
+    "target_high": 8,
+    "unit": "%",
+    "horizon": "yearly",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "mixed",
+   "why": "Management reaffirms FY27 guidance and calls Q4 an inflection, but acknowledges a credit cost miss versus guidance and widens the credit-cost range to absorb macro uncertainty."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "CREDITACC guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5380,
+  "est_output_tokens": 1195,
+  "est_usd": 0.00114
+ }
+}

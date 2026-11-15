@@ -1,0 +1,78 @@
+{
+ "output": {
+  "changes": [
+   {
+    "name": "Sanjeev Shankaran",
+    "role": "Vice President - General Merchandising",
+    "change": "appointed",
+    "effective_date": "2026-11-16",
+    "is_kmp": true,
+    "bio": "A commerce graduate who completed a part-time PGDM from AIMA Delhi in 2005. He joined Dmart in September 2021 after two decades of prior work, including at Dabur as National Key Account Manager, MT & Ecom Head.",
+    "age": null,
+    "career": [
+     {
+      "org": "Dmart",
+      "role": null,
+      "start_year": 2021,
+      "end_year": null
+     },
+     {
+      "org": "Dabur India Ltd",
+      "role": "National Key Account Manager, MT & Ecom Head",
+      "start_year": null,
+      "end_year": null
+     },
+     {
+      "org": "Kellogs",
+      "role": null,
+      "start_year": null,
+      "end_year": null
+     }
+    ],
+    "education": [
+     {
+      "institution": "AIMA Delhi",
+      "degree": "PGDM (part time)",
+      "year": 2005
+     },
+     {
+      "institution": "Not named in filing",
+      "degree": "Commerce graduate",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Dastgir Shaikh",
+    "role": "Vice President - FMCG",
+    "change": "redesignated",
+    "effective_date": "2026-11-16",
+    "is_kmp": true,
+    "bio": "The filing gives no brief profile. He continues as Senior Management Personnel of the Company.",
+    "age": null,
+    "career": [],
+    "education": []
+   },
+   {
+    "name": "Sachin Jaolekar",
+    "role": "Vice President - FMCG",
+    "change": "other",
+    "effective_date": "2026-11-16",
+    "is_kmp": true,
+    "bio": "The filing gives no brief profile. He moves to Avenue E-Commerce Limited as Vice President - Category Management and ceases as Senior Management Personnel of the Company.",
+    "age": null,
+    "career": [],
+    "education": []
+   }
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DMART people",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1322,
+  "est_output_tokens": 509,
+  "est_usd": 0.00039
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "Shrirang Anilrao Kothe appointed CEO (Helicopter Complex) effective 13 Nov 2026; no amount disclosed",
+  "so_what": "Routine senior-management appointment for one unit's CEO. No amount or financial figure is disclosed, so there is nothing to size against TTM revenue of INR 34,769 cr.",
+  "key_numbers": [
+   {
+    "label": "Date of change",
+    "value": "13.11.2026"
+   },
+   {
+    "label": "Designation",
+    "value": "CEO (Helicopter Complex)"
+   },
+   {
+    "label": "Reason of change",
+    "value": "Appointment"
+   }
+  ],
+  "expertise_needed": [
+   "defence PSU management",
+   "helicopter manufacturing operations"
+  ],
+  "questions": [
+   "Does this appointment fill a vacancy, and who ran the helicopter complex before it?",
+   "Does the new CEO's remit change production or delivery targets for the helicopter programmes?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HAL brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 721,
+  "est_output_tokens": 263,
+  "est_usd": 0.0002
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q1FY27-p14-63-1",
+    "quote": "the provision coverage will be in the 70s, mid-70s or higher",
+    "statement": "Unsecured book provision coverage in the 70s (mid-70s or higher)",
+    "metric": "asset_quality",
+    "kind": "quantitative",
+    "target_low": 70,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Srinivasan Vaidyanathan",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "cautious",
+   "why": "Management declines to commit to numbers on deposit mobilisation, saying \"we just don't want to commit any number\"."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HDFCBANK guidance Q1 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 2895,
+  "est_output_tokens": 188,
+  "est_usd": 0.00038
+ }
+}

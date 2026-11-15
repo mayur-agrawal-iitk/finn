@@ -1,0 +1,278 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Retail lender to semi-urban and rural customers at smaller ticket sizes than the larger NBFCs and HFCs. About 4.5 lakh customers, with AUM approaching INR250 billion in October 2026. Growth comes from branch expansion, loan-officer productivity and ticket size; about 19% of exposure is in Maharashtra.",
+   "segments": [
+    {
+     "name": "Retail loans, semi-urban and rural",
+     "share_pct": null,
+     "comment": "The inputs give no product or segment revenue split. Management positions its ticket size as distinct from large NBFCs and HFCs (C1)."
+    },
+    {
+     "name": "Maharashtra exposure",
+     "share_pct": null,
+     "comment": "About 19% of exposure (stated in an analyst question, C5), not a revenue share. A drought in parts of the state is a live risk."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C3",
+    "C4",
+    "C5"
+   ]
+  },
+  "credibility": {
+   "score": 50,
+   "label": "medium",
+   "summary": "The one target the inputs let us check was met (FY26 spread of 5.2% against roughly 5.25%). Growth targets have been reset downward: 25%+ disbursement growth, then a 17-18% FY27 AUM guide, with about 16% running. Spread guidance has flipped direction three times in three calls: 5%+, then sub-5%, then above 5% and improving. Credit-cost and opex promises cannot be tested from the inputs."
+  },
+  "promises": [
+   {
+    "guidance_id": "G7",
+    "status": "at_risk",
+    "evidence": "The analyst on the Q2 FY27 call put current AUM growth at about 16% (C2), below the 17-18% guide, and management did not dispute it. Revenue growth slowed to 10.3% YoY in Q2 from 12.4-12.9% in the prior three quarters.",
+    "actual": "About 16% AUM growth (C2)"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "The target is about 1.5 files per month by end FY27. The inputs give no current productivity figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "pending",
+    "evidence": "A medium-term target with no date. Current growth is about 16% (C2), and management's own breakdown (8% from branches, 10% from productivity, 5-7% from ticket size) adds up to 23-25%, not the '20%+' it is presented as (C3).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G16",
+    "status": "at_risk",
+    "evidence": "The inputs give no disbursement figure. On the Q2 call management accepted that incremental disbursements are 'a tad bit lower' and called it the business cycle (C1). The drift list calls this guide lowered to G7, but G7 is AUM growth and G16 is disbursement growth, so that is not a like-for-like revision.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G1",
+    "status": "unverifiable",
+    "evidence": "October 2026 has ended, but the inputs do not confirm AUM crossed INR250 billion. The Q2 call said only that it was 'on track' (C4).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "unverifiable",
+    "evidence": "No horizon was given and the inputs report no opex ratio.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "Reaffirmed in Q2 FY27 (C1) one quarter after management said spreads would go below 5% (G9). The inputs report no spread figure after Q4 FY26's 5.2% (C6).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "unverifiable",
+    "evidence": "The inputs report no credit-cost figure. A drought in Maharashtra (about 19% of exposure) is flagged as a risk (C5).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "walked_back",
+    "evidence": "The Q1 FY27 forecast that spreads would fall below 5% for FY27 was reversed one call later: Q2 FY27 said 'confident of maintaining spreads above 5%' and that spreads and NIM would improve (G4, G5). The inputs give no spread figure to show which call was right.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G18",
+    "status": "unverifiable",
+    "evidence": "The inputs give no Q4 FY26 disbursement figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "unverifiable",
+    "evidence": "Below-25 bps guide reiterated in Q2 FY27 (G6). The inputs report no credit-cost figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G11",
+    "status": "at_risk",
+    "evidence": "In Q4 FY26 the aspiration was 'consistently' 20%+ AUM growth. One call later the FY27 guide was 17-18% (G7) and 20% was moved to 'over the medium term' (G8). Current growth is about 16% (C2).",
+    "actual": "About 16% AUM growth (C2)"
+   },
+   {
+    "guidance_id": "G12",
+    "status": "unverifiable",
+    "evidence": "Spread was 5.2% at FY26 (C6). The next call predicted it would fall below 5% (G9), and the call after that reaffirmed above 5% (G4). The inputs report no FY27 spread.",
+    "actual": "5.2% at FY26 (C6)"
+   },
+   {
+    "guidance_id": "G15",
+    "status": "unverifiable",
+    "evidence": "Below-25 bps credit-cost guide repeated in Q4 FY26 and Q2 FY27 (G10, G6). The inputs report no credit-cost figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "delivered",
+    "evidence": "In Q4 FY26 management reported reaching a 5.2% spread (C6) against 'roughly 5.25%' guided for year end: 5 bps short, within the 'roughly' qualifier. Cost of borrowing fell 62 bps over the year.",
+    "actual": "5.2% spread at FY26 (C6)"
+   },
+   {
+    "guidance_id": "G19",
+    "status": "pending",
+    "evidence": "The target is 25 bps of opex savings in FY27. The inputs report no opex-to-assets figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "pending",
+    "evidence": "Conditional on the balance sheet doubling to about INR500 billion AUM (C2). AUM is around INR250 billion today (C4).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "unverifiable",
+    "evidence": "The inputs report no balance-transfer-out figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G20",
+    "status": "pending",
+    "evidence": "The two-year window runs to about FY28. The inputs report no credit-cost figure; drought in Maharashtra (C5) is the near-term risk.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G21",
+    "status": "at_risk",
+    "evidence": "Latest ROE is 14.0%. Without fresh equity, net worth can grow only at roughly ROE less dividends, about 14% or less, which is below the 16-18% path.",
+    "actual": "ROE 14.0%"
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "Given in Q2 FY27 for 'coming quarters'. The inputs give no NIM or spread series. Margin was 32.1% in Q2 against 31.6% a year ago.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "A path to 20%+ volume CAGR from branches (8%), productivity (10%) and ticket size (5-7%) as AUM heads to INR500 billion (C3, C2).",
+    "reality": "Current AUM growth is about 16% (C2) against a 17-18% FY27 guide (G7), and revenue growth slowed to 10.3% in Q2 from 12.9%. The three components add up to 23-25%, not 20%+, so the arithmetic itself is loose.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C3",
+     "C2",
+     "G7",
+     "F:rev_yoy_last4_pct",
+     "F:rev_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "Spread of about 5.25% by FY26 year end (G17).",
+    "reality": "Spread reached 5.2% at FY26, helped by a 62 bps fall in cost of borrowing (C6).",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G17",
+     "C6"
+    ]
+   },
+   {
+    "claim": "Spreads to stay above 5% and NIM to improve over coming quarters (G4, G5).",
+    "reality": "One call earlier management forecast spreads going below 5% (G9). The inputs give no FY27 spread figure; reported margin was steady at 32.1% in Q2 against 31.6% a year ago.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G4",
+     "G5",
+     "G9",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   },
+   {
+    "claim": "Net worth growth of 16-18% over the next two years alongside 20% medium-term AUM growth (G21, G8).",
+    "reality": "Latest ROE of 14.0% cannot fund 16-18% net worth growth internally. Growing AUM at 20% on about 14% capital growth pushes debt/equity above its current 3.05.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G21",
+     "G8",
+     "F:roe_latest_pct",
+     "F:debt_to_equity"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Spread delivery: FY26 spread reached 5.2% against roughly 5.25% guided, with cost of borrowing down 62 bps. Reported margin has held at 31.0-32.5% for four quarters and was 32.1% in Q2 against 31.6% a year earlier.",
+    "evidence_ids": [
+     "G17",
+     "C6",
+     "F:margin_last4_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   },
+   {
+    "point": "Steady compounding: PAT CAGR of 15.1% over three years and 17.7% over five, Q2 PAT up 11.0% YoY, TTM PAT INR705 crore.",
+    "evidence_ids": [
+     "F:pat_cagr_3y",
+     "F:pat_cagr_5y",
+     "F:pat_yoy_last_q_pct",
+     "F:ttm_pat_cr"
+    ]
+   },
+   {
+    "point": "Named growth levers: 8% from branches, 10% from productivity and 5-7% from ticket size, with productivity targeted at 1.5 files per month by end FY27. Management said AUM was on track to cross INR250 billion in October.",
+    "evidence_ids": [
+     "C3",
+     "G2",
+     "C4"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Growth targets keep resetting lower: 25%+ disbursement growth (Q3 FY26) became a 17-18% AUM guide (Q1 FY27), with about 16% now. Revenue growth fell to 10.3% in Q2.",
+    "evidence_ids": [
+     "G16",
+     "G7",
+     "C2",
+     "F:rev_yoy_last_q_pct"
+    ]
+   },
+   {
+    "point": "Spread guidance has flip-flopped in three straight calls: 5%+ (Q4 FY26), sub-5% (Q1 FY27), above 5% and improving (Q2 FY27). No spread figure is disclosed in the inputs to settle it.",
+    "evidence_ids": [
+     "G12",
+     "G9",
+     "G4",
+     "G5"
+    ]
+   },
+   {
+    "point": "Capital and credit: debt/equity 3.05 on INR16,485 crore of borrowings and ROE of 14.0%, below the 16-18% net worth growth target. About 19% of exposure is in drought-hit Maharashtra, and the credit-cost promise of under 25 bps cannot be tested from the inputs.",
+    "evidence_ids": [
+     "F:debt_to_equity",
+     "F:borrowings_cr",
+     "F:roe_latest_pct",
+     "G21",
+     "C5",
+     "G6"
+    ]
+   }
+  ],
+  "questions": [
+   "Did AUM cross INR250 billion in October as guided? What was YoY AUM growth at end-October against the 17-18% FY27 guide, and what disbursement growth is implied given the 25%+ target set in Q3 FY26?",
+   "What spread did you report in Q1 and Q2 FY27? What changed between the Q1 call (spreads to go sub-5%) and the Q2 call (above 5% and improving)?",
+   "What share of the Maharashtra book (about 19% of exposure) is in drought-affected districts, and what were Q2 credit cost and early-bucket delinquencies there against the under-25 bps guide?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AAVAS synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 4516,
+  "est_output_tokens": 5144,
+  "est_usd": 0.12094
+ }
+}

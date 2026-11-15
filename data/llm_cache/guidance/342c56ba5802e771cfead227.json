@@ -1,0 +1,149 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p6-18-2",
+    "quote": "our objective was to deliver around 25% growth",
+    "statement": "Full-year FY27 growth of around 25%, guidance held (not raised)",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 25,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Viral Shah",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p6-18-2",
+    "quote": "maintaining net credit costs at approximately 1.4% for the full year",
+    "statement": "Full-year FY27 net credit cost of about 1.4%, guidance held",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": 1.4,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Viral Shah",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p7-22-1",
+    "quote": "we are confident with the second half number better than first half",
+    "statement": "H2FY27 growth expected to be better than H1; existing targets held",
+    "metric": "other",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "H2FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p12-46-2",
+    "quote": "we expect the Opex ratio to remain broadly in the 3.0% to 3.1% range in the near term",
+    "statement": "Opex ratio to stay around 3.0-3.1% in the near term",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 3.0,
+    "target_high": 3.1,
+    "unit": "%",
+    "horizon": "near term",
+    "speaker": "Ravindra Kundu",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p12-46-3",
+    "quote": "over the next two to three years, our objective is to drive further operating efficiencies and gradually bring the Opex ratio down to around 2.8%",
+    "statement": "Opex ratio down to about 2.8% over the next 2-3 years",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 2.8,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "next 2-3 years",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p13-54-1",
+    "quote": "we expect the cost of funds to increase by around 20 basis points",
+    "statement": "Cost of funds to rise by about 20 bps",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": null,
+    "unit": "bps",
+    "horizon": "unspecified",
+    "speaker": "Arul Selvan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p9-28-1",
+    "quote": "disbursements in October are expected to grow by approximately 18% year-on-year",
+    "statement": "October 2026 disbursements to grow about 18% year-on-year",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 18,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "Oct-2026",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p5-17-2",
+    "quote": "these businesses can comfortably deliver a pre-tax ROA in excess of 4% over the medium term",
+    "statement": "Pre-tax ROA above 4% over the medium term for the two businesses not yet disclosed separately",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 4,
+    "target_high": null,
+    "unit": "% pre-tax ROA",
+    "horizon": "medium term",
+    "speaker": "Can you -",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p21-126-1",
+    "quote": "they are going to be within 15% max in the near term",
+    "statement": "Small-ticket, consumer and gold book to stay within 15% of the mix in the near term",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 15,
+    "unit": "%",
+    "horizon": "near term",
+    "speaker": "Ravindra Kundu",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q2FY27-p3-11-3",
+    "quote": "the Board has approved a proposal to raise up to INR5,000 crores of capital",
+    "statement": "Capital raise of up to INR 5,000 crore, subject to shareholder and regulatory approvals",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": 5000,
+    "unit": "INR crore",
+    "horizon": "unspecified",
+    "speaker": "Vellayan Subbiah",
+    "confidence": "high"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says it is not revising guidance because it is confident the second half will be better than the first and that the existing targets will be held (p7-22-1)."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "CHOLAFIN guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5227,
+  "est_output_tokens": 1375,
+  "est_usd": 0.00121
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q1FY27-p7-34-1",
+    "quote": "The current year’s guidance is 17-18% AUM growth",
+    "statement": "FY27 AUM growth guidance of 17-18%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 17,
+    "target_high": 18,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Manu Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p3-11-1",
+    "quote": "deliver sustainable 20% growth over the medium term",
+    "statement": "Medium-term sustainable AUM growth of 20%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "medium term",
+    "speaker": "Manu Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p5-15-1",
+    "quote": "I do believe that spread compression from the existing point will take spread to go sub- 5%",
+    "statement": "Spread expected to fall below 5% over the full year",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 5,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Manu Singh",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "mixed",
+   "why": "Management is confident of its cost levers and 20% medium-term growth, but expects spread compression to take spreads below 5% over the full year."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AAVAS guidance Q1 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 2463,
+  "est_output_tokens": 412,
+  "est_usd": 0.00045
+ }
+}

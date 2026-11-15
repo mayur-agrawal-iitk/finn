@@ -1,0 +1,123 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p4-13-1",
+    "quote": "We are also expecting our net credit cost to decline from 1.6% pre-overlay to around 1.5%.",
+    "statement": "FY27 net credit cost of around 1.5% (from 1.6% pre-overlay)",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": 1.5,
+    "target_high": 1.5,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p4-13-1",
+    "quote": "we continue to maintain our committed growth trajectory of 20% to 23%",
+    "statement": "FY27 overall company growth of 20-23%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 23,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p7-39-1",
+    "quote": "pretax ROA should comfortably cross 3% during the current financial year",
+    "statement": "Pre-tax ROA to comfortably cross 3% in FY27",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 3,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p9-50-1",
+    "quote": "We expect NIMs to hold at approximately the 8% level.",
+    "statement": "NIM held at about 8% in FY27",
+    "metric": "nim",
+    "kind": "quantitative",
+    "target_low": 8,
+    "target_high": 8,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Arul Selvan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p18-135-1",
+    "quote": "we expect operating expenses to remain around 3% of average assets on an overall basis",
+    "statement": "Operating expenses around 3% of average assets overall in FY27; no operating leverage assumed",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 3,
+    "target_high": 3,
+    "unit": "% of average assets",
+    "horizon": "FY27",
+    "speaker": "Arul Selvan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p11-62-1",
+    "quote": "we are guiding towards disbursement growth of around 15% to 20% and asset growth of approximately 18%",
+    "statement": "Vehicle Finance asset growth of about 18% in FY27 (disbursement growth 15-20%)",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 18,
+    "target_high": 18,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p13-84-1",
+    "quote": "We remain confident of achieving asset growth of 25% or higher in the Home Loan and LAP businesses.",
+    "statement": "Home Loan and LAP asset growth of 25% or higher in FY27",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 25,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p13-83-1",
+    "quote": "This should enable us to sustain a ROTA of 4.2% or higher.",
+    "statement": "ROTA of 4.2% or higher in the coming year",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 4.2,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Prashant",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management reiterates its 20-23% growth, 1.5% credit cost and 3%-plus pre-tax ROA targets and attributes the disbursement slowdown in home loans and LAP to election-related documentation delays."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "CHOLAFIN guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5517,
+  "est_output_tokens": 1086,
+  "est_usd": 0.00109
+ }
+}

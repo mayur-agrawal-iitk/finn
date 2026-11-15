@@ -1,0 +1,71 @@
+{
+ "output": {
+  "changes": [
+   {
+    "name": "Shrirang Anilrao Kothe",
+    "role": "CEO (Helicopter Complex)",
+    "change": "appointed",
+    "effective_date": "13.11.2026",
+    "is_kmp": true,
+    "bio": "The filing gives no brief profile for him. It records his appointment as CEO (Helicopter Complex) with effect from 13.11.2026.",
+    "age": null,
+    "career": [],
+    "education": []
+   },
+   {
+    "name": "P B Rangarao",
+    "role": "Director (Operations)",
+    "change": "appointed",
+    "effective_date": null,
+    "is_kmp": true,
+    "bio": "Holds a Bachelor's degree in Mechanical Engineering from Regional Engineering College, Warangal, and joined HAL on July 17, 1995 as part of the 3rd batch of Design Trainees. He had most recently served as Chief Executive Officer (Helicopter Complex) before this appointment as Director (Operations).",
+    "age": null,
+    "career": [
+     {
+      "org": "Hindustan Aeronautics Limited",
+      "role": "Director (Operations); previously CEO (Helicopter Complex), Executive Director (Helicopter Division) and General Manager (Helicopter Division)",
+      "start_year": 1995,
+      "end_year": null
+     }
+    ],
+    "education": [
+     {
+      "institution": "Regional Engineering College, Warangal",
+      "degree": "Bachelor's degree in Mechanical Engineering",
+      "year": null
+     },
+     {
+      "institution": "XIME, Bengaluru",
+      "degree": "Post Graduate Diploma in Business Management",
+      "year": null
+     },
+     {
+      "institution": "Indian Institute of Management (IIM), Ahmedabad",
+      "degree": "Leadership Development Program",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Kota Ravi",
+    "role": "Chairman and Managing Director",
+    "change": "other",
+    "effective_date": "with immediate effect",
+    "is_kmp": true,
+    "bio": "The filing states that he ceased to hold the additional charge of Director (Operations) with immediate effect, on the appointment of P B Rangarao as Director (Operations).",
+    "age": null,
+    "career": [],
+    "education": []
+   }
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HAL people",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1601,
+  "est_output_tokens": 607,
+  "est_usd": 0.00046
+ }
+}

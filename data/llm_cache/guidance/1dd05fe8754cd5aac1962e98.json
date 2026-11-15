@@ -1,0 +1,162 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY23-p3-11-3",
+    "quote": "we will be able to reach a double-digit growth of 10% from '24- '25 onwards",
+    "statement": "Double-digit revenue growth (10%) from FY25 onwards",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY25 onwards",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY23-p14-76-1",
+    "quote": "it will be somewhere around 10% to 11%",
+    "statement": "FY25 revenue growth of 10-11%",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 11,
+    "unit": "%",
+    "horizon": "FY25",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY23-p14-73-2",
+    "quote": "we expect the growth at around 12% to 13% and then stabilize at around 14% to 15%",
+    "statement": "Growth of 12-13% beyond FY25, stabilising at 14-15%",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 12,
+    "target_high": 13,
+    "unit": "%",
+    "horizon": "beyond FY25",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY23-p14-76-2",
+    "quote": "It will be hovering somewhere around 18%, 19%.",
+    "statement": "Operating profit margin hovering around 18-19%",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 18,
+    "target_high": 19,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY23-p3-11-6",
+    "quote": "We will settle down at 26%, 27%.",
+    "statement": "EBITDA margin to settle at 26-27% from FY23 peak of 31%",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 26,
+    "target_high": 27,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY23-p3-11-9",
+    "quote": "So we expect estimated order value of almost INR48,000 crores to get concluded in the coming financial year",
+    "statement": "Order inflow of about INR48,000 crore in FY24",
+    "metric": "order_inflow",
+    "kind": "quantitative",
+    "target_low": 48000,
+    "target_high": 48000,
+    "unit": "INR crore",
+    "horizon": "FY24",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY23-p7-18-1",
+    "quote": "we expect the order book accretion year-on-year will be on an average, it should be INR17,000 crores to INR18,000 crores",
+    "statement": "Average ROH order book of INR17,000-18,000 crore",
+    "metric": "order_book",
+    "kind": "quantitative",
+    "target_low": 17000,
+    "target_high": 18000,
+    "unit": "INR crore",
+    "horizon": "unspecified",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY23-p16-85-3",
+    "quote": "INR65,000 crores is what, in our opinion, we will get the AON's approved, which will happen in the next 2 to 5 years' timeframe",
+    "statement": "Further AON approvals worth about INR65,000 crore expected over 2-5 years",
+    "metric": "order_inflow",
+    "kind": "quantitative",
+    "target_low": 65000,
+    "target_high": 65000,
+    "unit": "INR crore",
+    "horizon": "next 2-5 years",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY23-p12-48-1",
+    "quote": "we are confident that we will be able to start delivering from '24, '25 onwards, both these engines RD-33",
+    "statement": "Start delivering RD-33 engines from FY24-FY25 onwards",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY24-FY25 onwards",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY23-p3-11-4",
+    "quote": "HTT-40 aircraft, which is expected to come on from September '24 onwards",
+    "statement": "HTT-40 aircraft deliveries expected from Sep-2024 onwards",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Sep-2024 onwards",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY23-p11-43-1",
+    "quote": "the growth in the repair and overhaul will be at around 5% to 6%",
+    "statement": "Repair and overhaul growth of 5-6% from FY24 onwards",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 5,
+    "target_high": 6,
+    "unit": "%",
+    "horizon": "FY24 onwards",
+    "speaker": "C.B. Ananthakrishnan",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management repeatedly states confidence in reaching double-digit growth and order visibility, e.g. \"we are confident that we will be able to start delivering from '24, '25 onwards\"."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HAL guidance Q4 FY23",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5792,
+  "est_output_tokens": 1525,
+  "est_usd": 0.00134
+ }
+}

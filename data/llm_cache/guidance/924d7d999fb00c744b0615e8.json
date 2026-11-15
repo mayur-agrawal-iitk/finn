@@ -1,0 +1,110 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q3FY26-p3-12-6",
+    "quote": "We continue to maintain our guidance of keeping credit costs below 25 bps on a sustainable basis.",
+    "statement": "Credit costs below 25 bps on a sustainable basis",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 25,
+    "unit": "bps",
+    "horizon": "unspecified",
+    "speaker": "Sachinder Bhinder",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p7-17-3",
+    "quote": "we are targeting around 25%+ growth in disbursements in FY27",
+    "statement": "Disbursement growth of 25% or more in FY27",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 25,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Sachinder Bhinder",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p11-34-1",
+    "quote": "But roughly, we are confident to have 5.25% spread by the year end.",
+    "statement": "Spread of about 5.25% by FY26 year end",
+    "metric": "nim",
+    "kind": "quantitative",
+    "target_low": 5.25,
+    "target_high": 5.25,
+    "unit": "%",
+    "horizon": "FY26",
+    "speaker": "Ghanshyam Rawat",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p7-17-2",
+    "quote": "we are confident of exceeding that level comfortably this year as well",
+    "statement": "Q4FY26 disbursements to exceed Rs 20 bn",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": null,
+    "unit": "INR bn",
+    "horizon": "Q4FY26",
+    "speaker": "Sachinder Bhinder",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p17-75-2",
+    "quote": "we are looking forward to next year to another 25-basis point opex saving in the next year",
+    "statement": "About 25 bps opex-to-assets saving in FY27 from digital and infra initiatives",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 25,
+    "target_high": 25,
+    "unit": "bps",
+    "horizon": "FY27",
+    "speaker": "Ghanshyam Rawat",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p18-77-1",
+    "quote": "We are confident that 20 basis point credit costs across, I think in the next couple of years",
+    "statement": "Credit costs of about 20 bps over the next couple of years",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 20,
+    "unit": "bps",
+    "horizon": "next 2 years",
+    "speaker": "Ghanshyam Rawat",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p18-77-2",
+    "quote": "So we are in that trajectory of, let's say, net worth growth 16% to 18% in the next couple of years.",
+    "statement": "Net worth growth of 16-18% over the next couple of years",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 16,
+    "target_high": 18,
+    "unit": "%",
+    "horizon": "next 2 years",
+    "speaker": "Ghanshyam Rawat",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management repeatedly says it is confident in spread, growth and asset quality, citing green shoots in Q3 and a clear path to 25%+ disbursement growth."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AAVAS guidance Q3 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5636,
+  "est_output_tokens": 966,
+  "est_usd": 0.00105
+ }
+}

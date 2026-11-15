@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "Board approved capex of up to Rs 83 Cr to raise capacity at the Avadi cold-rolled steel strip plant, funded from internal accruals.",
+  "so_what": "Modest spend, about 0.3% of TTM revenue of Rs 25,561 Cr and funded internally. The filing says the capacity gain cannot yet be quantified, so the payoff is unclear.",
+  "key_numbers": [
+   {
+    "label": "Capex cap",
+    "value": "Rs. 83 Cr."
+   },
+   {
+    "label": "Expected completion",
+    "value": "FY 2027-28"
+   },
+   {
+    "label": "Funding",
+    "value": "Internal accrual"
+   }
+  ],
+  "expertise_needed": [
+   "cold-rolled steel strip manufacturing",
+   "industrial capacity expansion"
+  ],
+  "questions": [
+   "How much incremental tonnage or revenue does the Avadi CRSS expansion add, and what is the expected payback?",
+   "What demand is driving the expansion, and how will the product mix affect margins once the new capacity runs?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "TIINDIA brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 3218,
+  "est_output_tokens": 285,
+  "est_usd": 0.00046
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "output": {
+  "changes": [
+   {
+    "name": "Dr. Madhu Sasidhar",
+    "role": "President & CEO - Hospitals Division",
+    "change": "other",
+    "effective_date": "2026-11-14",
+    "is_kmp": true,
+    "bio": "During his tenure he made significant contributions towards strengthening clinical excellence practices and augmenting the Company's digital health capabilities. The filing states the brief profile is not applicable for this cessation.",
+    "age": null,
+    "career": [],
+    "education": []
+   },
+   {
+    "name": "Dr. Ritu Garg",
+    "role": "Chief Executive Officer, Multi Regions (North, Central, Western and Eastern Regions)",
+    "change": "appointed",
+    "effective_date": "2026-11-04",
+    "is_kmp": true,
+    "bio": "Has over two decades of healthcare experience, with expertise in operations, growth, transformation and innovation. A clinician by training, she holds an MBBS, MS and an MBA in Finance & Strategy.",
+    "age": null,
+    "career": [
+     {
+      "org": "Amrop India",
+      "role": "Principal Consultant",
+      "start_year": null,
+      "end_year": null
+     },
+     {
+      "org": "Doctopinion.com",
+      "role": "Co-founder",
+      "start_year": null,
+      "end_year": null
+     },
+     {
+      "org": "Healdaddy.com",
+      "role": "Co-founder",
+      "start_year": null,
+      "end_year": null
+     },
+     {
+      "org": "Fortis Lafemme Limited",
+      "role": null,
+      "start_year": null,
+      "end_year": null
+     },
+     {
+      "org": "Fortis Memorial Research Institute",
+      "role": null,
+      "start_year": null,
+      "end_year": null
+     },
+     {
+      "org": "Fortis Healthcare",
+      "role": null,
+      "start_year": null,
+      "end_year": null
+     }
+    ],
+    "education": [
+     {
+      "institution": "Indian School of Business",
+      "degree": "MBA in Finance and Strategy",
+      "year": 2009
+     },
+     {
+      "institution": "Delhi University",
+      "degree": "MBBS and MS (ENT)",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Mr. Anand Wasker",
+    "role": "Chief Business Officer- International",
+    "change": "appointed",
+    "effective_date": "2026-11-04",
+    "is_kmp": true,
+    "bio": "Has over 26 years of leadership experience building, scaling and transforming large service businesses across healthcare, financial services, telecom, education, beauty and wellness consumer services. Holds a Master's degree in Business Management.",
+    "age": null,
+    "career": [
+     {
+      "org": "VLCC Ltd",
+      "role": "President, Global Services",
+      "start_year": null,
+      "end_year": null
+     }
+    ],
+    "education": [
+     {
+      "institution": "Neville Wadia Institute of Management Studies & Research, University of Pune",
+      "degree": "Masters in Business Management",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Dr. N. Venkatesan",
+    "role": "Chief Procurement Officer",
+    "change": "appointed",
+    "effective_date": "2026-11-04",
+    "is_kmp": true,
+    "bio": "Has over 25 years of diverse experience across healthcare procurement, supply chain, pharmacy operations, materials management, commercial functions and hospital project execution. Holds a Ph.D. in Hospital Supply Chain Management and an MBA in Systems.",
+    "age": null,
+    "career": [
+     {
+      "org": "Max Healthcare Institute Ltd.",
+      "role": "Director & Chief Procurement Officer",
+      "start_year": 2021,
+      "end_year": null
+     }
+    ],
+    "education": [
+     {
+      "institution": "Not named in filing",
+      "degree": "Ph.D. in Hospital Supply Chain Management",
+      "year": null
+     },
+     {
+      "institution": "Not named in filing",
+      "degree": "MBA in Systems",
+      "year": null
+     }
+    ]
+   }
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "APOLLOHOSP people",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4063,
+  "est_output_tokens": 1051,
+  "est_usd": 0.00093
+ }
+}

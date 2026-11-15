@@ -1,0 +1,341 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Indian electronics contract manufacturer. Q2 FY27 revenue was INR 21,806 crore across mobile phones (anchor customer Motorola, Transsion export programme, Vivo JV from Q4 FY27, Longcheer JV), IT hardware, telecom and networking, consumer appliances (washing machines, refrigerators, new Tirupati capacity, robotic vacuum cleaners, dishwashers, microwaves), lighting, and components via Q Tech (camera modules) and a display project.",
+   "segments": [
+    {
+     "name": "Mobile phones",
+     "share_pct": null,
+     "comment": "Revenue share not stated. Volumes about 17.2 million units in H1 FY27, FY27 guided at 33-34 million; exports 3.5-4 million units in FY27, ramping from Q4. Margin hit by PLI 1 expiry and memory-price pass-through."
+    },
+    {
+     "name": "IT hardware",
+     "share_pct": null,
+     "comment": "Share not stated. FY27 guided at INR 6,000-6,500 crore on 1.3-1.4 million units, at a 2-2.3% margin; 'IT products' targeted at INR 15,000-20,000 crore in two years."
+    },
+    {
+     "name": "Telecom and networking",
+     "share_pct": null,
+     "comment": "Share not stated. FY27 guided (Q1 FY27 call) at INR 6,700-7,000 crore."
+    },
+    {
+     "name": "Consumer appliances and lighting",
+     "share_pct": null,
+     "comment": "Share not stated. Washing machine and refrigerator profitability hit by polymer, freight and FX costs; Tirupati adds 0.3 million units to 0.6 million capacity."
+    },
+    {
+     "name": "Components (Q Tech camera modules, display)",
+     "share_pct": null,
+     "comment": "Share not stated. Q Tech capacity raised from 80 to 120 million units, targeting 180-190 million and INR 2,500-3,000 crore revenue in FY28; display capex about INR 1,000 crore."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C7",
+    "C8",
+    "C9",
+    "G7",
+    "G26",
+    "G13",
+    "G14",
+    "G15",
+    "G6"
+   ]
+  },
+  "credibility": {
+   "score": 64,
+   "label": "medium",
+   "summary": "Only the top-line guidance can be tested so far, and it is being beaten (H1 FY27 growth 34.9% against 15-17%), but that beat is price pass-through on flat mobile volumes while margin fell from 3.8% to 2.7% and PAT fell 44.9%. Almost every other item is forward-dated JV, capex or capacity guidance, and the one operational update in the latest call admits a delay."
+  },
+  "promises": [
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "FY27 ends March 2027 and the facts carry no segment revenue, so IT hardware progress toward INR 6,000-6,500 crore cannot be tracked.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G20",
+    "status": "pending",
+    "evidence": "FY27 display capex of INR 300-350 crore, period not over. It appears to be the first tranche of the INR 1,000 crore display plan (G14), and no spend figure is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "pending",
+    "evidence": "Q Tech capacity is now 120 million units, up from 80 million (C7). The ledger quote says 180-190 million 'by next fiscal', but C7 from the same call says the ramp to 180-190 million is 'over 2 years', so the deadline is internally inconsistent.",
+    "actual": "120 million units capacity (C7)"
+   },
+   {
+    "guidance_id": "G5",
+    "status": "unverifiable",
+    "evidence": "This is the capex threshold for the IT PLI 2 global category rather than a dated commitment. No horizon is given and no capex data is in the facts.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G11",
+    "status": "pending",
+    "evidence": "Two-year horizon from Q2 FY27, with no segment margin data. C7 says Q Tech deepening capex is 'margin accretive' but volumes still need to ramp.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "pending",
+    "evidence": "FY27 not over. C4, C5 and C8 say anchor-customer exports ramp 'from Q4', so most of the 3.5-4 million units fall in the final quarter.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "pending",
+    "evidence": "FY28 target, period not started; Q Tech says it still has 'to ramp up the sales volume' (C7).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "pending",
+    "evidence": "Multi-year display capex. Only the FY27 slice (INR 300-350 crore, G20) is specified, and there is no spend data.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G21",
+    "status": "pending",
+    "evidence": "FY27 not over. The ledger does not identify which business the INR 1,200 crore refers to, so it cannot be tracked even when FY27 is reported.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G29",
+    "status": "on_track",
+    "evidence": "Computed check: FY27-to-date (2 of 4 quarters) revenue growth is 34.9% against the 15-17% ex-Vivo target, and Vivo JV production does not start until Q4 (G18), so H1 is already ex-Vivo. Nuance: C1 attributes part of the revenue to passing higher memory prices through to selling prices on 'broadly stable' mobile volumes, so the beat is price-led rather than volume-led.",
+    "actual": "34.9% YoY FY27-to-date (H1)"
+   },
+   {
+    "guidance_id": "G1",
+    "status": "pending",
+    "evidence": "Q3 FY27 is in progress (as of 15 Nov 2026). No later update is available.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "Q3 FY27 is in progress. Separately, C6 in the same call admits 'some delay' on a 20-25 million-unit mobile line, with installation by February 2027 and commercial production 'early next year'. The passage does not say whether that line belongs to the Longcheer JV.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "Two-year target. The FY27 IT hardware guide of INR 6,000-6,500 crore (G7) means the business would need to grow 2.3-3.3x to reach INR 15,000-20,000 crore.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "pending",
+    "evidence": "FY28 volume target, against 1.3-1.4 million units guided for FY27 (G7), i.e. 29-54% growth. No actuals yet.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "unverifiable",
+    "evidence": "No horizon given ('ultimately'), and the facts contain no Q Tech segment margin.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G15",
+    "status": "unverifiable",
+    "evidence": "No horizon given and no IT hardware segment margin in the facts. The group margin of 2.7% (F:margin_last_q_pct) gives no read on it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G16",
+    "status": "pending",
+    "evidence": "Vivo JV capex has no horizon. Integration is 'on' and production is targeted for Q4 FY27 (C3), with no spend figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "pending",
+    "evidence": "The ledger tags this as H2 volume, but C2 shows 33-34 million is the full-year FY27 number ('our volumes are going to be in the range of around 34 million in the current fiscal'). H1 was about 17.2 million (Q2 about 9.7 million), so this implies H2 of roughly 15.8-16.8 million, flat to down on H1 despite the Q4 export ramp.",
+    "actual": "H1 FY27 about 17.2 million units (C2)"
+   },
+   {
+    "guidance_id": "G18",
+    "status": "pending",
+    "evidence": "Q4 FY27 has not begun. C3 says integration is under way and the JV should do 20-21 million units. C6's delayed mobile line (trials by March, commercial production 'early next year') may or may not be this JV; if it is, Q4 would be trial output only.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G19",
+    "status": "pending",
+    "evidence": "Gemtek JV initial investment has no horizon, and no spend data is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G22",
+    "status": "unverifiable",
+    "evidence": "Q2 FY27 has been reported (revenue INR 21,806 crore, C1), but Q1 FY27 revenue is not in the facts, so 20-25% QoQ growth cannot be computed. Mobile volumes rose about 29% QoQ (about 7.5 million in Q1 to about 9.7 million in Q2, C2), which points the same way.",
+    "actual": "Q2 FY27 revenue INR 21,806 crore (C1)"
+   },
+   {
+    "guidance_id": "G26",
+    "status": "pending",
+    "evidence": "FY27 telecom and networking target from Q1 FY27. It was not updated in the Q2 FY27 passages and there are no segment actuals.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G28",
+    "status": "on_track",
+    "evidence": "TTM revenue is already INR 58,525 crore (F:ttm_revenue_cr), above the INR 56,000 crore FY27 target, and H1 FY27 growth is 34.9% against the 15-17% the target implies (G29 check). Price pass-through inflates this (C1).",
+    "actual": "TTM revenue INR 58,525 crore"
+   },
+   {
+    "guidance_id": "G50",
+    "status": "unverifiable",
+    "evidence": "FY26 has ended, but the facts carry no capex figure to test the INR 1,100-1,200 crore against.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "The margin drop is mainly optical: memory-price increases were passed through in selling prices, so costs were recovered and only the margin percentage fell, with an added hit from PLI 1 expiry (C1).",
+    "reality": "Implied operating profit is about INR 589 crore (2.7% of INR 21,806 crore) against about INR 565 crore a year ago (3.8% of about INR 14,864 crore): +4% on +46.7% revenue, consistent with zero-margin pass-through. PAT still fell 44.9% YoY, and the margin has slid for four quarters (3.9%, 3.9%, 3.0%, 2.7%), so the profit decline is real. The YoY PAT comparison may also be distorted by the Aditya Infotech fair-value gain that management excludes.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C1",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:rev_yoy_last_q_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:margin_last4_pct"
+    ]
+   },
+   {
+    "claim": "FY27 revenue will grow 15-17% to about INR 56,000 crore without Vivo (G29, G28).",
+    "reality": "H1 FY27 growth is 34.9% and TTM revenue is already INR 58,525 crore, so the revenue guide is being beaten comfortably. Growth accelerated from 2.1% to 21.1% to 46.7% over the last three quarters.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G29",
+     "G28",
+     "F:ttm_revenue_cr",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "claim": "Mobile is 'resilient', and exports plus Transsion will 'drive significant incremental volumes' (C1, C5).",
+    "reality": "H1 volume was about 17.2 million units against a full-year guide of 33-34 million, so H2 is flat to down on H1 and 'the market has shrunk'. FY27 exports of 3.5-4 million units start in Q4, and Transsion and the Vivo JV volumes are next-fiscal events.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "C1",
+     "C5",
+     "C2",
+     "G17",
+     "G12",
+     "C8",
+     "G18"
+    ]
+   },
+   {
+    "claim": "Expansion into displays, Q Tech, the Vivo JV, Gemtek and IT PLI 2 can be funded comfortably (G14, G16, G19, G5).",
+    "reality": "Funding is not strained: the balance sheet is light (D/E 0.21, borrowings INR 1,236 crore), the cash cycle is -7 days and CFO/PAT is 1.22, and ROCE is 29%. But the announced commitments total about INR 1,850-1,910 crore, against cumulative five-year FCF of INR 1,042 crore, on a business earning a 3.2% TTM margin.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G14",
+     "G16",
+     "G19",
+     "G5",
+     "F:debt_to_equity",
+     "F:borrowings_cr",
+     "F:ccc_days_latest",
+     "F:cfo_to_pat_5y",
+     "F:roce_latest_pct",
+     "F:fcf_5y_cr",
+     "F:ttm_margin_pct"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Top line is running ahead of guidance: Q2 FY27 revenue rose 46.7% YoY to INR 21,806 crore, H1 grew 34.9% against a 15-17% guide, and TTM revenue of INR 58,525 crore already exceeds the INR 56,000 crore FY27 target.",
+    "evidence_ids": [
+     "F:rev_yoy_last_q_pct",
+     "C1",
+     "G29",
+     "G28",
+     "F:ttm_revenue_cr"
+    ]
+   },
+   {
+    "point": "Capital efficiency supports self-funded growth: ROCE 29%, a cash cycle of -7 days (2 days three years ago), five-year CFO/PAT 1.22 and D/E 0.21.",
+    "evidence_ids": [
+     "F:roce_latest_pct",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "F:cfo_to_pat_5y",
+     "F:debt_to_equity"
+    ]
+   },
+   {
+    "point": "Identified volume adds for FY28: Vivo JV about 20-21 million units from Q4 FY27, exports 3.5-4 million units in FY27 rising next year with Transsion, Q Tech capacity up from 80 to 120 million units heading to 180-190 million, and IT hardware volume from 1.3-1.4 million to 1.8-2 million units.",
+    "evidence_ids": [
+     "C3",
+     "G18",
+     "G12",
+     "C5",
+     "C7",
+     "G3",
+     "G7",
+     "G8"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Profitability is shrinking as revenue grows: margin fell from 3.8% to 2.7% YoY after four straight quarters of decline from 3.9%, and Q2 PAT fell 44.9% YoY. Management names PLI 1 expiry, a structural rather than cyclical loss.",
+    "evidence_ids": [
+     "F:margin_same_q_last_year_pct",
+     "F:margin_last_q_pct",
+     "F:margin_last4_pct",
+     "F:pat_yoy_last_q_pct",
+     "C1"
+    ]
+   },
+   {
+    "point": "Core mobile volume is stalled: 17.2 million units in H1 and 33-34 million for the full year imply no H2 growth in a market management says has shrunk. The growth bridge relies on JVs and exports that have not started, and one mobile line is already 'delayed' with commercial production 'early next year'.",
+    "evidence_ids": [
+     "C2",
+     "G17",
+     "G18",
+     "G2",
+     "C6",
+     "G12"
+    ]
+   },
+   {
+    "point": "Mix is shifting toward thin-margin businesses while capex rises. IT hardware is guided at a 2-2.3% margin, and announced commitments of about INR 1,850-1,910 crore (display about INR 1,000 crore, Vivo JV INR 300-350 crore, Gemtek INR 50-60 crore, IT PLI 2 INR 500 crore) exceed five-year cumulative FCF of INR 1,042 crore.",
+    "evidence_ids": [
+     "G15",
+     "G7",
+     "G14",
+     "G16",
+     "G19",
+     "G5",
+     "F:fcf_5y_cr"
+    ]
+   }
+  ],
+  "questions": [
+   "Q2 FY27 PAT fell 44.9% YoY while revenue rose 46.7%. How much of the drop is PLI 1 expiry, how much memory-price pass-through and how much the base-quarter fair-value gain, and what is mobile EBITDA per unit now against a year ago?",
+   "Is 33-34 million mobile units the FY27 total, implying H2 at or below H1's 17.2 million? And do the 3.5-4 million export units sit inside that figure or on top of it, given C8 says exports 'get added to the 34 million'?",
+   "Which project does the delayed 20-25 million-unit mobile line in C6 belong to: the Vivo JV (guided Q4 FY27) or Longcheer (guided Q3 FY27)? How much FY28 revenue assumes these lines are in commercial production by April 2027?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DIXON synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 5452,
+  "est_output_tokens": 7043,
+  "est_usd": 0.16267
+ }
+}

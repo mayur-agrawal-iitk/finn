@@ -1,0 +1,321 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Contract manufacturer across consumer durables (air-conditioning), electronics (PCBs, with plants at Hosur and Jewar under way), railway and defence subsystems (railway, metro, defence, bus and data-centre air-conditioning) and power electronics. It is entering mobile-phone manufacturing for Oppo, OnePlus and Realme. Q1 FY27 revenue was INR3,888 crore; TTM revenue is INR13,606 crore.",
+   "segments": [
+    {
+     "name": "Consumer durables",
+     "share_pct": null,
+     "comment": "Revenue share not stated; FY27 industry growth guided at 13-15% (G7)."
+    },
+    {
+     "name": "Electronics (PCB)",
+     "share_pct": null,
+     "comment": "Hosur plant due in FY27 (G9, G22) and Jewar capex of about INR3,200 crore (G8). Standard PCB margins are guided to normalise to 15-16% from Q3 FY27 (G6)."
+    },
+    {
+     "name": "Railway subsystems and defence",
+     "share_pct": null,
+     "comment": "FY27 growth guided at 30-35% with a 15-16% margin. Q1 margins were hit by pass-through sales, fixed-price railway tenders and a 35% Haryana minimum-wage rise (G4, G5, C3)."
+    },
+    {
+     "name": "Power electronics",
+     "share_pct": null,
+     "comment": "35-40% growth cited with no horizon (G11). Acquisitions Power-One, Unitronics and Shogini were consolidated in Q1 FY27 (C2)."
+    },
+    {
+     "name": "Mobile phones (Oppo collaboration)",
+     "share_pct": null,
+     "comment": "Pre-revenue: trial production Q4 FY27, commercial production Q1 FY28, about 8 million units in year 1 (G1, G2, C1)."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "G4",
+    "G6",
+    "G7",
+    "G8",
+    "G9",
+    "G11",
+    "F:ttm_revenue_cr"
+   ]
+  },
+  "credibility": {
+   "score": 45,
+   "label": "medium",
+   "summary": "Almost all guidance is divisional or long-dated: the Oppo ramp, the PCB plants, and growth and margin targets for individual divisions. The inputs cannot test most of it. Of what can be tracked, the Sidwal 40% growth target is at risk, the Hosur 'Sep 2026 trial' date was loosened to 'this financial year', and the mobile year-2 volume target was raised (13-15m to 15-16m) before any production has started, all while Q2 FY27 margin fell to 3.7% and profit turned negative."
+  },
+  "promises": [
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "Division-level revenue is not in the inputs. The 30-35% FY27 guide was given in Q1 FY27 after a quarter in which divisional margins fell (C3). There is no later call in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "The 15-16% FY27 divisional margin guide came after Q1 margins were hit by pass-through supply of the first trains, fixed-price railway contracts, currency and commodity moves and a 35% Haryana wage hike (C3). The inputs give no divisional margin figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "PCB margins are guided to normalise from Q3 FY27, which has not been reported. Consolidated margin fell to 3.7% in Q2 FY27, but the inputs do not break it out by division.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "This is an industry growth estimate for FY27. Neither industry nor divisional revenue for FY27 is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "pending",
+    "evidence": "Jewar capex of about INR3,200 crore has been announced, with no completion date (trial production about 18 months from Aug 2026, G10). It sits on top of borrowings of INR4,723 crore and debt/equity of 1.08.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G25",
+    "status": "at_risk",
+    "evidence": "The code check shows 27.8% FY27-to-date growth against the 40% target. But that 27.8% is consolidated revenue (Q1 12.7%, Q2 59.5%), not Sidwal, so the basis does not match and Sidwal's own growth cannot be checked. In Q1 FY27 the railway subsystem and defence division was guided at 30-35% (G4), below 40%.",
+    "actual": "27.8% consolidated FY27-to-date YoY (Sidwal-specific figure not in inputs)"
+   },
+   {
+    "guidance_id": "G1",
+    "status": "on_track",
+    "evidence": "Trial production in Q4 FY27 and commercial production in Q1 FY28 were restated unchanged from Q4 FY26 (G13). In Q1 FY27 management said the 'initial phase is progressing well' and that a COO for the mobile business had been hired (C1). The only signal is management's own statement; the inputs contain no Q2 FY27 transcript.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "Year 1 starts in Q1 FY28. The 8 million unit target is unchanged from Q4 FY26 (G14).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G11",
+    "status": "unverifiable",
+    "evidence": "No horizon was given for the 35-40% figure, and power electronics revenue is not broken out in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G20",
+    "status": "unverifiable",
+    "evidence": "FY26 has ended, but the inputs contain no FY26 consumer durables division revenue. In Q1 FY27 the same 13-15% range was restated as FY27 industry growth (G7).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G24",
+    "status": "pending",
+    "evidence": "The inputs contain no FY27 capitalisation or capex figure. 5-year FCF is minus INR880 crore.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "pending",
+    "evidence": "Year-2 volume (FY29) was raised from 13-15 million (G15, Q4 FY26) to 15-16 million in Q1 FY27, before trial production has started.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "pending",
+    "evidence": "'Up and running this financial year' (Q1 FY27) is looser than the Q3 FY26 promise of trial production in Sep 2026 and mass production by Jan 2027 (G22). FY27 has not ended.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "pending",
+    "evidence": "Own copper clad laminate plants are targeted for FY29-FY30, several years out. The inputs contain no progress markers.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "on_track",
+    "evidence": "The Q4 FY27 trial and Q1 FY28 commercial dates were reiterated word-for-word in Q1 FY27 (G1, C4). No slippage has been signalled in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "pending",
+    "evidence": "Year 1 has not started. The target was repeated in Q1 FY27 (G2).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G16",
+    "status": "pending",
+    "evidence": "The FY29-FY30 long-run figure of 14-15 million is now at or below the 15-16 million year-2 figure given in Q1 FY27 (G3), so the 'conservative' anchor is inconsistent with the newer guide.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G18",
+    "status": "pending",
+    "evidence": "Initial assembly and SMT capex is guided below INR50 crore. Spend has not been reported in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G21",
+    "status": "pending",
+    "evidence": "Double-digit FY27 margin for the electronics division. Divisional margin is not in the inputs. In Q1 FY27 management said PCB margins return to normal only from Q3 (G6), which implies H1 was below normal.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "pending",
+    "evidence": "About 18 months from Aug 2026 puts Jewar trial production around Feb 2028. That has not come due.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G15",
+    "status": "pending",
+    "evidence": "Superseded upward one call later by 15-16 million (G3). Year 2 of operations is FY29.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "pending",
+    "evidence": "Target of 35-40% local value addition over five to six years, starting from assembly and SMT (C5). The inputs contain no current value-addition figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G19",
+    "status": "unverifiable",
+    "evidence": "The inputs do not separate standalone ROCE for the new business. Consolidated ROCE is 10%, which is not the same basis.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G22",
+    "status": "at_risk",
+    "evidence": "The Sep 2026 trial-production date has passed and the inputs do not confirm it happened. In Q1 FY27 (Aug 2026) management no longer repeated the Sep 2026 and Jan 2027 dates and said only that the plant will be 'up and running this financial year' (G9).",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Q1 FY27 operating EBITDA grew 28% to INR337 crore on 13% revenue growth, i.e. margins expanding (C2).",
+    "reality": "In Q2 FY27 revenue rose 59.5% YoY but reported margin fell to 3.7% from 5.1% a year earlier, and PAT was down 106.2% YoY (a loss). The inputs contain no Q2 transcript explaining it.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C2",
+     "F:rev_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:pat_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "Adjusted PAT of INR126 crore in Q1 FY27, INR141 crore before the purchase-price-allocation inventory charge (C2).",
+    "reality": "The adjustment excludes an INR123 crore exceptional loss and an INR15.35 crore PPA charge. TTM reported PAT is only INR90 crore on INR13,606 crore revenue (0.7%), and ROCE is 10%.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C2",
+     "F:ttm_pat_cr",
+     "F:ttm_revenue_cr",
+     "F:roce_latest_pct"
+    ]
+   },
+   {
+    "claim": "Sidwal can grow about 40% in FY27 (G25, Q3 FY26).",
+    "reality": "By Q1 FY27 the railway subsystem and defence division was guided at 30-35% growth and a 15-16% margin, after a quarter with pass-through sales and fixed-price tenders (G4, G5, C3). Consolidated FY27-to-date growth is 27.8%. Whether this is the same business, and whether the target was effectively trimmed, cannot be confirmed from the inputs.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G25",
+     "G4",
+     "G5",
+     "C3"
+    ]
+   },
+   {
+    "claim": "Mobile manufacturing on schedule: trial Q4 FY27, commercial Q1 FY28, 8 million units in year 1 (G13, G1, G2).",
+    "reality": "Dates are unchanged across two calls, but year-2 volume was raised from 13-15 million (G15) to 15-16 million (G3) before production began. No revenue or capex has been reported against it yet.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G13",
+     "G1",
+     "G2",
+     "G3",
+     "G15",
+     "C4",
+     "C5"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Top-line momentum: Q2 FY27 revenue up 59.5% YoY, TTM revenue INR13,606 crore, 5-year revenue CAGR 32.1%.",
+    "evidence_ids": [
+     "F:rev_yoy_last_q_pct",
+     "F:ttm_revenue_cr",
+     "F:rev_cagr_5y"
+    ]
+   },
+   {
+    "point": "Asset-light mobile option: three brands (Oppo, OnePlus, Realme), 8 million units in year 1 rising to 15-16 million in year 2, initial capex under INR50 crore, and dates held across two calls.",
+    "evidence_ids": [
+     "C1",
+     "G1",
+     "G13",
+     "G2",
+     "G3",
+     "G18"
+    ]
+   },
+   {
+    "point": "Underlying operating improvement in Q1 FY27: operating EBITDA up 28% against revenue up 13% (C2). 5-year CFO/PAT is 2.78, so cash generation exceeds reported profit.",
+    "evidence_ids": [
+     "C2",
+     "F:cfo_to_pat_5y"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Profitability collapsed in Q2 FY27: margin 3.7% against 5.1% a year earlier, PAT down 106.2% YoY. TTM PAT is INR90 crore (0.7% of revenue) and ROCE is 10%.",
+    "evidence_ids": [
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:ttm_pat_cr",
+     "F:roce_latest_pct"
+    ]
+   },
+   {
+    "point": "Funding strain: borrowings INR4,723 crore, debt/equity 1.08 and 5-year FCF of minus INR880 crore, with about INR3,200 crore of Jewar capex and INR1,100-1,200 crore of FY27 capitalisation still to come.",
+    "evidence_ids": [
+     "F:borrowings_cr",
+     "F:debt_to_equity",
+     "F:fcf_5y_cr",
+     "G8",
+     "G24"
+    ]
+   },
+   {
+    "point": "Earnings quality: Q1 'adjusted' PAT strips out an INR123 crore exceptional loss and INR15.35 crore of PPA charges. Railway contracts are fixed-price against commodity, currency and a 35% wage shock. The cash-conversion cycle widened from 17 to 53 days in three years.",
+    "evidence_ids": [
+     "C2",
+     "C3",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago"
+    ]
+   }
+  ],
+  "questions": [
+   "Q2 FY27 revenue rose 59.5% but margin fell to 3.7% and PAT turned negative. How much of Q2 revenue was pass-through or trading supply (as in railway in Q1) or acquired businesses, and what was the organic operating margin?",
+   "Did Hosur trial production start in September 2026 as promised in Q3 FY26, and is mass production still due by January 2027? If not, what slipped?",
+   "With debt/equity at 1.08, 5-year FCF of minus INR880 crore and TTM PAT of INR90 crore, how will the INR3,200 crore Jewar capex be funded (debt, equity or subsidy), and what peak debt/equity do you plan for?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AMBER synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 5498,
+  "est_output_tokens": 6262,
+  "est_usd": 0.14723
+ }
+}

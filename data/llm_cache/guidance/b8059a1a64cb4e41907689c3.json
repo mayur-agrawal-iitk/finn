@@ -1,0 +1,188 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p3-15-8",
+    "quote": "ROA of 5.2% to 5.8%",
+    "statement": "Raised FY27 ROA guidance to 5.2-5.8% (from 4-4.8%)",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 5.2,
+    "target_high": 5.8,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-15-8",
+    "quote": "ROE of 21% to 24%",
+    "statement": "Raised FY27 ROE guidance to 21-24% (from 16-20%)",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 21,
+    "target_high": 24,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-15-8",
+    "quote": "We retain our AUM growth guidance of 20% to 25%",
+    "statement": "FY27 AUM growth of 20-25%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 25,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-15-8",
+    "quote": "We expect a NIM of 14.4% to 14.7%",
+    "statement": "FY27 NIM of 14.4-14.7% (from 12.8-13.2% guided earlier)",
+    "metric": "nim",
+    "kind": "quantitative",
+    "target_low": 14.4,
+    "target_high": 14.7,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-15-9",
+    "quote": "We're maintaining our credit cost guidance of 3% to 4%",
+    "statement": "FY27 credit cost guidance of 3-4%",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": 3,
+    "target_high": 4,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-15-9",
+    "quote": "Cost to income may range between 29% to 30%",
+    "statement": "Cost-to-income ratio of 29-30% in FY27",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 29,
+    "target_high": 30,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p3-15-4",
+    "quote": "we expect the Group Loan book growth to return to guided levels",
+    "statement": "Group Loan book growth to return to guided levels in H2FY27",
+    "metric": "loan_growth",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "H2FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p11-77-1",
+    "quote": "you should assume that it will be somewhere between 3.5% to 4%",
+    "statement": "Credit cost likely between 3.5-4% for the year",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": 3.5,
+    "target_high": 4,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p6-19-2",
+    "quote": "our borrowing cost will stay in this 9.2% to 9.3% range till March",
+    "statement": "Borrowing cost to stay at 9.2-9.3% until Mar-2027",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 9.2,
+    "target_high": 9.3,
+    "unit": "%",
+    "horizon": "by Mar-2027",
+    "speaker": "Nilesh Dalvi",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p7-21-2",
+    "quote": "our targeted ROA of 4.5% to 5% on a steady-state basis",
+    "statement": "Targeted steady-state ROA of 4.5-5%",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 4.5,
+    "target_high": 5,
+    "unit": "%",
+    "horizon": "steady-state",
+    "speaker": "Nilesh Dalvi",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p7-21-1",
+    "quote": "we will pass on 50 bps in third quarter, fourth quarter and next year's Q1",
+    "statement": "Lending rate cuts of 50 bps each in Q3FY27, Q4FY27 and Q1FY28",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 50,
+    "target_high": 50,
+    "unit": "bps",
+    "horizon": "Q3FY27-Q1FY28",
+    "speaker": "Nilesh Dalvi",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p15-128-1",
+    "quote": "Microfinance, as we said in our strategic plan, could be range bound in the range of anywhere between 10% to 12%.",
+    "statement": "Microfinance growth range-bound at 10-12%",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 12,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p19-168-1",
+    "quote": "we are looking at around 6% to 8% of our customers on a yearly basis getting converted into individual",
+    "statement": "About 6-8% of customers per year to convert to individual loans",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 6,
+    "target_high": 8,
+    "unit": "%",
+    "horizon": "yearly",
+    "speaker": "Ganesh Narayanan",
+    "confidence": "low"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management raised FY27 ROA, ROE and NIM guidance and says it is best placed to protect NIMs, while noting credit-cost and drought-related watch points."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "CREDITACC guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5577,
+  "est_output_tokens": 1579,
+  "est_usd": 0.00135
+ }
+}

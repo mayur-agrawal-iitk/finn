@@ -1,0 +1,301 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Conglomerate spanning oil-to-chemicals (refining and marketing, petrochemicals), exploration and production (KGD6 gas), Jio Platforms (telecom and fixed wireless), Reliance Retail (physical stores, dark-store quick commerce, e-commerce, FMCG), JioStar (media) and a New Energy complex under construction (polysilicon-to-module solar, glass, battery storage). Q2 FY27 consolidated EBITDA was Rs62,409 crore (+24% YoY) and PAT close to Rs30,000 crore (+34%). The inputs give no revenue split by segment.",
+   "segments": [
+    {
+     "name": "Oil to Chemicals (Refining & Marketing, Petrochemicals)",
+     "share_pct": null,
+     "comment": "Q2 FY27 EBITDA up 68% on 'unprecedented tightness' in fuel and downstream cracks. Petrochemicals saw weak polyester demand in Q1 FY27 because of gas restrictions."
+    },
+    {
+     "name": "Jio Platforms",
+     "share_pct": null,
+     "comment": "15.1 million fixed wireless connections with a 78% FWA share. ARPU ambition is 4-5% a year without tariff increases."
+    },
+    {
+     "name": "Reliance Retail (incl. FMCG)",
+     "share_pct": null,
+     "comment": "Targets 2x EBITDA over three years, which management calls a stretch. Dark-store expansion continues, while square footage grew only 1% YoY in Q4 FY26."
+    },
+    {
+     "name": "JioStar (media)",
+     "share_pct": null,
+     "comment": "Presented as a separate segment on the Q2 FY27 call. The passages give no figures."
+    },
+    {
+     "name": "Exploration & Production",
+     "share_pct": null,
+     "comment": "KGD6 gas ceiling price expected to rise by at least USD1 in H2 FY27."
+    },
+    {
+     "name": "New Energy",
+     "share_pct": null,
+     "comment": "Module capacity is 6+ GW, with 20 GW of modules and cells due in H1 CY2027 and a 40 GWh BESS facility. First revenue is guided for FY28."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "G2",
+    "G3",
+    "G4",
+    "G5",
+    "G6",
+    "G8",
+    "G10"
+   ]
+  },
+  "credibility": {
+   "score": 45,
+   "label": "low",
+   "summary": "New-energy timelines slip one quarter after another. Ingot and wafer at 10 GW for FY26 was missed, and polysilicon went from 'a quarter or two' to 'next few quarters'; first revenue is now FY28. The ARPU ambition was quietly cut from 5-6% to 4-5%, and the record Q2 FY27 result came from energy-market tightness rather than any guided item."
+  },
+  "promises": [
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "Module capacity is now 6+ GW, with 20 GW guided for early CY2027, so it must more than triple in about one to two quarters. No later update exists.",
+    "actual": "6+ GW module capacity (Q2 FY27)"
+   },
+   {
+    "guidance_id": "G1",
+    "status": "pending",
+    "evidence": "Retail EBITDA doubling target reaffirmed in Q2 FY27 ('We are not changing ours'). The facts contain no Retail EBITDA. The ledger frames the horizon as about two years, while Q1 FY27 said three (G8), so the horizon is unclear.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "pending",
+    "evidence": "Solar cell capacity to reach 20 GW 'sometime first half next year' (H1 CY2027). The deadline has not arrived. This is a later date than the Q4 FY26 promise of commissioning the cell factory within 'next few quarters' (G9).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "BESS pack-and-container facility of up to 40 GWh due in H1 CY2027. No progress data is given.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "New energy revenue is guided for FY28. C2 adds that grid connectivity is due in Q1 CY2027 and that the first module was not yet installed at the Q2 FY27 call.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "KGD6 ceiling price to rise by at least USD1 in H2 FY27. H2 began in October 2026 and the Q2 FY27 passages give no price update.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "pending",
+    "evidence": "Retail 2x EBITDA over three years from Q1 FY27, called an 'ambition' and 'a stretch' (C6). No segment EBITDA is in the facts.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G15",
+    "status": "missed",
+    "evidence": "Q3 FY26 promised ingot and wafer facilities commissioned and ramped to 10 GW within FY26. After FY26 ended, the Q4 FY26 call still listed ingot and wafer among factories to commission 'in next few quarters' (G9).",
+    "actual": "Not commissioned by FY26 end; re-guided to 'next few quarters'"
+   },
+   {
+    "guidance_id": "G18",
+    "status": "unverifiable",
+    "evidence": "Retail aggregate revenue growth in double digits. The facts contain no retail revenue; consolidated revenue (+29.8% YoY) includes O2C price effects. Square footage grew only 1% YoY in Q4 FY26 (C7).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "unverifiable",
+    "evidence": "ARPU to rise 4-5% without tariff increases. The inputs have no ARPU data. This is below the 5-6% organic ambition stated one call earlier (G17).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G16",
+    "status": "walked_back",
+    "evidence": "Q3 FY26 guided full polysilicon commissioning 'in next quarter or two' (Q4 FY26-Q1 FY27). The Q4 FY26 call loosened this to 'next few quarters' (G9). Neither the Q1 FY27 nor Q2 FY27 passages confirm commissioning, though the window has closed.",
+    "actual": "Not confirmed by end-Q1 FY27"
+   },
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "Realised gas prices are expected to rise in H2 FY27. H2 is in progress and no realised-price data is given.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "pending",
+    "evidence": "Polysilicon, ingot, wafer, cell and glass factories are to be commissioned in the 'next few quarters', an open-ended window. By Q2 FY27, cells are guided to 20 GW only in H1 CY2027 (G3). This promise replaces the earlier dates missed under G15 and G16.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "unverifiable",
+    "evidence": "Target to raise one-day installations from over 90% towards 100%. No later figure is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "on_track",
+    "evidence": "Solar generation was to start within 12-15 months of Q3 FY26 (about Jan-Apr 2027). In Q2 FY27 management said it is 'still on track', with transmission connectivity in Q1 CY2027. However, 'I will not say that the first module has gone' (C2), so no field installation had happened yet.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "walked_back",
+    "evidence": "Q3 FY26 set an organic ARPU ambition of 5-6% a year. One call later (Q4 FY26), the like-for-like no-tariff figure was 4-5% (G10). That is 100 bps lower at both ends, revised without being flagged as a change.",
+    "actual": "Re-stated as 4-5%"
+   },
+   {
+    "guidance_id": "G11",
+    "status": "unverifiable",
+    "evidence": "Qualitative pledge not to curtail domestic fuel supply. Nothing in the inputs tests it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "unverifiable",
+    "evidence": "Square footage and store count are expected to grow. The only data point is +1% square footage YoY in Q4 FY26 (C7). Q1 FY27 says dark-store expansion will continue for 9-12 months (C5), but no store or area count follows.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "An 'exceptionally strong quarter': record EBITDA of Rs62,409 crore (+24%) and PAT close to Rs30,000 crore (+34%).",
+    "reality": "Q2 FY27 PAT rose 33.8% YoY and revenue 29.8%, with revenue growth accelerating from 10.4% to 29.8% over four quarters. The headline figures match the reported numbers.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "F:pat_yoy_last_q_pct",
+     "F:rev_yoy_last_q_pct",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "claim": "O2C 'led the charge' with EBITDA +68%, attributed to 'operational excellence' as well as tight energy markets.",
+    "reality": "Revenue grew 29.8% but EBITDA only 24%, so the consolidated margin fell to 17.1% from 18.0% a year ago. The 3y margin change is only +80 bps (5y -30 bps), and the 3y revenue CAGR is 6.4%. The jump is price-led, not margin-led.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C1",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:margin_change_3y_bps",
+     "F:margin_change_5y_bps",
+     "F:rev_cagr_3y"
+    ]
+   },
+   {
+    "claim": "Giga-factories are coming on stream: ingot and wafer at 10 GW in FY26, and polysilicon within 'a quarter or two'.",
+    "reality": "Both were still listed as 'next few quarters' after FY26 ended. By Q2 FY27 module capacity is 6+ GW, cells reach 20 GW only in H1 CY2027, no field module was installed, and revenue is pushed to FY28.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G15",
+     "G16",
+     "G9",
+     "G2",
+     "G3",
+     "G5",
+     "C2"
+    ]
+   },
+   {
+    "claim": "Retail will double EBITDA (over three years per Q1 FY27) with double-digit revenue growth.",
+    "reality": "The facts contain no segment numbers. Square footage grew 1% YoY in Q4 FY26, and management itself calls the target 'a stretch'.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G8",
+     "G1",
+     "G18",
+     "C6",
+     "C7"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Record quarter: Q2 FY27 PAT rose 33.8% YoY and EBITDA reached Rs62,409 crore (+24%). Revenue grew 29.8%, the fastest in four quarters, and TTM PAT is INR95,625 crore.",
+    "evidence_ids": [
+     "C1",
+     "F:pat_yoy_last_q_pct",
+     "F:rev_yoy_last4_pct",
+     "F:ttm_pat_cr"
+    ]
+   },
+   {
+    "point": "Strong cash generation funds the build-out: 5y FCF was INR98,391 crore with CFO/PAT at 1.9x, and D/E is 0.43.",
+    "evidence_ids": [
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:debt_to_equity"
+    ]
+   },
+   {
+    "point": "Dated catalysts: modules from 6+ GW to 20 GW, cells to 20 GW and 40 GWh of BESS, all by H1 CY2027. The KGD6 ceiling price is expected up at least USD1 in H2 FY27, and Jio leads fixed wireless with 15.1 million connections and a 78% share.",
+    "evidence_ids": [
+     "G2",
+     "G3",
+     "G4",
+     "G6",
+     "C3"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "The quarter rides energy-market tightness: O2C EBITDA rose 68% on cracks, yet the consolidated margin fell to 17.1% from 18.0%. Underlying compounding is slow, with a 3y revenue CAGR of 6.4%, a 3y PAT CAGR of 8.9% and ROCE of 10%.",
+    "evidence_ids": [
+     "C1",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:rev_cagr_3y",
+     "F:pat_cagr_3y",
+     "F:roce_latest_pct"
+    ]
+   },
+   {
+    "point": "New-energy dates keep slipping: the 10 GW ingot/wafer target for FY26 was missed, polysilicon went from 'a quarter or two' to 'next few quarters', the first field module was still not installed by Q2 FY27, and revenue is now FY28.",
+    "evidence_ids": [
+     "G15",
+     "G16",
+     "G9",
+     "C2",
+     "G5"
+    ]
+   },
+   {
+    "point": "Targets are being softened: the ARPU ambition fell from 5-6% to 4-5%, Retail 2x EBITDA is called 'a stretch', and its horizon reads three years in Q1 FY27 but about two in Q2 FY27. Borrowings are INR4.05 lakh crore, and the cash conversion cycle has widened from 7 to 25 days.",
+    "evidence_ids": [
+     "G17",
+     "G10",
+     "C6",
+     "G8",
+     "G1",
+     "F:borrowings_cr",
+     "F:ccc_days_3y_ago",
+     "F:ccc_days_latest"
+    ]
+   }
+  ],
+  "questions": [
+   "Have the ingot and wafer lines (10 GW, promised within FY26) and the polysilicon plant (promised for Q4 FY26-Q1 FY27) actually been commissioned? What is their output and utilisation today?",
+   "Of the Rs62,409 crore Q2 FY27 EBITDA, how much came from cracks above mid-cycle levels? What would the consolidated margin be at normalised cracks, given it already fell to 17.1% from 18.0% a year ago?",
+   "Is Retail's 2x EBITDA target three years from Q1 FY27 or two years as framed in Q2 FY27? What base-year EBITDA does it start from, and why was the organic ARPU ambition lowered from 5-6% to 4-5%?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "RELIANCE synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 4540,
+  "est_output_tokens": 5850,
+  "est_usd": 0.13516
+ }
+}

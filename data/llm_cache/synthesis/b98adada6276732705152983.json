@@ -1,0 +1,194 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Chemicals manufacturer with a specialty chemicals business (agrochemical intermediates and a growing pharma intermediates line) and a fluorochemicals business (refrigerant gases, including next-generation gases planned for a new Odisha site, plus PTFE and new fluoropolymers). Some export pricing is set consignment by consignment around US tariff outcomes. TTM revenue is INR18,265 crore. The inputs give no revenue split by segment, and the latest transcript provided is Q3 FY26 (January 2026).",
+   "segments": [
+    {
+     "name": "Specialty chemicals - agrochemicals",
+     "share_pct": null,
+     "comment": "Management calls the new-molecule pipeline 'extremely robust'. It is the larger part of specialty chemicals, since pharma is about 10%."
+    },
+    {
+     "name": "Specialty chemicals - pharma intermediates",
+     "share_pct": null,
+     "comment": "Close to 10% of specialty chemicals (not of group revenue), with a target of at least 20%. A second pharma intermediate plant at Dahej (INR180 crore) was due within 8 months of January 2026."
+    },
+    {
+     "name": "Fluorochemicals (refrigerants, PTFE, fluoropolymers)",
+     "share_pct": null,
+     "comment": "Two next-generation refrigerant plants are planned at Odisha, with a first stage of INR1,500-2,000 crore pending regulatory clearance. PTFE is shifting to value-added grades, with benefits due by early 2027."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "G1",
+    "G2",
+    "G4"
+   ]
+  },
+  "credibility": {
+   "score": 55,
+   "label": "medium",
+   "summary": "Only one of five promises can be checked. 'Significantly better' Q4 FY26 shows up as a margin rise of just 120 bps (21.0% to 22.2%) with YoY growth flat at 7%. The Dahej pharma-plant deadline (about September 2026) has passed with no later transcript in the inputs, so most of the record is unverifiable rather than proven."
+  },
+  "promises": [
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "Odisha first-stage investment of INR1,500-2,000 crore, supporting FY27 capex. Regulatory clearances had been applied for but were not received as of Q3 FY26 (C5), and ancillary plants still need board approval (C1). The facts include no capex figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G1",
+    "status": "unverifiable",
+    "evidence": "The INR180 crore Dahej pharma intermediate plant was due within 8 months of 20 January 2026, around September 2026. That deadline has passed, but the inputs contain no transcript after Q3 FY26 to confirm commissioning.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "Registration for one product had been received, with launch 'in the coming year'. No later call in the inputs updates it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "delivered",
+    "evidence": "Q4 FY26 margin was 22.2% against 21.0% in Q3 FY26, and YoY revenue growth was 7.0% against 6.4%. That is better, but only modestly on these metrics. Absolute QoQ revenue and EBITDA are not in the facts, so 'significantly better' is only partly verifiable. The large step-up came a quarter later, in Q1 FY27 (31.8% growth, 24.6% margin).",
+    "actual": "Q4 FY26 margin 22.2% vs 21.0% in Q3 FY26"
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "PTFE value-added benefits are due by early 2027. Q2 FY27 margin was 19.3%, but the period has not arrived and the facts give no segment split.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Q4 FY26 would be 'significantly better' than Q3 FY26, backed by POs on hand.",
+    "reality": "Margin rose from 21.0% to 22.2% and YoY revenue growth from 6.4% to 7.0%, a modest improvement. The large inflection came in Q1 FY27, with revenue +31.8% and a 24.6% margin.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G3",
+     "F:margin_last4_pct",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "claim": "Capex for FY27 'remains on a strong wicket', led by the Odisha first stage of INR1,500-2,000 crore.",
+    "reality": "Earlier capex has not yet produced earnings growth: the 3y revenue CAGR is 2.0%, the 3y PAT CAGR is -5.3%, and margin is down 210 bps over 3 years. 5y FCF is only INR2,182 crore despite CFO/PAT of 1.43x, and ROCE is 15%.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C1",
+     "G2",
+     "F:rev_cagr_3y",
+     "F:pat_cagr_3y",
+     "F:margin_change_3y_bps",
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:roce_latest_pct"
+    ]
+   },
+   {
+    "claim": "Pharma is gaining momentum and should move from about 10% to at least 20% of specialty chemicals.",
+    "reality": "The facts contain no segment revenue, and the second pharma plant's commissioning is unconfirmed.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "C3",
+     "C4",
+     "G1"
+    ]
+   },
+   {
+    "claim": "The agro new-molecule pipeline 'remains extremely robust' and 'should bode well for the future'.",
+    "reality": "Revenue growth jumped to 31.8% and 34.7% YoY in Q1-Q2 FY27, and Q2 PAT rose 31.2%. The Q2 margin, however, fell to 19.3% from 21.3% a year earlier and 24.6% in Q1, so the growth is coming at lower margin.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C4",
+     "F:rev_yoy_last4_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Revenue has inflected: YoY growth went from 6.4% and 7.0% in Q3-Q4 FY26 to 31.8% and 34.7% in Q1-Q2 FY27. Q2 FY27 PAT rose 31.2% YoY, and TTM PAT is INR2,283 crore.",
+    "evidence_ids": [
+     "F:rev_yoy_last4_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:ttm_pat_cr"
+    ]
+   },
+   {
+    "point": "Dated growth projects: a second pharma intermediate plant (INR180 crore) supports the push from about 10% to at least 20% pharma share of specialty chemicals. Odisha's next-generation refrigerant plants (INR1,500-2,000 crore first stage), the PTFE value-added shift by early 2027 and a registered product launch in FY27 add to it.",
+    "evidence_ids": [
+     "G1",
+     "C3",
+     "G2",
+     "G4",
+     "G5"
+    ]
+   },
+   {
+    "point": "The balance sheet can absorb the capex cycle: D/E is 0.35, 5y CFO/PAT is 1.43x and ROCE is 15%.",
+    "evidence_ids": [
+     "F:debt_to_equity",
+     "F:cfo_to_pat_5y",
+     "F:roce_latest_pct"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "The multi-year record is weak: 3y revenue CAGR of 2.0%, 3y PAT CAGR of -5.3%, and margin down 210 bps over 3 years and 380 bps over 5. The H1 FY27 rebound comes off a depressed base.",
+    "evidence_ids": [
+     "F:rev_cagr_3y",
+     "F:pat_cagr_3y",
+     "F:margin_change_3y_bps",
+     "F:margin_change_5y_bps"
+    ]
+   },
+   {
+    "point": "Margin fell during the growth quarter: Q2 FY27 was 19.3%, against 21.3% a year ago and 24.6% in Q1 FY27. The cash conversion cycle has stretched from 46 to 69 days over 3 years.",
+    "evidence_ids": [
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:margin_last4_pct",
+     "F:ccc_days_3y_ago",
+     "F:ccc_days_latest"
+    ]
+   },
+   {
+    "point": "Capex is running ahead of cash: 5y FCF is only INR2,182 crore against borrowings of INR5,375 crore, while the Odisha first stage of INR1,500-2,000 crore still awaits regulatory clearance and board approval for ancillary plants. Export pricing is renegotiated each consignment around US tariff outcomes.",
+    "evidence_ids": [
+     "F:fcf_5y_cr",
+     "F:borrowings_cr",
+     "G2",
+     "C5",
+     "C1",
+     "C2"
+    ]
+   }
+  ],
+  "questions": [
+   "Was the INR180 crore second pharma intermediate plant at Dahej commissioned by about September 2026 as guided? What share of specialty chemicals is pharma now, against the roughly 10% cited in January?",
+   "Q2 FY27 revenue rose 34.7% but margin fell to 19.3%, from 21.3% a year ago and 24.6% in Q1. Which business diluted margin, and was it price, mix or input cost?",
+   "Have the Odisha regulatory clearances been received? How much of the INR1,500-2,000 crore first stage is committed in FY27, and how will it be funded given 5y FCF of only INR2,182 crore?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "SRF synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 3034,
+  "est_output_tokens": 3914,
+  "est_usd": 0.09042
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q1FY27-p5-24-1",
+    "quote": "that is INR55,000 plus crores, including QRSAM",
+    "statement": "FY27 order inflow target of INR55,000 crore plus, including QRSAM",
+    "metric": "order_inflow",
+    "kind": "quantitative",
+    "target_low": 55000,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Manoj Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p5-26-2",
+    "quote": "Overall on a yearly basis, we maintain the EBITDA margin of 28%",
+    "statement": "FY27 EBITDA margin of 28%",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 28,
+    "target_high": 28,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Damodar Bhattad",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p21-142-1",
+    "quote": "The revenue growth of 15%",
+    "statement": "FY27 revenue growth of 15% (closing remarks)",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": 15,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Manoj Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p21-142-1",
+    "quote": "EBITDA margin 21% to 23%",
+    "statement": "FY27 EBITDA margin 21-23% in closing remarks, conflicting with 28% guidance elsewhere in the call",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 21,
+    "target_high": 23,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Manoj Jain",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q1FY27-p21-142-1",
+    "quote": "order inflow of more than INR20,000 crores including QRSAM",
+    "statement": "FY27 order inflow above INR20,000 crore in closing remarks, conflicting with INR55,000 crore guidance elsewhere",
+    "metric": "order_inflow",
+    "kind": "quantitative",
+    "target_low": 20000,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Manoj Jain",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q1FY27-p13-85-1",
+    "quote": "INR1,200 plus crores we are investing under capex",
+    "statement": "FY27 capex above INR1,200 crore",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 1200,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Manoj Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p13-85-2",
+    "quote": "more than INR2,200 crores R&D budget we have allocated for this year",
+    "statement": "FY27 R&D budget above INR2,200 crore",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 2200,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Manoj Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p20-138-1",
+    "quote": "this year we have given our internal guidance of around USD300 million",
+    "statement": "Export order inflow internal guidance of about USD300 million in FY27",
+    "metric": "order_inflow",
+    "kind": "quantitative",
+    "target_low": 300,
+    "target_high": 300,
+    "unit": "USD million",
+    "horizon": "FY27",
+    "speaker": "Manoj Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p20-138-2",
+    "quote": "we are working systematically to see that we reach that goal in next five years",
+    "statement": "Exports to reach 10% of revenue within five years",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 10,
+    "unit": "%",
+    "horizon": "next 5 years",
+    "speaker": "Manoj Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p13-83-1",
+    "quote": "aim is in the next 5 years zero import of any module, sub-module level thing",
+    "statement": "Zero import of modules and sub-modules within five years",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "next 5 years",
+    "speaker": "Manoj Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p12-75-2",
+    "quote": "we expect the employee cost to turnover to be in the range of around 12%",
+    "statement": "Employee cost to turnover at around 12% in coming years",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 12,
+    "target_high": 12,
+    "unit": "%",
+    "horizon": "coming years",
+    "speaker": "Damodar Bhattad",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p11-67-1",
+    "quote": "Shatrughat and Samaghat we may get in another 3 to 6 months timeline",
+    "statement": "Shatrughat and Samaghat orders expected in 3-6 months",
+    "metric": "order_inflow",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "next 3-6 months",
+    "speaker": "Manoj Jain",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says \"I am confident we will achieve this guidance for this financial year\" and reaffirms the FY27 targets on the call."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BEL guidance Q1 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5418,
+  "est_output_tokens": 1518,
+  "est_usd": 0.0013
+ }
+}

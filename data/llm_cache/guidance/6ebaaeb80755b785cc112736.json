@@ -1,0 +1,84 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p2-8-26",
+    "quote": "We are not changing ours that is the target that we are going for.",
+    "statement": "Retail EBITDA doubling target over about two years reaffirmed",
+    "metric": "ebitda",
+    "kind": "quantitative",
+    "target_low": 100,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "next 2 years",
+    "speaker": "Dinesh Taluja",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p2-8-21",
+    "quote": "our module capacity is now six plus gigawatt, and we will be achieving up to 20 gigawatt early next year.",
+    "statement": "Solar module capacity to reach 20 GW early CY2027",
+    "metric": "capacity",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 20,
+    "unit": "GW",
+    "horizon": "Q4FY27",
+    "speaker": "Karan Suri",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p2-8-21",
+    "quote": "we will be achieving again 20-gigawatt capacity sometime first half next year.",
+    "statement": "Solar cell capacity to reach 20 GW in H1 CY2027",
+    "metric": "capacity",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 20,
+    "unit": "GW",
+    "horizon": "H1CY2027",
+    "speaker": "Karan Suri",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p2-8-22",
+    "quote": "in next half year we will commission our BESS facility, which is a pack and container up to 40-gigawatt hour",
+    "statement": "BESS pack and container facility up to 40 GWh commissioned in H1 CY2027",
+    "metric": "capacity",
+    "kind": "quantitative",
+    "target_low": 40,
+    "target_high": 40,
+    "unit": "GWh",
+    "horizon": "H1CY2027",
+    "speaker": "Karan Suri",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p2-8-23",
+    "quote": "we will see the revenues for FY2028 from the new energy complex",
+    "statement": "New energy complex to start generating revenue in FY28",
+    "metric": "segment",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY28",
+    "speaker": "Karan Suri",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Reaffirms the retail EBITDA doubling target and dated solar, cell and BESS commissioning, while flagging a retail margin dip."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "RELIANCE guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5535,
+  "est_output_tokens": 700,
+  "est_usd": 0.0009
+ }
+}

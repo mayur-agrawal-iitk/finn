@@ -1,0 +1,110 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p3-13-1",
+    "quote": "we expect trial production to commence in quarter 4 of FY '27, with commercial production to start by quarter 1 of FY '28",
+    "statement": "Asset-light mobile contract manufacturing: trial production in Q4FY27, commercial production by Q1FY28",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p3-13-2",
+    "quote": "we expect to begin with around 8 million units in year 1",
+    "statement": "About 8 million units in year 1 of operations",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 8,
+    "target_high": 8,
+    "unit": "million units",
+    "horizon": "year 1 of operations (from Q1FY28)",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p3-13-2",
+    "quote": "we expect to touch the volumes of around 13 million to 15 million in second year of operations",
+    "statement": "Volume of about 13-15 million units in year 2 of operations",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 13,
+    "target_high": 15,
+    "unit": "million units",
+    "horizon": "year 2 of operations",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p9-54-1",
+    "quote": "we are taking a conservative number of about 14 million to 15 million number",
+    "statement": "Conservative long-run volume of 14-15 million units by FY29-FY30",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 14,
+    "target_high": 15,
+    "unit": "million units",
+    "horizon": "FY29-FY30",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p6-28-1",
+    "quote": "we can take this local value addition to 35% to 40% in the next 5 to 6 years",
+    "statement": "Local value addition of 35-40% in the next 5-6 years",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 35,
+    "target_high": 40,
+    "unit": "%",
+    "horizon": "next 5-6 years",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p8-48-1",
+    "quote": "It will be below INR50 crores to start with.",
+    "statement": "Initial assembly and SMT capex below INR 50 crore",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 50,
+    "unit": "INR crore",
+    "horizon": "unspecified",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p7-42-1",
+    "quote": "the ROCEs will be more than 30%, 35%",
+    "statement": "Standalone ROCE of more than 30-35% on the new low-margin business",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 30,
+    "target_high": 35,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management sets concrete volume, timing and capex targets for the new mobile business and calls the capex very minimal, while saying it will go slow and take baby steps."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AMBER guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 2473,
+  "est_output_tokens": 986,
+  "est_usd": 0.00074
+ }
+}

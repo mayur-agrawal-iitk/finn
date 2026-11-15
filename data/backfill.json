@@ -1,0 +1,13 @@
+{
+  "_why": "Filings that pre-date this prototype's NSE RSS poller but are referenced by events inside the window. In production the poller's append-only log (or an exchange data licence) makes this file unnecessary.",
+  "filings": [
+    {
+      "symbol": "HDFCBANK",
+      "dt": "2026-10-07T16:07:36+05:30",
+      "title": "Intimation of Postal Ballot Notice - Appointment of Director and MD & CEO",
+      "summary_src": "Postal ballot notice seeking members' approval to appoint Mr. Anup Bagchi as a Director and as Managing Director & CEO for three years from October 27, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_07102026160736_SEIntimationPostalBallotNoticeOct2026.pdf",
+      "source": "NSE archive (backfill)"
+    }
+  ]
+}

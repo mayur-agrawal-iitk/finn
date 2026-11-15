@@ -1,0 +1,84 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q3FY26-p3-14-2",
+    "quote": "which is expected to be commissioned in the next 8 months",
+    "statement": "Second pharma intermediate plant (INR 180 crore, Dahej) to be commissioned within 8 months",
+    "metric": "capacity",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "next 8 months",
+    "speaker": "Ashish Bharat Ram",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p7-17-2",
+    "quote": "the first stage of investments in the Odisha site will probably be in the range of INR1,500 crore to INR2,000 crore",
+    "statement": "First-stage investment at Odisha site of INR 1,500-2,000 crore, supporting FY27 capex",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 1500,
+    "target_high": 2000,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Ashish Bharat Ram",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p16-96-1",
+    "quote": "quarter 4 is going to be significantly better than quarter 3",
+    "statement": "Q4FY26 to be significantly better than Q3FY26, backed by POs on hand",
+    "metric": "other",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY26",
+    "speaker": "Ashish Bharat Ram",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p3-14-3",
+    "quote": "with benefits expected to become visible by early next year",
+    "statement": "Benefits from PTFE value-added product shift expected to show by early 2027",
+    "metric": "other",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "early 2027",
+    "speaker": "Ashish Bharat Ram",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p13-68-1",
+    "quote": "so we should see the launch in the coming year",
+    "statement": "Launch of one product (registration received) expected in the coming year",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY27",
+    "speaker": "Ashish Bharat Ram",
+    "confidence": "low"
+   }
+  ],
+  "tone": {
+   "label": "mixed",
+   "why": "Management expects Q4 to be significantly better and new capacity to come on, but says the specialty chemicals sector is still going through a tough time."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "SRF guidance Q3 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 2910,
+  "est_output_tokens": 733,
+  "est_usd": 0.00066
+ }
+}

@@ -1,0 +1,328 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Indian chemicals producer running an integrated Phenolics chain (phenol/acetone, IPA, and newly commissioned MIBK/MIBC downstream) alongside an Advanced Intermediates business (nitric acid, nitration, hydrogenation), with a subsidiary, Deepak Chemtech (DCTL), that commissioned chlorination, photohalogenation, fluorination and specialty-chemical assets at Dahej (about INR 300 crore) and an announced INR 11,000 crore propylene-to-polycarbonate project. Q2 FY27 consolidated revenue was INR 3,091 crore.",
+   "segments": [
+    {
+     "name": "Phenolics",
+     "share_pct": 74.1,
+     "comment": "Q2 FY27 revenue INR 2,291 crore of INR 3,091 crore consolidated (computed share, before inter-segment eliminations); +72% YoY, +29% QoQ; EBIT INR 515 crore at about 22% margin."
+    },
+    {
+     "name": "Advanced Intermediates",
+     "share_pct": null,
+     "comment": "Revenue not stated in the inputs; management cites utilisation gains, new products and recovery in deferred demand. Includes the nitric acid and nitration assets still ramping."
+    },
+    {
+     "name": "Deepak Chemtech (DCTL) new assets",
+     "share_pct": null,
+     "comment": "Chlorination, photohalogenation, fluorination and specialty-chemical plants commissioned around end-Q2 FY27; agchem volumes tied to annual contracts; no revenue yet disclosed."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "G20"
+   ]
+  },
+  "credibility": {
+   "score": 50,
+   "label": "medium",
+   "summary": "Commissioning dates slip by about a quarter (MIBK from a Q1 to a Q2 FY27 start; nitric acid still ramping two quarters after a Q4 FY26 full-utilisation target), and capex guidance keeps being reset lower and pushed out (FY27 INR 2,500 crore to 1,000-1,600 crore; FY28 INR 3,000 crore to 2,200-2,400 crore). H1 FY27 revenue and margin delivery was strong."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "pending",
+    "evidence": "FY28 target given in Q2 FY27; FY28 has not started. The quote says EBIT but the ledger tags it as ebitda_margin, and the segment it applies to is not stated. Group margin is already 20.4% (F:margin_last_q_pct) and Phenolics EBIT is about 22% (C2), so the 14-15% EBIT most likely refers to a segment or the new assets.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "FY28 incremental EBIT of INR 400-420 crore from existing assets (C3). Period not started; C3 also frames it as 'INR 250 crore plus another INR 250 crore' of steady-state visibility, which is not the same number.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "pending",
+    "evidence": "Said in Q2 FY27 for FY27 (ends March 2027). There is no later call. C7 guides Q3 EBIT margin between Q1 and Q2 and closer to Q1, with absolute gains from DCTL assets landing in Q3-Q4, so most of the INR 240 crore is back-end loaded.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "FY28 capex guidance, period not started. This is itself a downward revision from INR 3,000 crore (G14) and moves INR 2,500 crore into the following year, i.e. spend is being re-phased later.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "pending",
+    "evidence": "FY27 not over and no capex actual in the facts. The same Q1 FY27 call also gave INR 1,000-1,500 crore (G12), and both are well below the INR 2,500 crore FY27 figure given in Q3 FY26 (G25). The Q2 FY27 inputs do not update the FY27 capex number.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "walked_back",
+    "evidence": "Drift record: the FY28 capex of INR 3,000 crore (Q1 FY27) was cut to INR 2,200-2,400 crore in Q2 FY27 (G4), 20-27% lower, with INR 2,500 crore now placed in the following year. Caveat: the ledger statement reads this as an FY27-FY28 figure. If it was a two-year total, then G13 plus G4 (INR 3,700-4,000 crore) would be a raise, not a cut, so the basis is ambiguous.",
+    "actual": "FY28 capex now guided at INR 2,200-2,400 crore (G4)"
+   },
+   {
+    "guidance_id": "G25",
+    "status": "walked_back",
+    "evidence": "Q3 FY26 put FY27 capex at about INR 2,500 crore. By Q1 FY27 the guidance was INR 1,000-1,500 crore (G12) or INR 1,500-1,600 crore (G13), 36-60% lower. Both Q1 quotes say 'further/another', so spend already made in Q1 may sit on top. This pair is not in the drift list, so the cut is partly a basis question.",
+    "actual": "FY27 capex re-guided to INR 1,000-1,600 crore 'further' (G12, G13)"
+   },
+   {
+    "guidance_id": "G7",
+    "status": "unverifiable",
+    "evidence": "No horizon given, and the inputs contain no capacity or volume data to test 80-100 KTPA of additional market supply.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "delivered",
+    "evidence": "The Q2 FY27 call says MIBK and MIBC assets 'have also been commissioned' (C8), and the DCTL chlorination, photochlorination, hydrogenation and fluorination plants were commissioned by end-Q2 (C3, C5). The August date and acetophenone are not specifically confirmed, and C5 says MIBK/MIBC are still in commercialisation and scale-up.",
+    "actual": "MIBK/MIBC and DCTL plants commissioned within Q2 FY27 (C3, C5, C8)"
+   },
+   {
+    "guidance_id": "G11",
+    "status": "unverifiable",
+    "evidence": "No horizon given, and no later call or context reports on the INR 70 crore debottlenecking or progress toward 4 lakh tonnes.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "pending",
+    "evidence": "FY27 not over. It conflicts with G13 from the same Q1 FY27 call (INR 1,500-1,600 crore), and both undercut the INR 2,500 crore given in Q3 FY26 (G25).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G26",
+    "status": "unverifiable",
+    "evidence": "FY26 has ended, but the facts do not include an FY26 capex figure, so the INR 1,200-1,300 crore cannot be tested. F:fcf_5y_cr of INR -139 crore only shows capex absorbed operating cash over five years.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "pending",
+    "evidence": "Q3 and Q4 FY27 not yet reported. C7 sets a lower Q3 base ('closer to Q1') that Q4 would need to beat.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "FY29 milestone reiterated in Q2 FY27. No independent progress data in the inputs, and the earlier H2 polycarbonate wording (G10) muddies which date is the real one.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "at_risk",
+    "evidence": "Q1 FY27 targeted 'H2' for polycarbonate commissioning (tagged H2 FY27). The Q2 FY27 call anchors integrated propylene-to-polycarbonate to FY29 (G5) and full utilisation to FY31 (G6), and no passage mentions a start-up in H2 FY27. Either the horizon was mis-tagged (H2 of a later year) or the date has moved by more than a year.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G15",
+    "status": "on_track",
+    "evidence": "Debt-to-equity is 0.27x (F:debt_to_equity) on borrowings of INR 1,762 crore (F:borrowings_cr). The test is ahead: the INR 11,000 crore project funded 60:40 implies about INR 6,600 crore of debt (G20), about 3.7x current borrowings.",
+    "actual": "0.27x"
+   },
+   {
+    "guidance_id": "G17",
+    "status": "delivered",
+    "evidence": "The Q2 FY27 call confirms the MIBK and MIBC assets are commissioned (C8) and in commercialisation and scale-up (C5), within the Q2 FY27 window.",
+    "actual": "Commissioned in Q2 FY27 (C8)"
+   },
+   {
+    "guidance_id": "G20",
+    "status": "pending",
+    "evidence": "Project size and 60:40 funding is a multi-year plan. Phased capex of INR 2,200-2,400 crore in FY28 and INR 2,500 crore in FY29 (G4) is consistent with it, but no spend-to-date figure is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G22",
+    "status": "missed",
+    "evidence": "The target was about 100% utilisation of nitration, hydrogenation and nitric acid from Q4 FY26. In Q2 FY27 management was still 'continuing with the ramp-up' of the nitric acid facility (C5) and put the remaining upside from 'full asset utilization... including nitration and nitric acid' at about INR 240 crore this year (C3), so full utilisation had not been reached two quarters later.",
+    "actual": "Nitric acid still ramping in Q2 FY27 (C3, C5)"
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "FY31 horizon. Depends on FY29 upstream integration (G5), and there is no progress data.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G16",
+    "status": "unverifiable",
+    "evidence": "No horizon given, and the asset is not identified. The only utilisation datapoint is IPA 'by and large' at 100% (C8), and nitric acid is still ramping (C5).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G23",
+    "status": "missed",
+    "evidence": "Q3 FY26 guided MIBK ramp-up in Q1 FY27. The Q1 FY27 call moved MIBK commissioning to August (G9), and it was confirmed commissioned only on the Q2 FY27 call (C8). It slipped by about one quarter.",
+    "actual": "Commissioned in Q2 FY27, one quarter late (G9, C8)"
+   },
+   {
+    "guidance_id": "G24",
+    "status": "unverifiable",
+    "evidence": "The June-July 2026 window has passed, but no later call or context mentions the high-pressure alkylation asset or completion of Phase 1. The Q2 FY27 commissioning list (C3) covers nitric acid, chlorination, photochlorination, hydrogenation and fluorination only.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G27",
+    "status": "unverifiable",
+    "evidence": "Q1 FY27 has ended, but no passage dates BTC/BTF output. C3 lists photochlorination and fluorination as commissioned by the Q2 call, while C5 says DCTL chlorination came only 'towards the end of' Q2, which hints at slippage without proving it.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "'Best Ever Performance' with record Q2 FY27 revenue of INR 3,091 crore (+61% YoY) and EBITDA margin sustained at 21% (C1, C2).",
+    "reality": "Reported numbers match: revenue +61.7% YoY, operating margin 20.4% vs 10.7% in the same quarter last year, PAT +234.5% YoY.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "C2",
+     "F:rev_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:pat_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "The record quarter marks a structural step-up from higher throughput, product economics and better asset utilisation (C2, C6).",
+    "reality": "The record is in rupees, not in profitability or multi-year growth. Revenue CAGR is -0.4% over three years, PAT CAGR is -13.5% over three years and -6.6% over five, and the margin is 370 bps lower than three years ago and 1,620 bps lower than five years ago. Two of the last four quarters had revenue growth of 3.8% and -2.8%.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "F:rev_cagr_3y",
+     "F:pat_cagr_3y",
+     "F:pat_cagr_5y",
+     "F:margin_change_3y_bps",
+     "F:margin_change_5y_bps",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "claim": "Newly commissioned assets will add about INR 240 crore of EBIT in FY27 and INR 400-420 crore in FY28 (G3, G2), with Q4 margins above Q3 (G8).",
+    "reality": "None of this is in reported numbers yet. Management itself guides Q3 EBIT margin down toward Q1 levels (C7), the earlier full-utilisation date was missed (G22), and ROCE is 11.0% on the asset base built so far.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G3",
+     "G2",
+     "G8",
+     "C7",
+     "G22",
+     "F:roce_latest_pct"
+    ]
+   },
+   {
+    "claim": "Balance sheet stays 'very, very comfortable', with debt-to-equity not crossing 1x while funding an INR 11,000 crore project 60:40 (G15, G20).",
+    "reality": "Leverage is low today at 0.27x D/E and INR 1,762 crore borrowings. Cash generation is weak, though: five-year FCF is INR -139 crore, CFO/PAT is 0.88 and the cash conversion cycle has lengthened from 76 to 92 days. The roughly INR 6,600 crore of project debt implied by 60:40 will have to be borrowed rather than funded internally.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G15",
+     "G20",
+     "F:debt_to_equity",
+     "F:borrowings_cr",
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:ccc_days_3y_ago",
+     "F:ccc_days_latest"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Earnings inflection is in reported numbers: Q2 FY27 revenue +61.7% YoY, operating margin 20.4% vs 10.7% a year earlier, TTM PAT INR 1,063 crore on TTM revenue of INR 9,749 crore.",
+    "evidence_ids": [
+     "F:rev_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:ttm_pat_cr",
+     "F:ttm_revenue_cr",
+     "C2"
+    ]
+   },
+   {
+    "point": "The new asset pipeline is now commissioned: MIBK/MIBC plus DCTL chlorination, photochlorination, hydrogenation and fluorination (C3, C5, C8). Management quantifies INR 240 crore of incremental EBIT for FY27 and INR 400-420 crore for FY28, against H1 FY27 EBITDA of INR 1,197 crore. Agchem volumes are tied to annual contracts (C7).",
+    "evidence_ids": [
+     "G17",
+     "C3",
+     "C5",
+     "C8",
+     "G3",
+     "G2",
+     "C2",
+     "C7"
+    ]
+   },
+   {
+    "point": "There is room to borrow for the polycarbonate build. D/E is 0.27x against a self-set 1x ceiling, and borrowings are INR 1,762 crore against a project plan that implies about INR 6,600 crore of debt.",
+    "evidence_ids": [
+     "F:debt_to_equity",
+     "G15",
+     "F:borrowings_cr",
+     "G20"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Project dates slip. About 100% utilisation of nitric acid and nitration was promised from Q4 FY26, but those assets were still ramping in Q2 FY27, with INR 240 crore of upside still to come. MIBK was guided for Q1 FY27 and commissioned in Q2.",
+    "evidence_ids": [
+     "G22",
+     "C3",
+     "C5",
+     "G23",
+     "G9",
+     "C8"
+    ]
+   },
+   {
+    "point": "Capex and project timelines keep moving. FY27 capex went from INR 2,500 crore to INR 1,000-1,500 crore and INR 1,500-1,600 crore in the same call. FY28 capex went from INR 3,000 crore to INR 2,200-2,400 crore, with INR 2,500 crore pushed into the next year. Polycarbonate went from 'H2' to FY29, with full utilisation in FY31.",
+    "evidence_ids": [
+     "G25",
+     "G12",
+     "G13",
+     "G14",
+     "G4",
+     "G10",
+     "G5",
+     "G6"
+    ]
+   },
+   {
+    "point": "Returns and cash conversion are thin ahead of a 60%-debt-funded INR 11,000 crore project. ROCE is 11.0%, five-year FCF is INR -139 crore, CFO/PAT is 0.88 and the cash cycle has stretched from 76 to 92 days. Management also guides the Q3 EBIT margin back toward Q1 levels.",
+    "evidence_ids": [
+     "F:roce_latest_pct",
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:ccc_days_3y_ago",
+     "F:ccc_days_latest",
+     "G20",
+     "C7"
+    ]
+   }
+  ],
+  "questions": [
+   "Q1 FY27 said 'H2' for polycarbonate commissioning; Q2 FY27 says integrated commissioning in FY29 and full utilisation in FY31. Which is the committed date for first polycarbonate output, and what changed between the two calls?",
+   "Nitric acid and nitration were meant to run at about 100% from Q4 FY26. What utilisation did they actually run at in Q2 FY27, and how much of the INR 240 crore FY27 and INR 400-420 crore FY28 EBIT bridge is volume versus assumed spreads?",
+   "Reconcile the capex numbers: INR 2,500 crore for FY27 (Q3 FY26) against INR 1,000-1,500 crore and INR 1,500-1,600 crore (Q1 FY27), and INR 3,000 crore against INR 2,200-2,400 crore for FY28. Also, what drove the cash conversion cycle from 76 to 92 days while revenue grew 61.7%?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DEEPAKNTR synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 5981,
+  "est_output_tokens": 7608,
+  "est_usd": 0.17608
+ }
+}

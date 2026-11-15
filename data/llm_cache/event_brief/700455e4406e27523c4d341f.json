@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "HFC (R32) plant at Surat has begun commercial operations, adding up to 15K MTPA R32-equivalent capacity; ramp-up is progressive.",
+  "so_what": "Commissioning of a Rs 236.5 Cr project, about 6% of trailing revenue (Rs 4,066 Cr). Ramp-up is progressive, so the revenue impact will build gradually rather than step up at once.",
+  "key_numbers": [
+   {
+    "label": "Capex funding approved",
+    "value": "₹236.50 Crores"
+   },
+   {
+    "label": "Added capacity",
+    "value": "up to 15K MTPA R32 equivalent"
+   },
+   {
+    "label": "Location",
+    "value": "Surat unit"
+   }
+  ],
+  "expertise_needed": [
+   "fluorochemicals capacity",
+   "refrigerant gas market dynamics"
+  ],
+  "questions": [
+   "What utilisation and ramp timeline is planned for the new 15K MTPA, and when does it reach full run-rate?",
+   "How much of the R32 output is contracted, and what are the pricing and feedstock terms?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "NAVINFLUOR brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 822,
+  "est_output_tokens": 286,
+  "est_usd": 0.00023
+ }
+}

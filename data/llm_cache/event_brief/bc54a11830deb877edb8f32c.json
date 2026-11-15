@@ -1,0 +1,41 @@
+{
+ "output": {
+  "one_line": "Allotted 5,74,25,740 warrants at Rs 1,010 each to the promoter; 25% paid upfront, balance on exercise within 18 months.",
+  "so_what": "Promoter-only warrant issue of about Rs 5,800 cr (6% of TTM revenue); about Rs 1,450 cr upfront. Promoter stake barely moves (51.30% to 51.23%). Routine capital step; watch use of funds.",
+  "key_numbers": [
+   {
+    "label": "Warrants allotted",
+    "value": "5,74,25,740 at Rs 1,010 each"
+   },
+   {
+    "label": "Minimum upfront",
+    "value": "25% on allotment"
+   },
+   {
+    "label": "Promoter stake pre-issue",
+    "value": "51.30%"
+   },
+   {
+    "label": "Promoter stake post-issue (diluted)",
+    "value": "51.23%"
+   }
+  ],
+  "expertise_needed": [
+   "SEBI preferential issue rules",
+   "promoter-funded capital raising"
+  ],
+  "questions": [
+   "Why raise capital through promoter warrants rather than from the market, and how will the upfront proceeds be deployed?",
+   "What drives exercise of the balance 75% within 18 months, and how would the capital position change if the warrants lapse?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BAJFINANCE brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1849,
+  "est_output_tokens": 330,
+  "est_usd": 0.00035
+ }
+}

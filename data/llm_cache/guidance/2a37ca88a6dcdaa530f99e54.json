@@ -1,0 +1,32 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q1FY26-p21-113-2",
+    "quote": "We should deliver everything within six hours.",
+    "statement": "Target to deliver all DMart Ready online orders within six hours",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 6,
+    "target_high": 6,
+    "unit": "hours",
+    "horizon": "unspecified",
+    "speaker": "Neville Noronha",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management is very bullish on store acceleration and online delivery, though it gives few numeric targets."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DMART guidance Q1 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 3578,
+  "est_output_tokens": 174,
+  "est_usd": 0.00044
+ }
+}

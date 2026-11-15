@@ -1,0 +1,84 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q1FY27-p4-17-1",
+    "quote": "whatever we have been discussing that 22%, 23%, we're still holding it",
+    "statement": "FY27 growth of 22-23% still being held",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 22,
+    "target_high": 23,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p14-106-1",
+    "quote": "See, we have been talking about 3.5% pretax ROA.",
+    "statement": "Pre-tax ROA of at least 3.5%, stated as a minimum to be continued",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 3.5,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Ravindra Kundu",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p13-92-1",
+    "quote": "likely to hit INR5,000 crores in this financial year",
+    "statement": "Gold loan AUM to reach INR 5,000 crore in FY27 from INR 2,000 crore-plus today",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 5000,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q1FY27-p11-88-4",
+    "quote": "We are expecting to improve credit cost from here further.",
+    "statement": "Net credit cost to improve further from Q1 FY27 levels, with confidence for Q2 and Q3",
+    "metric": "credit_cost",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q2FY27 and Q3FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q1FY27-p7-38-1",
+    "quote": "Overall, cost of funds may go up by around 10 basis points.",
+    "statement": "Cost of funds up about 10 bps in H2FY27; FY27 cost of funds flat as % of average assets",
+    "metric": "nim",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 10,
+    "unit": "bps",
+    "horizon": "H2FY27",
+    "speaker": "Arul Selvan",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says 22-23% growth is still being held and calls the 3.5% pre-tax ROA a minimum, while only flagging rate-cycle and cost-of-funds risk for the second half."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "CHOLAFIN guidance Q1 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5713,
+  "est_output_tokens": 704,
+  "est_usd": 0.00092
+ }
+}

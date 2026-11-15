@@ -1,0 +1,73 @@
+{
+ "output": {
+  "changes": [
+   {
+    "name": "Anup Bagchi",
+    "role": "Managing Director & CEO",
+    "change": "appointed",
+    "effective_date": "2026-10-27",
+    "is_kmp": true,
+    "bio": "A seasoned financial services leader with over three decades of experience across banking, capital markets, wealth management and insurance. He has been MD & CEO of ICICI Life Insurance Limited since June 2023.",
+    "age": 56,
+    "career": [
+     {
+      "org": "ICICI Life Insurance Limited",
+      "role": "MD & CEO",
+      "start_year": 2023,
+      "end_year": null
+     },
+     {
+      "org": "ICICI Bank Limited",
+      "role": "Executive Director",
+      "start_year": 2017,
+      "end_year": 2023
+     },
+     {
+      "org": "ICICI Prudential Asset Management Company Limited",
+      "role": "Chairman",
+      "start_year": null,
+      "end_year": 2023
+     },
+     {
+      "org": "ICICI Securities Limited",
+      "role": "CEO & MD",
+      "start_year": null,
+      "end_year": null
+     }
+    ],
+    "education": [
+     {
+      "institution": "Indian Institute of Management, Bangalore",
+      "degree": "Management degree",
+      "year": null
+     },
+     {
+      "institution": "Indian Institute of Technology, Kanpur",
+      "degree": "Engineering degree",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Sashidhar Jagdishan",
+    "role": "Managing Director & CEO",
+    "change": "retired",
+    "effective_date": "2026-10-26",
+    "is_kmp": true,
+    "bio": "The Board placed on record its appreciation for his long association and contribution to the growth of the Bank.",
+    "age": null,
+    "career": [],
+    "education": []
+   }
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HDFCBANK people",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5418,
+  "est_output_tokens": 455,
+  "est_usd": 0.00077
+ }
+}

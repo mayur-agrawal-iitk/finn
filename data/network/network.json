@@ -1,0 +1,324 @@
+{
+  "_about": "SYNTHETIC network for the demo. Every contact below is fictional; organisations are real or marked synthetic in orgs.json. In a real deployment this file never leaves the investor's device: it is assembled from the investor's own LinkedIn data export (Connections.csv), calendar, and notes — see docs/ARCHITECTURE.md §Privacy.",
+  "as_of": "2026-11-15",
+  "investor": {
+    "id": "me",
+    "name": "You",
+    "headline": "Partner & PM, Meridian Ridge Capital",
+    "career": [
+      {"org_id": "meridian-ridge", "role": "Partner & Portfolio Manager", "function": "investing", "seniority": 5, "start": 2020, "end": null},
+      {"org_id": "kotak-ie", "role": "VP, Equity Research — Industrials & Chemicals", "function": "research", "seniority": 3, "start": 2014, "end": 2020}
+    ],
+    "education": [
+      {"org_id": "iitk", "degree": "B.Tech, Mechanical Engineering", "start": 2008, "end": 2012},
+      {"org_id": "iima", "degree": "PGP", "start": 2012, "end": 2014}
+    ]
+  },
+  "people": [
+    {"id": "p01", "name": "Meera Iyer", "headline": "CIO, Avantika Family Office", "city": "Mumbai",
+     "career": [
+       {"org_id": "avantika-fo", "role": "Chief Investment Officer", "function": "investing", "seniority": 5, "start": 2016, "end": null},
+       {"org_id": "icici-sec", "role": "Head of Equity Research", "function": "research", "seniority": 4, "start": 2009, "end": 2016},
+       {"org_id": "jm-financial", "role": "Banking Analyst", "function": "research", "seniority": 2, "start": 2003, "end": 2009}],
+     "education": [{"org_id": "iimc", "degree": "PGDM", "start": 2001, "end": 2003}],
+     "relation": {"type": "industry", "context": "Fellow panellist at Kotak's India conference, 2015; trades notes on financials", "since": 2015},
+     "last_contact": "2026-08-20", "touches_12m": 4, "tags": ["banking", "capital_markets"], "source": "linkedin_export"},
+
+    {"id": "p02", "name": "Arjun Malhotra", "headline": "Co-founder, Khetika Credit", "city": "Bengaluru",
+     "career": [
+       {"org_id": "khetika", "role": "Co-founder & CEO", "function": "general_management", "seniority": 5, "start": 2022, "end": null},
+       {"org_id": "ICICIBANK", "role": "Head — Rural & Inclusive Banking, South", "function": "rural_banking", "seniority": 4, "start": 2019, "end": 2022},
+       {"org_id": "ICICIBANK", "role": "Product Manager, Retail Assets", "function": "retail_banking", "seniority": 2, "start": 2014, "end": 2019}],
+     "education": [{"org_id": "iitk", "degree": "B.Tech, Electrical Engineering", "start": 2008, "end": 2012}, {"org_id": "isb", "degree": "PGP", "start": 2013, "end": 2014}],
+     "relation": {"type": "classmate", "context": "IIT Kanpur, 2012 batch — same hostel (Hall 5)", "since": 2008},
+     "last_contact": "2026-03-02", "touches_12m": 1, "tags": ["rural_lending", "banking"], "source": "linkedin_export"},
+
+    {"id": "p03", "name": "Vikram Sethi", "headline": "Chief Distribution Officer (until Oct 2026), ICICI Prudential Life", "city": "Mumbai",
+     "career": [
+       {"org_id": "icici-pru-life", "role": "Chief Distribution Officer", "function": "distribution", "seniority": 4, "start": 2020, "end": 2026},
+       {"org_id": "HDFCLIFE", "role": "Head — Bancassurance", "function": "distribution", "seniority": 3, "start": 2012, "end": 2020}],
+     "education": [{"org_id": "xlri", "degree": "PGDBM", "start": 2005, "end": 2007}],
+     "relation": {"type": "industry", "context": "Met at an insurance roundtable, Mumbai, 2024", "since": 2024},
+     "last_contact": "2025-12-10", "touches_12m": 1, "tags": ["insurance", "banking"], "source": "linkedin_export"},
+
+    {"id": "p04", "name": "Rohan Kapoor", "headline": "Head — Strategy & Investor Relations, HDFC Bank", "city": "Mumbai",
+     "career": [
+       {"org_id": "HDFCBANK", "role": "Head — Strategy & Investor Relations", "function": "strategy", "seniority": 4, "start": 2018, "end": null},
+       {"org_id": "kotak-ie", "role": "Analyst — Banks", "function": "research", "seniority": 2, "start": 2012, "end": 2018}],
+     "education": [{"org_id": "fms", "degree": "MBA", "start": 2010, "end": 2012}],
+     "relation": {"type": "ex_colleague", "context": "Sat next to you at Kotak Institutional Equities, 2014–18", "since": 2014},
+     "last_contact": "2026-10-02", "touches_12m": 5, "tags": ["banking"], "source": "linkedin_export"},
+
+    {"id": "p05", "name": "Neha Kulkarni", "headline": "VP Sales, Crunchwise Foods", "city": "Pune",
+     "career": [
+       {"org_id": "crunchwise", "role": "VP — Sales", "function": "sales", "seniority": 4, "start": 2023, "end": null},
+       {"org_id": "HONASA", "role": "Category Head — Modern Trade & E-com", "function": "sales", "seniority": 3, "start": 2019, "end": 2023},
+       {"org_id": "DABUR", "role": "Key Account Manager — Modern Trade (West)", "function": "sales", "seniority": 2, "start": 2012, "end": 2019}],
+     "education": [{"org_id": "symbiosis", "degree": "MBA", "start": 2010, "end": 2012}],
+     "relation": {"type": "friend", "context": "School friend from Pune", "since": 2000},
+     "last_contact": "2026-05-18", "touches_12m": 3, "tags": ["fmcg", "retail_consumer"], "source": "linkedin_export"},
+
+    {"id": "p06", "name": "Rohit Deshmukh", "headline": "Head of Supply Chain, Zepto", "city": "Mumbai",
+     "career": [
+       {"org_id": "zepto", "role": "Head of Supply Chain", "function": "operations", "seniority": 4, "start": 2022, "end": null},
+       {"org_id": "DMART", "role": "Category Manager — Staples & FMCG", "function": "merchandising", "seniority": 3, "start": 2014, "end": 2022}],
+     "education": [{"org_id": "jbims", "degree": "MMS", "start": 2012, "end": 2014}],
+     "relation": {"type": "industry", "context": "Met during DMart channel checks, 2019", "since": 2019},
+     "last_contact": "2026-01-22", "touches_12m": 1, "tags": ["retail_consumer", "fmcg"], "source": "calendar"},
+
+    {"id": "p07", "name": "Karan Bhatia", "headline": "Partner, Northbeam Partners (consumer)", "city": "Delhi",
+     "career": [
+       {"org_id": "northbeam-pe", "role": "Partner", "function": "investing", "seniority": 5, "start": 2018, "end": null},
+       {"org_id": "MARICO", "role": "Regional Sales Head", "function": "sales", "seniority": 3, "start": 2011, "end": 2018},
+       {"org_id": "kelloggs", "role": "Area Sales Manager", "function": "sales", "seniority": 2, "start": 2006, "end": 2011}],
+     "education": [{"org_id": "iima", "degree": "PGP", "start": 2004, "end": 2006}],
+     "relation": {"type": "alumni", "context": "IIM-A alumni network; co-invested in two consumer deals", "since": 2019},
+     "last_contact": "2026-07-04", "touches_12m": 2, "tags": ["fmcg", "retail_consumer"], "source": "linkedin_export"},
+
+    {"id": "p08", "name": "Dr. Kavya Reddy", "headline": "Founder, Clinixa Diagnostics", "city": "Hyderabad",
+     "career": [
+       {"org_id": "clinixa", "role": "Founder & CEO", "function": "general_management", "seniority": 5, "start": 2022, "end": null},
+       {"org_id": "MEDANTA", "role": "Director — Hospital Operations", "function": "operations", "seniority": 4, "start": 2019, "end": 2022},
+       {"org_id": "APOLLOHOSP", "role": "Head of Operations, Hyderabad cluster", "function": "operations", "seniority": 3, "start": 2011, "end": 2019}],
+     "education": [{"org_id": "aiims", "degree": "MBBS", "start": 2001, "end": 2006}, {"org_id": "isb", "degree": "PGP", "start": 2009, "end": 2010}],
+     "relation": {"type": "industry", "context": "Expert call during hospital-sector diligence, 2023", "since": 2023},
+     "last_contact": "2026-09-05", "touches_12m": 2, "tags": ["healthcare"], "source": "calendar"},
+
+    {"id": "p09", "name": "Col. (retd.) Sameer Joshi", "headline": "Independent defence advisor", "city": "Bengaluru",
+     "career": [
+       {"org_id": "sterling-advisory", "role": "Senior Advisor — Defence", "function": "advisory", "seniority": 4, "start": 2021, "end": null},
+       {"org_id": "BEL", "role": "GM — Business Development, Radars", "function": "business_development", "seniority": 4, "start": 2015, "end": 2021},
+       {"org_id": "indian-air-force", "role": "Officer — Air Defence", "function": "operations", "seniority": 3, "start": 1994, "end": 2014}],
+     "education": [],
+     "relation": {"type": "industry", "context": "Met at Aero India, 2023", "since": 2023},
+     "last_contact": "2026-02-14", "touches_12m": 1, "tags": ["defence"], "source": "calendar"},
+
+    {"id": "p10", "name": "Anand Rao", "headline": "CTO, Vayu Drones", "city": "Bengaluru",
+     "career": [
+       {"org_id": "vayu-drones", "role": "CTO", "function": "engineering", "seniority": 5, "start": 2016, "end": null},
+       {"org_id": "HAL", "role": "Design Engineer — Rotary Wing R&D Centre", "function": "engineering", "seniority": 2, "start": 2004, "end": 2016}],
+     "education": [{"org_id": "iitkgp", "degree": "B.Tech, Aerospace", "start": 2000, "end": 2004}],
+     "relation": {"type": "introduced", "context": "Introduced by Arjun Malhotra, 2022", "since": 2022},
+     "last_contact": "2025-10-11", "touches_12m": 0, "tags": ["defence"], "source": "manual"},
+
+    {"id": "p11", "name": "Priya Nair", "headline": "Head — New Programs, Dixon Technologies", "city": "Noida",
+     "career": [
+       {"org_id": "DIXON", "role": "Head — New Programs", "function": "programs", "seniority": 4, "start": 2022, "end": null},
+       {"org_id": "KAYNES", "role": "Program Manager — Industrial & Auto EMS", "function": "programs", "seniority": 3, "start": 2016, "end": 2022}],
+     "education": [{"org_id": "nitk", "degree": "B.Tech, Electronics", "start": 2008, "end": 2012}],
+     "relation": {"type": "industry", "context": "Hosted your Kaynes Mysuru plant visit, Aug 2021", "since": 2021},
+     "last_contact": "2026-06-30", "touches_12m": 2, "tags": ["semis_electronics"], "source": "calendar"},
+
+    {"id": "p12", "name": "Deepak Menon", "headline": "Country Manager — India, Vishay Intertechnology", "city": "Bengaluru",
+     "career": [
+       {"org_id": "vishay", "role": "Country Manager — India", "function": "general_management", "seniority": 5, "start": 2019, "end": null},
+       {"org_id": "vishay", "role": "Director — Sales, Automotive", "function": "sales", "seniority": 3, "start": 2014, "end": 2019},
+       {"org_id": "BOSCHLTD", "role": "Engineer → Manager, Electronics", "function": "engineering", "seniority": 2, "start": 2008, "end": 2012}],
+     "education": [{"org_id": "iitm", "degree": "B.Tech", "start": 2004, "end": 2008}, {"org_id": "iima", "degree": "PGP", "start": 2012, "end": 2014}],
+     "relation": {"type": "classmate", "context": "IIM Ahmedabad PGP 2014 — same section", "since": 2012},
+     "last_contact": "2026-07-25", "touches_12m": 3, "tags": ["semis_electronics", "auto_engineering"], "source": "linkedin_export"},
+
+    {"id": "p13", "name": "Siddharth Rao", "headline": "Program Director — OSAT, Tata Electronics", "city": "Guwahati",
+     "career": [
+       {"org_id": "tata-electronics", "role": "Program Director — OSAT", "function": "operations", "seniority": 4, "start": 2021, "end": null},
+       {"org_id": "micron", "role": "Process Engineering Manager", "function": "engineering", "seniority": 3, "start": 2014, "end": 2021}],
+     "education": [{"org_id": "iitb", "degree": "B.Tech + M.Tech, Metallurgy", "start": 2009, "end": 2014}],
+     "relation": {"type": "industry", "context": "Met at SEMICON India, 2024", "since": 2024},
+     "last_contact": "2026-04-19", "touches_12m": 1, "tags": ["semis_electronics"], "source": "linkedin_export"},
+
+    {"id": "p14", "name": "Ritika Shah", "headline": "CFO, Arvind Fashions", "city": "Bengaluru",
+     "career": [
+       {"org_id": "ARVINDFASN", "role": "Chief Financial Officer", "function": "finance", "seniority": 5, "start": 2019, "end": null},
+       {"org_id": "PAGEIND", "role": "Financial Controller", "function": "finance", "seniority": 3, "start": 2013, "end": 2019},
+       {"org_id": "ey", "role": "Assurance Manager", "function": "audit", "seniority": 2, "start": 2008, "end": 2013}],
+     "education": [{"org_id": "icai", "degree": "Chartered Accountant", "start": 2005, "end": 2008}],
+     "relation": {"type": "industry", "context": "Met at Kotak's consumer conference, 2016", "since": 2016},
+     "last_contact": "2025-11-02", "touches_12m": 0, "tags": ["retail_consumer", "legal_regulatory"], "source": "linkedin_export"},
+
+    {"id": "p15", "name": "Farhan Ali", "headline": "Partner — FEMA & Regulatory, Khaitan & Co", "city": "Mumbai",
+     "career": [
+       {"org_id": "khaitan", "role": "Partner — FEMA & Regulatory", "function": "legal", "seniority": 5, "start": 2010, "end": null}],
+     "education": [],
+     "relation": {"type": "friend", "context": "College friend; your go-to on foreign-exchange rules", "since": 2004},
+     "last_contact": "2026-09-14", "touches_12m": 3, "tags": ["legal_regulatory"], "source": "manual"},
+
+    {"id": "p16", "name": "Ananya Krishnan", "headline": "Business Head — Fluorochemicals, SRF", "city": "Gurugram",
+     "career": [
+       {"org_id": "SRF", "role": "Business Head — Fluorochemicals", "function": "general_management", "seniority": 5, "start": 2021, "end": null},
+       {"org_id": "NAVINFLUOR", "role": "Plant Head — Refrigerant Gases, Surat", "function": "operations", "seniority": 4, "start": 2014, "end": 2021}],
+     "education": [{"org_id": "ictmumbai", "degree": "B.Chem.Eng", "start": 2002, "end": 2006}],
+     "relation": {"type": "industry", "context": "Hosted your Navin Fluorine Surat visit while you covered chemicals at Kotak, 2019", "since": 2019},
+     "last_contact": "2026-04-08", "touches_12m": 1, "tags": ["specialty_chem"], "source": "calendar"},
+
+    {"id": "p17", "name": "Harsh Vora", "headline": "GM — Projects, Aarti Industries", "city": "Vadodara",
+     "career": [
+       {"org_id": "AARTIIND", "role": "GM — Projects", "function": "projects", "seniority": 4, "start": 2023, "end": null},
+       {"org_id": "DEEPAKNTR", "role": "Project Manager — Phenol & Acetone", "function": "projects", "seniority": 3, "start": 2017, "end": 2023}],
+     "education": [{"org_id": "ictmumbai", "degree": "M.Tech, Chemical Engineering", "start": 2014, "end": 2016}],
+     "relation": {"type": "industry", "context": "Expert call on phenol economics, 2022", "since": 2022},
+     "last_contact": "2026-06-03", "touches_12m": 1, "tags": ["specialty_chem"], "source": "calendar"},
+
+    {"id": "p18", "name": "Prof. Suresh Patil", "headline": "Professor of Chemical Engineering, ICT Mumbai", "city": "Mumbai",
+     "career": [
+       {"org_id": "ictmumbai", "role": "Professor of Chemical Engineering", "function": "academia", "seniority": 5, "start": 2005, "end": null}],
+     "education": [],
+     "relation": {"type": "introduced", "context": "Introduced by Ananya Krishnan, 2020", "since": 2020},
+     "last_contact": "2026-02-27", "touches_12m": 1, "tags": ["specialty_chem"], "source": "manual"},
+
+    {"id": "p19", "name": "Lakshmi Narayanan", "headline": "Partner, Arka Impact Partners", "city": "Bengaluru",
+     "career": [
+       {"org_id": "arka-impact", "role": "Partner", "function": "investing", "seniority": 5, "start": 2020, "end": null},
+       {"org_id": "CREDITACC", "role": "Regional Business Head — Karnataka", "function": "lending_operations", "seniority": 4, "start": 2011, "end": 2020}],
+     "education": [{"org_id": "iimb", "degree": "PGP", "start": 2007, "end": 2009}],
+     "relation": {"type": "industry", "context": "Field trip to Karnataka microfinance branches, 2018", "since": 2018},
+     "last_contact": "2026-09-28", "touches_12m": 3, "tags": ["rural_lending"], "source": "calendar"},
+
+    {"id": "p20", "name": "Mohit Agarwal", "headline": "Chief Credit Officer, Home First Finance", "city": "Mumbai",
+     "career": [
+       {"org_id": "HOMEFIRST", "role": "Chief Credit Officer", "function": "credit", "seniority": 4, "start": 2021, "end": null},
+       {"org_id": "AAVAS", "role": "Credit Head — Rajasthan & MP", "function": "credit", "seniority": 3, "start": 2014, "end": 2021}],
+     "education": [{"org_id": "icai", "degree": "Chartered Accountant", "start": 2007, "end": 2010}],
+     "relation": {"type": "industry", "context": "Branch visits in Jaipur, 2019", "since": 2019},
+     "last_contact": "2026-08-08", "touches_12m": 2, "tags": ["rural_lending"], "source": "calendar"},
+
+    {"id": "p21", "name": "Venkat Subramanian", "headline": "Independent consultant — vehicle finance", "city": "Chennai",
+     "career": [
+       {"org_id": "CHOLAFIN", "role": "Zonal Head — Vehicle Finance", "function": "lending_operations", "seniority": 4, "start": 2009, "end": 2019},
+       {"org_id": "murugappa", "role": "Group Strategy", "function": "strategy", "seniority": 4, "start": 2019, "end": 2022}],
+     "education": [{"org_id": "iiml", "degree": "PGP", "start": 2003, "end": 2005}],
+     "relation": {"type": "industry", "context": "Kotak IE NBFC conference, 2017", "since": 2017},
+     "last_contact": "2025-06-17", "touches_12m": 0, "tags": ["rural_lending"], "source": "linkedin_export"},
+
+    {"id": "p22", "name": "Ishaan Gupta", "headline": "CEO, Paydeck", "city": "Bengaluru",
+     "career": [
+       {"org_id": "paydeck", "role": "Founder & CEO", "function": "general_management", "seniority": 5, "start": 2020, "end": null},
+       {"org_id": "BAJFINANCE", "role": "Business Head — Consumer Durables Finance", "function": "lending_operations", "seniority": 3, "start": 2013, "end": 2020}],
+     "education": [{"org_id": "iitk", "degree": "B.Tech, Computer Science", "start": 2007, "end": 2011}],
+     "relation": {"type": "alumni", "context": "IIT Kanpur — a year senior; same robotics club", "since": 2008},
+     "last_contact": "2026-10-20", "touches_12m": 4, "tags": ["banking"], "source": "linkedin_export"},
+
+    {"id": "p23", "name": "Rahul Bose", "headline": "Global Head — Insurance Practice, TCS", "city": "Mumbai",
+     "career": [
+       {"org_id": "TCS", "role": "Global Head — Insurance Practice", "function": "delivery", "seniority": 4, "start": 2005, "end": null}],
+     "education": [{"org_id": "bits", "degree": "B.E.", "start": 2001, "end": 2005}],
+     "relation": {"type": "family_friend", "context": "Family friend", "since": 2010},
+     "last_contact": "2026-10-28", "touches_12m": 3, "tags": ["it_services"], "source": "manual"},
+
+    {"id": "p24", "name": "Sneha Pillai", "headline": "Head — Strategy & M&A, Persistent Systems", "city": "Pune",
+     "career": [
+       {"org_id": "PERSISTENT", "role": "Head — Strategy & M&A", "function": "strategy", "seniority": 4, "start": 2019, "end": null},
+       {"org_id": "mckinsey", "role": "Engagement Manager", "function": "consulting", "seniority": 3, "start": 2013, "end": 2019}],
+     "education": [{"org_id": "iima", "degree": "PGP", "start": 2011, "end": 2013}],
+     "relation": {"type": "alumni", "context": "IIM-A, a year senior", "since": 2012},
+     "last_contact": "2026-05-29", "touches_12m": 2, "tags": ["it_services"], "source": "linkedin_export"},
+
+    {"id": "p25", "name": "Aditya Jain", "headline": "Principal, Northbeam Partners", "city": "Mumbai",
+     "career": [
+       {"org_id": "northbeam-pe", "role": "Principal", "function": "investing", "seniority": 4, "start": 2025, "end": null},
+       {"org_id": "RELIANCE", "role": "Strategy — Reliance Retail", "function": "strategy", "seniority": 3, "start": 2021, "end": 2025},
+       {"org_id": "RELIANCE", "role": "Strategy — Jio Platforms", "function": "strategy", "seniority": 2, "start": 2016, "end": 2021}],
+     "education": [{"org_id": "iima", "degree": "PGP", "start": 2012, "end": 2014}],
+     "relation": {"type": "classmate", "context": "IIM Ahmedabad PGP 2014", "since": 2012},
+     "last_contact": "2026-09-09", "touches_12m": 3, "tags": ["energy_conglomerate", "retail_consumer"], "source": "linkedin_export"},
+
+    {"id": "p26", "name": "Pooja Bansal", "headline": "Founder, Milletry Foods", "city": "Delhi",
+     "career": [
+       {"org_id": "milletry", "role": "Founder", "function": "general_management", "seniority": 5, "start": 2019, "end": null},
+       {"org_id": "ITC", "role": "Brand Manager — Foods", "function": "marketing", "seniority": 2, "start": 2011, "end": 2018}],
+     "education": [{"org_id": "iimc", "degree": "PGDM", "start": 2009, "end": 2011}],
+     "relation": {"type": "industry", "context": "Pitched you for her seed round, 2021", "since": 2021},
+     "last_contact": "2026-03-15", "touches_12m": 1, "tags": ["fmcg"], "source": "calendar"},
+
+    {"id": "p27", "name": "Nikhil Raman", "headline": "VP Operations, Ember Mobility", "city": "Chennai",
+     "career": [
+       {"org_id": "ember-ev", "role": "VP Operations", "function": "operations", "seniority": 4, "start": 2023, "end": null},
+       {"org_id": "TIINDIA", "role": "Plant Manager — TI Clean Mobility", "function": "operations", "seniority": 3, "start": 2017, "end": 2023}],
+     "education": [{"org_id": "iitm", "degree": "B.Tech, Mechanical", "start": 2009, "end": 2013}],
+     "relation": {"type": "industry", "context": "Plant visit, Ambattur, 2022", "since": 2022},
+     "last_contact": "2026-01-09", "touches_12m": 1, "tags": ["auto_engineering"], "source": "calendar"},
+
+    {"id": "p28", "name": "Gaurav Chawla", "headline": "Head — Sourcing, Havells", "city": "Noida",
+     "career": [
+       {"org_id": "HAVELLS", "role": "Head — Sourcing", "function": "sourcing", "seniority": 4, "start": 2020, "end": null},
+       {"org_id": "AMBER", "role": "Head — Components Business", "function": "general_management", "seniority": 3, "start": 2014, "end": 2020}],
+     "education": [{"org_id": "iitd", "degree": "B.Tech", "start": 2005, "end": 2009}],
+     "relation": {"type": "industry", "context": "Expert call on room-AC components, 2020", "since": 2020},
+     "last_contact": "2026-07-17", "touches_12m": 1, "tags": ["semis_electronics", "retail_consumer"], "source": "calendar"},
+
+    {"id": "p29", "name": "Tanvi Mehra", "headline": "Fund Manager, Bharat Asset Management", "city": "Mumbai",
+     "career": [
+       {"org_id": "bharat-amc", "role": "Fund Manager — Consumption", "function": "investing", "seniority": 4, "start": 2019, "end": null},
+       {"org_id": "kotak-ie", "role": "Analyst — Consumer", "function": "research", "seniority": 2, "start": 2013, "end": 2019}],
+     "education": [{"org_id": "srcc", "degree": "B.Com", "start": 2007, "end": 2010}, {"org_id": "icai", "degree": "Chartered Accountant", "start": 2010, "end": 2013}],
+     "relation": {"type": "ex_colleague", "context": "Kotak IE consumer team, 2014–19", "since": 2014},
+     "last_contact": "2026-11-01", "touches_12m": 6, "tags": ["capital_markets", "retail_consumer"], "source": "linkedin_export"},
+
+    {"id": "p30", "name": "Dr. Meenakshi Rao", "headline": "Senior Advisor, Sterling Policy Advisors", "city": "Delhi",
+     "career": [
+       {"org_id": "sterling-advisory", "role": "Senior Advisor — Banking Regulation", "function": "advisory", "seniority": 5, "start": 2019, "end": null},
+       {"org_id": "rbi", "role": "General Manager — Department of Regulation", "function": "regulation", "seniority": 4, "start": 2005, "end": 2019}],
+     "education": [],
+     "relation": {"type": "industry", "context": "Co-panellist on bank governance, 2024", "since": 2024},
+     "last_contact": "2026-05-06", "touches_12m": 1, "tags": ["banking", "legal_regulatory"], "source": "manual"},
+
+    {"id": "p31", "name": "Amit Saxena", "headline": "Advisor, Arka Impact Partners", "city": "Mumbai",
+     "career": [
+       {"org_id": "arka-impact", "role": "Advisor", "function": "advisory", "seniority": 4, "start": 2021, "end": null},
+       {"org_id": "HDFCBANK", "role": "Head — Rural Banking", "function": "rural_banking", "seniority": 4, "start": 2012, "end": 2020}],
+     "education": [{"org_id": "iimb", "degree": "PGP", "start": 1998, "end": 2000}],
+     "relation": {"type": "introduced", "context": "Introduced by Lakshmi Narayanan, 2021", "since": 2021},
+     "last_contact": "2025-07-01", "touches_12m": 0, "tags": ["rural_lending", "banking"], "source": "manual"},
+
+    {"id": "p32", "name": "Ira Bhattacharya", "headline": "VP — Corporate Banking, ICICI Bank", "city": "Mumbai",
+     "career": [
+       {"org_id": "ICICIBANK", "role": "VP — Corporate Banking Relationships", "function": "wholesale_banking", "seniority": 2, "start": 2019, "end": null}],
+     "education": [{"org_id": "iima", "degree": "PGP", "start": 2012, "end": 2014}],
+     "relation": {"type": "classmate", "context": "IIM Ahmedabad PGP 2014", "since": 2012},
+     "last_contact": "2026-08-30", "touches_12m": 2, "tags": ["banking"], "source": "linkedin_export"},
+
+    {"id": "p33", "name": "Sahil Mehta", "headline": "Analyst — Defence & Capital Goods, Ambit Capital", "city": "Mumbai",
+     "career": [
+       {"org_id": "ambit", "role": "Analyst — Defence & Capital Goods", "function": "research", "seniority": 3, "start": 2020, "end": null},
+       {"org_id": "kotak-ie", "role": "Associate — Industrials", "function": "research", "seniority": 1, "start": 2016, "end": 2020}],
+     "education": [{"org_id": "nitk", "degree": "B.Tech", "start": 2010, "end": 2014}],
+     "relation": {"type": "ex_colleague", "context": "Your associate at Kotak IE, 2016–20", "since": 2016},
+     "last_contact": "2026-10-24", "touches_12m": 5, "tags": ["defence", "capital_markets"], "source": "linkedin_export"},
+
+    {"id": "p34", "name": "Dr. Nandini Rao", "headline": "Partner, Healthbridge Capital", "city": "Delhi",
+     "career": [
+       {"org_id": "healthbridge-pe", "role": "Partner", "function": "investing", "seniority": 5, "start": 2022, "end": null},
+       {"org_id": "MAXHEALTH", "role": "Head — Strategy", "function": "strategy", "seniority": 4, "start": 2015, "end": 2022}],
+     "education": [{"org_id": "afmc", "degree": "MBBS", "start": 2000, "end": 2005}, {"org_id": "insead", "degree": "MBA", "start": 2012, "end": 2013}],
+     "relation": {"type": "industry", "context": "Co-investor in a diagnostics round, 2024", "since": 2024},
+     "last_contact": "2026-06-12", "touches_12m": 2, "tags": ["healthcare"], "source": "linkedin_export"},
+
+    {"id": "p35", "name": "Arvind Kumar", "headline": "Disclosure & governance consultant", "city": "Mumbai",
+     "career": [
+       {"org_id": "nse-india", "role": "Senior Manager — Listing Compliance", "function": "regulation", "seniority": 3, "start": 2010, "end": 2018}],
+     "education": [{"org_id": "icsi", "degree": "Company Secretary", "start": 2006, "end": 2009}],
+     "relation": {"type": "industry", "context": "Helped you read a tricky Reg 30 disclosure, 2021", "since": 2021},
+     "last_contact": "2026-04-30", "touches_12m": 1, "tags": ["legal_regulatory", "capital_markets"], "source": "manual"},
+
+    {"id": "p36", "name": "Sanya Kapadia", "headline": "Associate Director, Consumer — Kellogg India", "city": "Mumbai",
+     "career": [
+       {"org_id": "kelloggs", "role": "Associate Director — Modern Trade", "function": "sales", "seniority": 3, "start": 2015, "end": null},
+       {"org_id": "DABUR", "role": "Key Account Executive — Modern Trade", "function": "sales", "seniority": 1, "start": 2011, "end": 2015}],
+     "education": [{"org_id": "symbiosis", "degree": "MBA", "start": 2009, "end": 2011}],
+     "relation": {"type": "friend_of_friend", "context": "Neha Kulkarni's MBA classmate; met twice", "since": 2022},
+     "last_contact": "2025-12-20", "touches_12m": 0, "tags": ["fmcg"], "source": "linkedin_export"}
+  ],
+  "meetings": [
+    {"date": "2026-10-14", "org_id": "HDFCBANK", "people": ["p04"], "note": "Post-results catch-up with IR"},
+    {"date": "2026-09-05", "org_id": "APOLLOHOSP", "people": ["p08"], "note": "Hospital occupancy trends"},
+    {"date": "2026-08-20", "org_id": "ICICIBANK", "people": ["p01"], "note": "Private-bank deposit franchise"},
+    {"date": "2026-07-25", "org_id": "KAYNES", "people": ["p12"], "note": "Component supply for EMS players"},
+    {"date": "2026-06-30", "org_id": "DIXON", "people": ["p11"], "note": "Electronics PLI and new programs"},
+    {"date": "2026-04-08", "org_id": "SRF", "people": ["p16"], "note": "Refrigerant-gas pricing"},
+    {"date": "2026-02-14", "org_id": "BEL", "people": ["p09"], "note": "Radar order pipeline"},
+    {"date": "2025-08-21", "org_id": "KAYNES", "people": [], "note": "Mysuru plant visit"},
+    {"date": "2025-03-12", "org_id": "NAVINFLUOR", "people": [], "note": "Surat site visit, R32 expansion"},
+    {"date": "2024-11-06", "org_id": "CREDITACC", "people": ["p19"], "note": "Karnataka branch walk"},
+    {"date": "2024-07-18", "org_id": "PAGEIND", "people": [], "note": "Management meeting, Bengaluru"},
+    {"date": "2024-02-02", "org_id": "DMART", "people": ["p06"], "note": "Store-ops walk-through, Thane"}
+  ]
+}

@@ -1,0 +1,180 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "IT services company that sells technology and AI-led services through a 'Human+AI' delivery model: AI-native solutions, AI-led transformation of enterprise systems, autonomous global business services and data-estate modernisation. Q2 FY27 revenue was INR73,188 crore (USD7,642 million).",
+   "segments": [
+    {
+     "name": "IT and AI services",
+     "share_pct": null,
+     "comment": "The inputs give no segment or geography split. C3 describes three AI demand patterns, but AI revenue is not sized."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C3"
+   ]
+  },
+  "credibility": {
+   "score": 52,
+   "label": "medium",
+   "summary": "Most of TCS's guidance is undated aspiration (a 26-28% margin, inching back to FY26 margins, arresting degrowth) that the inputs can't close out. What can be tested shows operating margin parked at 24%, 200bps below the aspiration floor, and constant-currency growth of 2.8% behind an 11.2% rupee headline."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "at_risk",
+    "evidence": "Q2 FY27 operating margin was 24% (C1), 200bps below the 26% floor. On the facts' margin basis it is 25.7%, down from 27.3% a year earlier (F:margin_last_q_pct, F:margin_same_q_last_year_pct). Management is putting investment (bench, subcontractors, M&A) ahead of margin (C1). No date is attached to the aspiration.",
+    "actual": "24% operating margin (Q2 FY27)"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "unverifiable",
+    "evidence": "No headcount or FDE-model figures are in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "unverifiable",
+    "evidence": "The inputs don't say when the increment took effect. The facts' margin fell 160bps sequentially in Q1 FY27, from 27.3% to 25.7% (F:margin_last4_pct), inside the 150-200bps band, but C1 also cites bench and subcontractor costs, so the wage effect can't be isolated.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G7",
+    "status": "unverifiable",
+    "evidence": "FY26 has ended, but the FY26 order book (TCV) is not in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "unverifiable",
+    "evidence": "The labour-code cost is not broken out in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "at_risk",
+    "evidence": "Q2 FY27 operating margin was flat sequentially at 24% (C1). The facts' margin is 25.7% in both Q1 and Q2 FY27, against 27.2-27.3% in H2 FY26 (F:margin_last4_pct). There is no progress yet, and Q2 was partly propped up by currency gains (C1).",
+    "actual": "25.7% (Q2 FY27) vs 27.2-27.3% in H2 FY26"
+   },
+   {
+    "guidance_id": "G8",
+    "status": "unverifiable",
+    "evidence": "FY26 has ended, but international revenue growth for FY25 and FY26 is not in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "on_track",
+    "evidence": "Constant-currency revenue grew 2.8% YoY and 0.5% QoQ in Q2 FY27 (C1), so revenue is not shrinking. AI revenue is not sized in the inputs.",
+    "actual": "CC +2.8% YoY, +0.5% QoQ (Q2 FY27)"
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Q2 revenue of INR73,188 crore, up 11.2% YoY (C1).",
+    "reality": "Constant-currency growth was 2.8% YoY and USD growth 2.4%, so about 8.4 points of the rupee growth came from currency. The 3-year rupee revenue CAGR is 5.8%.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C1",
+     "F:rev_yoy_last_q_pct",
+     "F:rev_cagr_3y"
+    ]
+   },
+   {
+    "claim": "Management says its 'disciplined approach to margin management remains unchanged', and the 26-28% aspiration stands (C1, G1).",
+    "reality": "Operating margin is 24%. The facts' margin is 25.7% against 27.3% a year earlier and has been flat for two quarters, with a 5-year change of -130bps. Currency gains helped Q2.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C1",
+     "G1",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:margin_last4_pct",
+     "F:margin_change_5y_bps"
+    ]
+   },
+   {
+    "claim": "Cash conversion of 102.2% of net income (C2).",
+    "reality": "5-year CFO/PAT is 1.01 and 5-year FCF INR2,10,402 crore. CCC has drifted to 93 days from 81, with DSO at 74 days.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C2",
+     "F:cfo_to_pat_5y",
+     "F:fcf_5y_cr",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Cash generation: 5-year FCF is INR2,10,402 crore, CFO/PAT 1.01, Q2 cash conversion 102.2%, ROCE 63% and D/E 0.1.",
+    "evidence_ids": [
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "C2",
+     "F:roce_latest_pct",
+     "F:debt_to_equity"
+    ]
+   },
+   {
+    "point": "Revenue has stopped shrinking: constant currency grew 2.8% YoY and 0.5% QoQ, in line with the aim to arrest degrowth. Rupee growth ran 4.9%, 9.6%, 13.9% and 11.2% over the last four quarters.",
+    "evidence_ids": [
+     "C1",
+     "G5",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "point": "Profit is still growing: Q2 FY27 PAT rose 14.9% YoY at a 19% net margin, and operating margin held at 24% QoQ despite investment in bench and M&A.",
+    "evidence_ids": [
+     "F:pat_yoy_last_q_pct",
+     "C2",
+     "C1"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Underlying growth is thin: USD revenue rose 2.4% and constant currency 2.8% YoY, and the 3-year revenue and PAT CAGRs are 5.8% and 5.3%.",
+    "evidence_ids": [
+     "C1",
+     "F:rev_cagr_3y",
+     "F:pat_cagr_3y"
+    ]
+   },
+   {
+    "point": "Margin is below the stated band and drifting: operating margin is 24% against the 26-28% aspiration, and the facts' margin 25.7% against 27.3% a year ago. Each wage cycle costs 150-200bps, and Q2 was helped by currency gains that can reverse.",
+    "evidence_ids": [
+     "G1",
+     "C1",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "G4"
+    ]
+   },
+   {
+    "point": "Working capital is lengthening: CCC is 93 days against 81 three years ago, and DSO is 74 days.",
+    "evidence_ids": [
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "C2"
+    ]
+   }
+  ],
+  "questions": [
+   "Excluding currency gains, what was Q2 FY27 operating margin, and when do you expect to be back inside 26-28% given the higher bench and subcontractor use? PAT grew 14.9% while margin fell 160bps YoY: what below-the-line items drove that?",
+   "What were the FY26 order book, against the USD38-39 billion indication, and FY26 international growth versus FY25?",
+   "How large is AI revenue today, how much legacy revenue is it cannibalising, and what share of employees is in the new FDE model against the 1% target?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "TCS synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 3250,
+  "est_output_tokens": 3158,
+  "est_usd": 0.07616
+ }
+}

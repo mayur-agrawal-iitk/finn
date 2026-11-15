@@ -1,0 +1,84 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p3-12-4",
+    "quote": "We continue to maintain our guidance on keeping credit costs under check and below 25 bps on a sustainable basis",
+    "statement": "Credit cost to remain below 25 bps on a sustainable basis",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 25,
+    "unit": "bps",
+    "horizon": "unspecified",
+    "speaker": "Manu Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p6-19-1",
+    "quote": "Our aspiration clearly is to consistently deliver 20%-plus AUM growth",
+    "statement": "Aspiration of consistent AUM growth of 20%-plus",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Manu Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p6-23-1",
+    "quote": "We're very confident to maintain the spreads 5%+.",
+    "statement": "Maintain spread of 5% or more",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 5,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Ghanshyam Rawat",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q4FY26-p10-42-2",
+    "quote": "it will be somewhere 2.75% opex to AUM ratio",
+    "statement": "Opex to AUM ratio of about 2.75% once balance sheet doubles",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 2.75,
+    "target_high": 2.75,
+    "unit": "%",
+    "horizon": "once balance sheet doubles",
+    "speaker": "Ghanshyam Rawat",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p11-55-1",
+    "quote": "As a management team, we want to keep control at less than 6%.",
+    "statement": "Balance transfer to peer group to be kept below 6%",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 6,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Ghanshyam Rawat",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says it is very confident of maintaining spreads above 5% and sets a 20%-plus AUM growth aspiration, while acknowledging that opex-to-AUM improvement depends on growth returning."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AAVAS guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 3984,
+  "est_output_tokens": 695,
+  "est_usd": 0.00075
+ }
+}

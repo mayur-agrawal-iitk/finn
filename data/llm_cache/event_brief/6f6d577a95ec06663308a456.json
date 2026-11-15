@@ -1,0 +1,41 @@
+{
+ "output": {
+  "one_line": "Hospitals-division CEO exits 14 Nov; Cloudnine divestment closed 3 Nov for ~7,650 million cash plus 9.9% stake",
+  "so_what": "Hospitals division CEO exits; a new multi-region CEO is named. Cash of ~INR 765 cr is about 2.8% of TTM revenue; divested units' earnings are not disclosed. Mostly routine.",
+  "key_numbers": [
+   {
+    "label": "Cash consideration",
+    "value": "~7,650 million"
+   },
+   {
+    "label": "Effective stake in Kids Clinic India",
+    "value": "~9.9%"
+   },
+   {
+    "label": "Transaction closure",
+    "value": "3rd November 2026"
+   },
+   {
+    "label": "Cessation effective",
+    "value": "closure of business hours on November 14, 2026"
+   }
+  ],
+  "expertise_needed": [
+   "hospital division leadership",
+   "healthcare divestment accounting"
+  ],
+  "questions": [
+   "What revenue and EBITDA did the divested specialty and fertility hospital units contribute, and how is the 9.9% stake in Kids Clinic India valued?",
+   "Who now runs the Hospitals division day to day after Dr. Madhu Sasidhar leaves, and does the new multi-region CEO structure change growth or margin plans?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "APOLLOHOSP brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 2357,
+  "est_output_tokens": 352,
+  "est_usd": 0.00041
+ }
+}

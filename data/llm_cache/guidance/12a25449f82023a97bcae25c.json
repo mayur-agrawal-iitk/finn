@@ -1,0 +1,110 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q3FY26-p8-43-1",
+    "quote": "we'll cross about INR4,000 crores minimum",
+    "statement": "FY26 revenue of at least INR 4,000 crore including Q4",
+    "metric": "revenue",
+    "kind": "quantitative",
+    "target_low": 4000,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY26",
+    "speaker": "Jairam Sampath",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p14-86-1",
+    "quote": "at consol level, we'll definitely be OCF positive by end of this year",
+    "statement": "Consolidated operating cash flow positive by end of FY26",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY26",
+    "speaker": "Jairam Sampath",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p17-101-2",
+    "quote": "At a consol level, we'll definitely deliver this number of $1 billion.",
+    "statement": "Consolidated revenue of USD 1 billion in FY28, with individual targets possibly higher",
+    "metric": "revenue",
+    "kind": "quantitative",
+    "target_low": 1,
+    "target_high": 1,
+    "unit": "USD billion",
+    "horizon": "FY28",
+    "speaker": "Jairam Sampath",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p14-88-3",
+    "quote": "maybe about another INR400-odd crores of capex will be spent",
+    "statement": "Further capex of about INR 400 crore in the rest of FY26",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 400,
+    "target_high": 400,
+    "unit": "INR crore",
+    "horizon": "FY26",
+    "speaker": "Jairam Sampath",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p14-88-3",
+    "quote": "we'll spend about cumulatively INR1,400 crores in the PC Board business",
+    "statement": "Cumulative PC Board capex of INR 1,400 crore in FY27 (Phase 1 completed)",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 1400,
+    "target_high": 1400,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Jairam Sampath",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p12-68-1",
+    "quote": "which will total up to about between INR700 crores and INR800 crores of smart metering business for the year",
+    "statement": "Smart metering revenue of INR 700-800 crore in FY26",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 700,
+    "target_high": 800,
+    "unit": "INR crore",
+    "horizon": "FY26",
+    "speaker": "Jairam Sampath",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p14-88-1",
+    "quote": "we are not going to implement any more capex in the EMS business",
+    "statement": "No EMS capex beyond committed numbers; only debottlenecking spend",
+    "metric": "capex",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "unspecified",
+    "speaker": "Jairam Sampath",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management commits to revenue above INR 4,000 crore, consolidated OCF positivity and USD 1 billion revenue in FY28, while declining to give quarterly guidance because a railway product was postponed."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "KAYNES guidance Q3 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5472,
+  "est_output_tokens": 975,
+  "est_usd": 0.00103
+ }
+}

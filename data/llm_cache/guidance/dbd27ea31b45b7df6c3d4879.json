@@ -1,0 +1,201 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p3-10-3",
+    "quote": "is also progressing towards commissioning in Q3 FY27",
+    "statement": "Chemours project to be commissioned in Q3FY27",
+    "metric": "capacity",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q3FY27",
+    "speaker": "Vishad Mafatlal",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-10-3",
+    "quote": "is expected to commission by Q2 FY28",
+    "statement": "Advanced material adoption capacity to commission by Q2FY28",
+    "metric": "capacity",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q2FY28",
+    "speaker": "Vishad Mafatlal",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p3-10-3",
+    "quote": "is expected to become operational by the end of Q4 FY27",
+    "statement": "CDMO cGMP-4 Phase 2 facility (capex about INR125 crore) operational by end of Q4FY27",
+    "metric": "capacity",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY27",
+    "speaker": "Vishad Mafatlal",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p6-15-2",
+    "quote": "full ramp-up possibly in the next quarter",
+    "statement": "New R32 plant to reach full ramp-up in Q4FY27",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY27",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p11-45-1",
+    "quote": "we have always been saying that we will do USD100 million by FY27",
+    "statement": "USD 100 million target to be reached by FY27 (said to be on time)",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 100,
+    "target_high": null,
+    "unit": "USD million",
+    "horizon": "FY27",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p10-37-1",
+    "quote": "we would be somewhere around 60%, 65% of the PAR",
+    "statement": "Nectar: about 60-65% of PAR in FY27, balance in FY28",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 60,
+    "target_high": 65,
+    "unit": "% of PAR",
+    "horizon": "FY27",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p11-45-1",
+    "quote": "about INR900 crores to INR1,000 crores by FY28, FY29",
+    "statement": "Cumulative cGMP-4 Phase 1 and 2 peak annual revenue potential of INR 900-1,000 crore by FY28-FY29",
+    "metric": "revenue",
+    "kind": "quantitative",
+    "target_low": 900,
+    "target_high": 1000,
+    "unit": "INR crore",
+    "horizon": "FY28-FY29",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p11-47-1",
+    "quote": "INR700 crores this year is what we are looking at given where we are",
+    "statement": "Capex of about INR 700 crore in FY27, within a INR 700-1,000 crore annual frame",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 700,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Anish Ganatra",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p12-50-1",
+    "quote": "We are not going to change the guidance from 30%",
+    "statement": "Long-term EBITDA margin guidance of 30% retained",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 30,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "long term",
+    "speaker": "Anish Ganatra",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p13-65-1",
+    "quote": "we are able to generate an EBITDA conversion of 60%",
+    "statement": "Sustainable EBITDA conversion of 60-65%",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 60,
+    "target_high": 65,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p13-65-1",
+    "quote": "hold our working capital to 70 to 75 days",
+    "statement": "Working capital held at 70-75 days",
+    "metric": "working_capital",
+    "kind": "quantitative",
+    "target_low": 70,
+    "target_high": 75,
+    "unit": "days",
+    "horizon": "unspecified",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p14-67-1",
+    "quote": "Advanced Materials will be roughly about 10% to 15% of the expanded pie by 2030",
+    "statement": "Advanced Materials to be 10-15% of the expanded business by 2030",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": 15,
+    "unit": "% of revenue",
+    "horizon": "by 2030",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p14-67-1",
+    "quote": "look at 20% to 25% growth",
+    "statement": "Aspirational growth of 20-25% a year from now to 2030",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 25,
+    "unit": "%",
+    "horizon": "to 2030",
+    "speaker": "Anish Ganatra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p3-10-4",
+    "quote": "which will meet more than 60% of our energy requirements through renewable resources",
+    "statement": "Renewables to meet more than 60% of energy requirements",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 60,
+    "target_high": null,
+    "unit": "% of energy",
+    "horizon": "unspecified",
+    "speaker": "Vishad Mafatlal",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says it is confident the new data center, electronics and defense applications will create growth, and reiterates its margin and growth frameworks without changing them."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "NAVINFLUOR guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4607,
+  "est_output_tokens": 1769,
+  "est_usd": 0.00135
+ }
+}

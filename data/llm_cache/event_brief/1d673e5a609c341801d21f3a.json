@@ -1,0 +1,41 @@
+{
+ "output": {
+  "one_line": "Board committee meets 10 Nov 2026 to fix the price of warrants for a preferential issue to promoter Bajaj Finserv.",
+  "so_what": "Looks routine: a preferential warrant issue to the parent company. Size and price are not disclosed yet (amount null), so dilution cannot be judged until the price is approved.",
+  "key_numbers": [
+   {
+    "label": "Meeting date",
+    "value": "10 November 2026"
+   },
+   {
+    "label": "Allottee",
+    "value": "Bajaj Finserv Limited (promoter and holding company)"
+   },
+   {
+    "label": "Market cap",
+    "value": "₹ 6,95,439 Cr."
+   },
+   {
+    "label": "TTM revenue",
+    "value": "₹ 90,330 Cr."
+   }
+  ],
+  "expertise_needed": [
+   "SEBI ICDR preferential issues",
+   "promoter warrant pricing"
+  ],
+  "questions": [
+   "What issue price and total amount of warrants will the Special Committee approve on 10 Nov 2026, and what dilution does that imply?",
+   "What is the purpose of the warrant issue to the promoter, and will it change the promoter's stake or the company's capital needs?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BAJFINANCE brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1042,
+  "est_output_tokens": 325,
+  "est_usd": 0.00027
+ }
+}

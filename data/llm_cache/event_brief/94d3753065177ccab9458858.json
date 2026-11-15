@@ -1,0 +1,41 @@
+{
+ "output": {
+  "one_line": "Board approved merging wholly owned unit Sproutlife Foods (Yoga Bar) into the parent, effective 1 Apr 2026, subject to approvals.",
+  "so_what": "Routine intra-group merger: Sproutlife's Rs 452 cr turnover is ~0.6% of trailing revenue; no new shares or cash paid. Little value impact beyond simplification and synergies.",
+  "key_numbers": [
+   {
+    "label": "Sproutlife turnover (FY 2025-26)",
+    "value": "₹451.71 Cr"
+   },
+   {
+    "label": "ITC turnover (FY 2025-26)",
+    "value": "₹80,867.49 Cr"
+   },
+   {
+    "label": "Sproutlife net worth",
+    "value": "₹5.22 Cr"
+   },
+   {
+    "label": "Effective from",
+    "value": "1 April 2026"
+   }
+  ],
+  "expertise_needed": [
+   "company amalgamation under Companies Act 2013",
+   "packaged food business integration"
+  ],
+  "questions": [
+   "What synergies or cost savings does management expect from folding Sproutlife's operations in, and are they quantified?",
+   "Which approvals remain outstanding, and what is the expected timeline for the scheme to become effective?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "ITC brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1675,
+  "est_output_tokens": 326,
+  "est_usd": 0.00033
+ }
+}

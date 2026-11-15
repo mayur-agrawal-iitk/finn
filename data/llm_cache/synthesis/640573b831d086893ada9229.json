@@ -1,0 +1,281 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Indian IT services and digital engineering company. Q2 FY27 revenue was USD 487.6 million (INR 46,639 million), with 29,598 staff at 85.8% utilisation and large deals that include end-to-end takeover of client product engineering. It has its own IP and licence revenue (not broken out) and is completing the Nagarro acquisition, financed with USD 1.25 billion of debt and equity.",
+   "segments": [
+    {
+     "name": "IT services / digital engineering",
+     "share_pct": null,
+     "comment": "No segment split in the inputs. Q2 FY27 grew 7.8% QoQ and 20% YoY in USD (20.8% YoY constant currency); TCV USD 633.5 million and ACV USD 481 million."
+    },
+    {
+     "name": "Own IP / licences",
+     "share_pct": null,
+     "comment": "Not separately disclosed; management says licence revenue mixes its own and third-party IP, with intangible spend of about USD 8-9 million a year."
+    },
+    {
+     "name": "Nagarro (pending acquisition)",
+     "share_pct": null,
+     "comment": "Not yet consolidated; closing expected within 4-8 weeks of the Q2 FY27 call, with net debt/EBITDA guided down to 1x by FY30."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C6",
+    "G3",
+    "G6",
+    "G9"
+   ]
+  },
+  "credibility": {
+   "score": 70,
+   "label": "medium",
+   "summary": "Revenue promises are being kept: a 26th straight quarter of sequential growth to USD 487.6 million leaves the USD 500 million Q4 FY27 exit needing only about 2.5% more. But EBIT margin has slipped to 15% against the repeated 16-17% aspiration, and the Q4 FY26 promise that unbilled revenue would normalise sits against a cash cycle stretching to 83 days and rising receivables financing."
+  },
+  "promises": [
+   {
+    "guidance_id": "G3",
+    "status": "pending",
+    "evidence": "Financing for the Nagarro deal, which has not closed (G6). No raise is reported in the inputs. Current borrowings are INR 575 crore at 0.07x D/E (F:borrowings_cr, F:debt_to_equity), so this raise changes the balance sheet materially; USD 450 million of it is equity-linked.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "on_track",
+    "evidence": "Q2 FY27 booked INR 1,853.4 million of Nagarro transaction costs (C3), about USD 19.4 million at the quarter's implied INR 95.65/USD. Adding the guided USD 25-30 million still to come (G5) gives USD 44-49 million, in line with the about USD 50 million total.",
+    "actual": "About USD 19.4 million booked in Q2 FY27 (C3)"
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "Covers Q3-Q4 FY27, which have not been reported. The timing is internally inconsistent: two quarters in prepared remarks (C3) against three to four quarters in Q&A (G4).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "pending",
+    "evidence": "FY30 deleveraging target. The deal has not closed and no combined EBITDA or net debt is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G11",
+    "status": "pending",
+    "evidence": "FY31 aspiration. The Q2 FY27 annualised run rate is about USD 1.95 billion (4 x USD 487.6 million), so reaching USD 5 billion needs about 2.6x growth in four and a half years, and much of that will presumably come from Nagarro.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "on_track",
+    "evidence": "Clarified as a run rate. Q2 FY27 is USD 487.6 million, an annualised USD 1.95 billion, and Q2 grew 7.8% QoQ; reaching a USD 500 million quarter needs about 2.5% more over Q3-Q4. If Nagarro consolidates in Q4, the target will be met trivially and stop being an organic test.",
+    "actual": "USD 487.6 million in Q2 FY27 (about USD 1.95 billion annualised)"
+   },
+   {
+    "guidance_id": "G13",
+    "status": "on_track",
+    "evidence": "USD 487.6 million in Q2 FY27 (C1) leaves a 2.5% gap to the USD 500 million exit over two quarters, against 7.8% QoQ growth in Q2 alone. The same caveat applies: Nagarro consolidation would blur the organic read.",
+    "actual": "USD 487.6 million (Q2 FY27)"
+   },
+   {
+    "guidance_id": "G15",
+    "status": "on_track",
+    "evidence": "On a run-rate basis, as clarified in G12, it is on track: the Q2 annualised rate is USD 1.95 billion. Read literally as FY27 revenue, it would be at risk: H1 is about USD 940 million (Q1 about USD 452 million plus Q2 USD 487.6 million), which needs H2 to average about USD 530 million a quarter.",
+    "actual": "USD 1.95 billion annualised (Q2 FY27)"
+   },
+   {
+    "guidance_id": "G16",
+    "status": "pending",
+    "evidence": "March 2031 horizon. It restates the G11 aspiration, and no progress measure beyond the current run rate is available.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G1",
+    "status": "at_risk",
+    "evidence": "No horizon, and management calls it an aspiration. Q2 FY27 EBIT margin was 15.0%, down 100 bps QoQ (so Q1 was about 16.0%) and 130 bps YoY (so Q2 FY26 was about 16.3%), driven by a 140 bps net wage-hike hit and lower utilisation (C2, C3). The company was at the bottom of the band and has now dropped below it.",
+    "actual": "15.0% EBIT margin in Q2 FY27 (C1, C2)"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "Said on the Q2 FY27 call, a few weeks before the as-of date (15 Nov 2026). No later update is available.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "The 4-8 week window from the Q2 FY27 call runs to about late December 2026. No later signal.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "on_track",
+    "evidence": "Q1 FY27 guided closing for Q4 CY2026 to early Q1 CY2027. The Q2 FY27 call narrows that to 4-8 weeks after the Q2 call (G6), i.e. within the window, subject to RBI and Austria/Spain FDI approvals (G2).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "unverifiable",
+    "evidence": "FY26 has ended, but the inputs give no FY26 effective tax rate. The only datapoints are Q1 and Q2 FY27 at 22.5% (C3), which fall inside the 20-24% range but are not the FY26 figure.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "The 5-6 month clock starts at closing, which has not happened (G6).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "pending",
+    "evidence": "Year-1 accretion cannot be judged before closing. The Q2 FY27 transaction costs (INR 1,853.4 million) already cut reported PAT margin to 7.5% from an operating 10.6% (C1).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "at_risk",
+    "evidence": "Aspiration set in Q4 FY26. Two quarters later, EBIT margin has gone from about 16.0% in Q1 FY27 to 15.0% in Q2 FY27, 130 bps lower YoY (C1, C2). The computed margin series also fell, from 18.9% to 16.2% to 13.6% (F:margin_last4_pct), though that series appears to include the Nagarro one-offs.",
+    "actual": "15.0% EBIT margin in Q2 FY27"
+   },
+   {
+    "guidance_id": "G18",
+    "status": "unverifiable",
+    "evidence": "A statement of what management will not pursue, with no testable target. It is consistent with the 16-17% cap in G1 and G14, and margins have since fallen rather than risen.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G19",
+    "status": "on_track",
+    "evidence": "FY27 is not over, but Q2 shows cost action: lower ESOP costs absorbed 40 bps of the 180 bps wage-hike hit, and lower ESOP/SG&A plus currency added 150 bps of EBIT benefit (C2, C3). Despite that, overall EBIT margin still fell 100 bps QoQ.",
+    "actual": "Lower ESOP and SG&A costs in Q2 FY27 (C2, C3)"
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Revenue growth is 'healthy': 7.8% QoQ and 20% YoY in USD, the 26th straight quarter of sequential growth (C1).",
+    "reality": "INR revenue grew 30.2% YoY and has accelerated for four quarters (23.4%, 25.1%, 29.1%, 30.2%). About 950 bps of the INR growth is currency, since constant-currency growth was 20.8%.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "F:rev_yoy_last_q_pct",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "claim": "The margin aspiration remains 16-17% EBIT, and the Q2 dip is the annual wage hike plus deliberate hiring ahead of large-deal ramps (G1, G14, C2).",
+    "reality": "EBIT was 15.0%, down 130 bps YoY, so the drop is not just seasonal. The computed operating margin fell from 19.1% a year ago to 13.6%, and from 19.4% to 13.6% over four quarters (that series likely includes Nagarro deal costs). Utilisation slipped 70 bps to 85.8%.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G1",
+     "G14",
+     "C2",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:margin_last4_pct"
+    ]
+   },
+   {
+    "claim": "Underlying profit is intact; the reported PAT drop is a one-time Nagarro cost of about 3.1% of revenue (C1, C3).",
+    "reality": "The one-off arithmetic holds: INR 1,853.4 million pre-tax at a 22.5% tax rate is about 3.1% of revenue, taking 10.6% to 7.5%. But operating PAT grew only 5% YoY on 30.3% INR revenue growth. Net other income swung to INR -131.2 million from +414.9 million, and reported PAT fell 25.3% YoY.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C1",
+     "C3",
+     "F:pat_yoy_last_q_pct",
+     "F:rev_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "In Q4 FY26, the OCF/PAT dip to 77% was blamed on unbilled revenue that would 'normalize in the next quarter' (C5).",
+    "reality": "The cash conversion cycle is 83 days, up from 69 three years ago, and Q2 FY27 finance costs rose because of 'higher receivables financing' (C3). That points to working capital being funded rather than normalised. Longer-run cash conversion is still sound, with five-year CFO/PAT 1.01 and FCF INR 4,405 crore.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C5",
+     "C3",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "F:cfo_to_pat_5y",
+     "F:fcf_5y_cr"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Revenue delivery is consistent: USD 487.6 million in Q2 FY27, 26 straight quarters of sequential growth, and INR revenue growth accelerating to 30.2%. The USD 500 million Q4 exit target needs only about 2.5% more over two quarters.",
+    "evidence_ids": [
+     "C1",
+     "F:rev_yoy_last4_pct",
+     "G13",
+     "G12"
+    ]
+   },
+   {
+    "point": "Demand visibility: Q2 TCV of USD 633.5 million with ACV of USD 481 million, roughly one quarter's revenue. Headcount grew by 958 to staff large-deal ramps while attrition eased from 12.3% to 11.9%.",
+    "evidence_ids": [
+     "C1",
+     "C2",
+     "C4"
+    ]
+   },
+   {
+    "point": "The pre-deal balance sheet can absorb the Nagarro financing: D/E 0.07 on borrowings of INR 575 crore, five-year FCF of INR 4,405 crore, CFO/PAT 1.01 and ROCE 34%, with leverage guided back to 1x net debt/EBITDA by FY30.",
+    "evidence_ids": [
+     "F:debt_to_equity",
+     "F:borrowings_cr",
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:roce_latest_pct",
+     "G3",
+     "G9"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Margins are moving away from target: EBIT margin is 15.0%, down 130 bps YoY and 100 bps QoQ, against a repeated 16-17% aspiration. The computed margin is 13.6% against 19.1% a year ago, and operating PAT grew just 5% on 30.3% INR revenue growth.",
+    "evidence_ids": [
+     "C1",
+     "C2",
+     "G1",
+     "G14",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   },
+   {
+    "point": "Nagarro brings dilution, debt and cost before any synergy: a USD 1.25 billion raise including USD 450 million equity-linked, about USD 50 million of one-off costs (USD 19.4 million already booked, taking reported PAT down 25.3% YoY), leverage at 1x only by FY30, and 5-6 months of integration after closing.",
+    "evidence_ids": [
+     "G3",
+     "G4",
+     "G5",
+     "C3",
+     "F:pat_yoy_last_q_pct",
+     "G9",
+     "G7"
+    ]
+   },
+   {
+    "point": "Working capital and treasury are getting worse: the cash cycle is 83 days against 69, receivables financing is rising, net other income is INR -131.2 million against +414.9 million last quarter, and Q2 had an FX loss of INR 455.8 million.",
+    "evidence_ids": [
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "C3",
+     "C5"
+    ]
+   }
+  ],
+  "questions": [
+   "Once Nagarro consolidates, how will you report organic revenue? On an organic basis, do you still expect a USD 500 million Q4 FY27 exit (G13) and a USD 2 billion run rate (G12)?",
+   "What is the bridge from 15.0% EBIT back to 16-17%: utilisation recovery from 85.8%, margins on the ramping large deals, or pricing? Where does the combined margin land after Nagarro?",
+   "Q4 FY26 said unbilled revenue would normalise in a quarter, yet Q2 FY27 shows higher receivables financing. What are billed and unbilled DSO today, and how much of the receivables book is factored or financed?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "PERSISTENT synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 5229,
+  "est_output_tokens": 6220,
+  "est_usd": 0.14532
+ }
+}

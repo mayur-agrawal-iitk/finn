@@ -1,0 +1,110 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p19-41-1",
+    "quote": "we want to be in the 16 to 17 % range, that is our aspiration",
+    "statement": "Aspirational EBIT margin of 16-17% (management says this is not formal guidance)",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 16,
+    "target_high": 17,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Sandeep Kalra",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q2FY27-p4-11-3",
+    "quote": "We are confident of getting these approvals in over the next several weeks",
+    "statement": "RBI and related approvals for the Nagarro combination expected within several weeks",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "next several weeks",
+    "speaker": "Sandeep Kalra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p4-11-3",
+    "quote": "we will be raising USD 1.25 billion in terms of both debt and equity",
+    "statement": "Raise USD 1.25 billion of debt and equity for the Nagarro acquisition financing (USD 450 million equity-linked)",
+    "metric": "debt",
+    "kind": "quantitative",
+    "target_low": 1250,
+    "target_high": null,
+    "unit": "USD million",
+    "horizon": "unspecified",
+    "speaker": "Sandeep Kalra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p4-11-5",
+    "quote": "we are expecting one-time expenses to the tune of approximately $50 million spread over three to four quarters",
+    "statement": "One-time Nagarro transaction expenses of about USD 50 million over 3-4 quarters",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 50,
+    "target_high": null,
+    "unit": "USD million",
+    "horizon": "next 3-4 quarters",
+    "speaker": "Sandeep Kalra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p8-13-1",
+    "quote": "we expect an incremental amount ranging between USD 25 to 30 million",
+    "statement": "Further USD 25-30 million of Nagarro transaction costs over the next two quarters (Q&A later says 3-4 quarters)",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 25,
+    "target_high": 30,
+    "unit": "USD million",
+    "horizon": "next two quarters",
+    "speaker": "Tailwinds",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p20-49-1",
+    "quote": "We expect in the next 4 to 6 weeks, max, let's say 8 weeks",
+    "statement": "Close Nagarro deal (after Austria and Spain FDI approvals) within 4-8 weeks",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": 4,
+    "target_high": 8,
+    "unit": "weeks",
+    "horizon": "next 4-8 weeks",
+    "speaker": "Sandeep Kalra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p20-49-1",
+    "quote": "we will need about 5 to 6 months to optimistically bring the 2 companies together",
+    "statement": "Merger squeeze-out and integration of the two companies in about 5-6 months after closing",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": 5,
+    "target_high": 6,
+    "unit": "months",
+    "horizon": "next 5-6 months",
+    "speaker": "Sandeep Kalra",
+    "confidence": "low"
+   }
+  ],
+  "tone": {
+   "label": "cautious",
+   "why": "Management says it does not give forward-looking guidance and frames the 16-17% margin as an aspiration, while deal timing depends on approvals that will come when they come (p19-41-1, p20-49-1)."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "PERSISTENT guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4004,
+  "est_output_tokens": 1059,
+  "est_usd": 0.00093
+ }
+}

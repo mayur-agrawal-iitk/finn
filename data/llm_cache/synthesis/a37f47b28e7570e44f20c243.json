@@ -1,0 +1,302 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Non-bank lender to retail and small-business borrowers, in three areas: vehicle finance; secured SME lending (LAP, SME and SBPL); and consumer lending, which covers home loans, CSEL (unsecured business, personal and professional loans, consumer durables and digital lending) and a new gold-loan book. AUM was INR2,68,009 crore at Q2 FY27, up 25% YoY.",
+   "segments": [
+    {
+     "name": "Vehicle Finance",
+     "share_pct": null,
+     "comment": "Revenue share not stated. 48% of AUM (INR1,29,787 crore, +21% YoY) and ~50% of Q2 FY27 disbursements (INR17,801 crore, +31%) (C1)."
+    },
+    {
+     "name": "Secured SME (LAP, SME, SBPL)",
+     "share_pct": null,
+     "comment": "Q2 FY27 disbursements INR9,345 crore, +42% YoY, ~26% of the total (C1). AUM not stated."
+    },
+    {
+     "name": "Home Loans",
+     "share_pct": null,
+     "comment": "FY26 AUM +23% YoY (C4). Guided at 25%+ growth with LAP for FY27 (G22)."
+    },
+    {
+     "name": "CSEL",
+     "share_pct": null,
+     "comment": "~3.6% pre-tax ROA, with >4% targeted (C3). AUM grew only 4% in FY26 after exiting partnership-led businesses (C4)."
+    },
+    {
+     "name": "Gold Loans",
+     "share_pct": null,
+     "comment": "New: INR1,130 crore disbursed in Q4 FY26 (C4). AUM of INR2,000 crore-plus, with INR5,000 crore targeted for FY27 (G13)."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C3",
+    "C4",
+    "G13",
+    "G22"
+   ]
+  },
+  "credibility": {
+   "score": 66,
+   "label": "medium",
+   "summary": "Chola raised its FY27 growth guide twice (20-23% to 22-23% to ~25%) and trimmed credit-cost guidance from 1.5% to 1.4%, and Q2 AUM +25% and PAT +40.5% back that up. Against that, the cost-of-funds outlook doubled from ~10bps to ~20bps within a quarter, and no closed-period target can be checked against reported numbers."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "on_track",
+    "evidence": "Q2 FY27 AUM grew 25% YoY to INR2,68,009 crore on 47% disbursement growth (C1), in line with the target. The ledger calls this guidance 'held', but it is above the 20-23% (G17) and 22-23% (G11) given on the two prior calls, so in practice it was raised.",
+    "actual": "AUM +25% YoY at Q2 FY27"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "H1 FY27 credit cost is not in the inputs. The guide improved from ~1.5% (G16) to ~1.4%. A Q2 margin of 23.6% against 20.9% a year earlier and PAT up 40.5% fit lower credit costs but don't prove the number.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "No opex ratio is reported in the inputs. The range's upper end is 10bps above the ~3% FY27 guide (G20).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G11",
+    "status": "on_track",
+    "evidence": "Superseded by the ~25% guide on the Q2 FY27 call (G1). Q2 AUM growth of 25% (C1) is running above this 22-23% range.",
+    "actual": "AUM +25% YoY at Q2 FY27"
+   },
+   {
+    "guidance_id": "G13",
+    "status": "pending",
+    "evidence": "Gold-loan AUM after Q1 FY27 is not in the inputs. The target needs about 2.5x growth from INR2,000 crore-plus within the year.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "on_track",
+    "evidence": "Raised twice since (22-23% in G11, ~25% in G1). Q2 FY27 AUM growth of 25% (C1) is above the 23% top end.",
+    "actual": "AUM +25% YoY at Q2 FY27"
+   },
+   {
+    "guidance_id": "G30",
+    "status": "unverifiable",
+    "evidence": "FY26 closing AUM growth is not in the inputs. The Q4 FY26 call said election-related documentation delays hit LAP and home-loan disbursements but not overall asset growth (C5). Revenue grew 19.5% YoY in Q4 FY26 (F:rev_yoy_last4_pct).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "A 2-3 year target. The near-term opex ratio is guided at 3.0-3.1% (G4), so it needs a 20-30bps reduction.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "No window was given and no cost-of-funds figure is in the inputs. The ~20bps is double the ~10bps H2 FY27 rise guided one quarter earlier (G15).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G7",
+    "status": "unverifiable",
+    "evidence": "October 2026 has ended, but no disbursement figure for it is in the inputs. The guide implies a sharp slowdown from 47% disbursement growth in Q2 FY27 (C1).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "pending",
+    "evidence": "Medium-term target. The two CSEL businesses are at ~3.6% pre-tax ROA (C3), and consumer PBT ROTA has been above 3-3.5% for about three quarters (C2). Segment financials are not disclosed, so progress can't be tracked from reported numbers.",
+    "actual": "~3.6% pre-tax ROA (Q2 FY27)"
+   },
+   {
+    "guidance_id": "G10",
+    "status": "pending",
+    "evidence": "Board approval only; shareholder and regulatory approvals are outstanding. For context, D/E is 6.72 (F:debt_to_equity), and Tier 1 capital was 14.12% at December 2025 (C7).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "on_track",
+    "evidence": "The quote ('we have been talking about 3.5%') matches the CSEL target in G28 rather than company-level guidance, which was only above 3% (G18). CSEL is at ~3.6% pre-tax ROA (C3). Company-level pre-tax ROA is not in the inputs.",
+    "actual": "~3.6% pre-tax ROA (CSEL, Q2 FY27)"
+   },
+   {
+    "guidance_id": "G15",
+    "status": "walked_back",
+    "evidence": "One quarter later, the Q2 FY27 call guided cost of funds up ~20bps (G6) against ~10bps here. G6 gives no window, so this assumes the same H2 period. The drift list misses it because the two items carry different metric labels.",
+    "actual": "Revised to ~20bps rise (G6)"
+   },
+   {
+    "guidance_id": "G16",
+    "status": "on_track",
+    "evidence": "The guide was improved to ~1.4% on the Q2 FY27 call (G2), as the drift list shows. This rests on management's revised guide; the H1 actual credit cost is not in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G18",
+    "status": "on_track",
+    "evidence": "ROA was already 3.2% in Q3 FY26 (C7), and Q2 FY27 PAT growth of 40.5% (F:pat_yoy_last_q_pct) outpaced AUM growth of 25% (C1), so returns on assets are rising. The inputs give no FY27 company pre-tax ROA.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G19",
+    "status": "pending",
+    "evidence": "No NIM figure is in the inputs. The cost of funds is now guided up ~20bps (G6), a headwind to holding 8%.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G21",
+    "status": "on_track",
+    "evidence": "In Q2 FY27, vehicle-finance AUM grew 21% YoY to INR1,29,787 crore and disbursements 31% (C1), both above the guided ~18% and 15-20%.",
+    "actual": "VF AUM +21% YoY; disbursements +31% (Q2 FY27)"
+   },
+   {
+    "guidance_id": "G22",
+    "status": "pending",
+    "evidence": "No H1 FY27 home-loan or LAP AUM growth is in the inputs. Home-loan AUM grew 23% in FY26 (C4), below this bar. Secured-SME disbursements, which include LAP, grew 42% in Q2 FY27 (C1).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G27",
+    "status": "pending",
+    "evidence": "No CSEL credit-loss figure is in the inputs. The Q2 FY27 call still names lower net credit costs as the main lever for CSEL profitability (C3).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G28",
+    "status": "on_track",
+    "evidence": "The CSEL businesses are at ~3.6% pre-tax ROA (C3), above 3.5%. The target didn't say whether it was pre- or post-tax.",
+    "actual": "~3.6% pre-tax ROA (Q2 FY27)"
+   },
+   {
+    "guidance_id": "G9",
+    "status": "unverifiable",
+    "evidence": "Product-mix shares are not in the inputs. Gold-loan AUM of INR2,000 crore-plus (G13) is under 1% of INR2,68,009 crore AUM (C1), but CSEL size is not given.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G20",
+    "status": "on_track",
+    "evidence": "The Q2 FY27 call reiterated a 3.0-3.1% near-term range (G4), at or up to 10bps above this guide. The actual ratio is not in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G23",
+    "status": "pending",
+    "evidence": "No ROTA figure is in the inputs, and the scope is unclear: company-level pre-tax ROA was guided only above 3% (G18), so 4.2% probably refers to one segment.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Growth is broad-based across vehicle finance, SME and consumer, and running ahead of plan (C1).",
+    "reality": "AUM grew 25% YoY and vehicle-finance AUM 21%. Revenue growth accelerated every quarter, from 17.3% to 23.8%, and PAT rose 40.5%.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "F:rev_yoy_last4_pct",
+     "F:pat_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "Credit costs are falling, from a 1.5% guide to ~1.4% (G16, G2, C6).",
+    "reality": "Margin at 23.6% against 20.9% a year earlier, and PAT growing 16.7 points faster than revenue, fit that story. But the margin is still 570bps below three years ago, and the H1 credit-cost figure itself is not in the inputs.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G16",
+     "G2",
+     "C6",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:margin_change_3y_bps",
+     "F:pat_yoy_last_q_pct",
+     "F:rev_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "Full-year FY27 growth of ~25% (G1).",
+    "reality": "Q2 disbursements grew 47%, but October was guided at only ~18% (G7). Whether 25% AUM growth holds if H2 disbursement growth runs near that pace can't be tested from the inputs yet.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G1",
+     "G7",
+     "C1"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "The growth guide was raised twice and is being met: FY27 guidance went from 20-23% to 22-23% to ~25%, and Q2 FY27 AUM grew 25% to INR2,68,009 crore on 47% disbursement growth.",
+    "evidence_ids": [
+     "G17",
+     "G11",
+     "G1",
+     "C1"
+    ]
+   },
+   {
+    "point": "Profit is outgrowing the book: PAT rose 40.5% YoY against revenue growth of 23.8%, the margin was 23.6% against 20.9% a year earlier, and the credit-cost guide was cut from 1.5% to 1.4%.",
+    "evidence_ids": [
+     "F:pat_yoy_last_q_pct",
+     "F:rev_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "G16",
+     "G2"
+    ]
+   },
+   {
+    "point": "ROE is 19.0%, and CSEL's ~3.6% pre-tax ROA already beats its 3.5% FY27 target, with more than 4% guided for the medium term.",
+    "evidence_ids": [
+     "F:roe_latest_pct",
+     "C3",
+     "G28",
+     "G8"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Funding costs are rising faster than guided: the expected cost-of-funds increase went from ~10bps in H2 (Q1 FY27 call) to ~20bps (Q2 FY27 call), while NIM is guided flat at ~8%.",
+    "evidence_ids": [
+     "G15",
+     "G6",
+     "G19"
+    ]
+   },
+   {
+    "point": "Growth is consuming capital: D/E is 6.72 on INR2,31,911 crore of borrowings, and the board has approved raising up to INR5,000 crore.",
+    "evidence_ids": [
+     "F:debt_to_equity",
+     "F:borrowings_cr",
+     "G10"
+    ]
+   },
+   {
+    "point": "Momentum may fade: October disbursements were guided at ~18% against 47% in Q2. The 3-year PAT CAGR of 25.2% trails the revenue CAGR of 34.2%, and the margin is 570bps below three years ago.",
+    "evidence_ids": [
+     "G7",
+     "C1",
+     "F:pat_cagr_3y",
+     "F:rev_cagr_3y",
+     "F:margin_change_3y_bps"
+    ]
+   }
+  ],
+  "questions": [
+   "October disbursement growth was guided at ~18% against 47% in Q2. What was the actual figure, which products slowed, and what H2 disbursement growth does the ~25% AUM target assume?",
+   "The expected H2 cost-of-funds rise doubled from ~10bps to ~20bps in one quarter. What drove it, and what FY27 NIM does it leave against the ~8% guide?",
+   "What were H1 FY27 net credit cost and CSEL credit loss against the 1.4% and sub-5% targets, and at what Tier 1 level would you draw on the INR5,000 crore raise?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "CHOLAFIN synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 5563,
+  "est_output_tokens": 5727,
+  "est_usd": 0.13679
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "Senior management reshuffle effective 16 Nov 2026: VP Operations moves to VP General Merchandising; FMCG and category roles reassigned.",
+  "so_what": "Routine internal senior-management change with no financial impact disclosed. Worth watching only if the FMCG and merchandising leadership changes affect category performance.",
+  "key_numbers": [
+   {
+    "label": "Effective date",
+    "value": "16 November, 2026"
+   },
+   {
+    "label": "Role changes",
+    "value": "3"
+   },
+   {
+    "label": "Subsidiary move",
+    "value": "Sachin Jaolekar to Avenue E-Commerce"
+   }
+  ],
+  "expertise_needed": [
+   "retail merchandising",
+   "FMCG category management"
+  ],
+  "questions": [
+   "Why were the FMCG and general merchandising roles reshuffled now, and is there any performance issue behind it?",
+   "Does moving the FMCG category head to the e-commerce subsidiary change how categories are run?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DMART brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1650,
+  "est_output_tokens": 287,
+  "est_usd": 0.00031
+ }
+}

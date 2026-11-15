@@ -1,0 +1,309 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Aerospace and defence manufacturer. It builds aircraft and helicopters (Tejas LCA Mk-1A, HTT-40 trainer, ALH, LCH) and engines (AL-35FP, RD-33), and runs a large repair-and-overhaul (ROH) and spares business. It is developing Tejas Mk II and plans INR12,000 crore of new capacity by 2030. FY26 revenue from operations was INR33,050 crore, up 7% from INR30,981 crore. Manufacturing plus ROH account for about 90% of revenue; the inputs do not describe the remaining INR3,299 crore.",
+   "segments": [
+    {
+     "name": "Repair and overhaul (ROH), incl. spares",
+     "share_pct": 62.1,
+     "comment": "INR20,524 crore in FY26. Management says R&O was 'almost at the same level' as the prior year and spares fell INR500-600 crore. Growth depends on new platforms such as LCA and LCH entering overhaul."
+    },
+    {
+     "name": "Manufacturing",
+     "share_pct": 27.9,
+     "comment": "INR9,227 crore in FY26. Tejas Mk-1A and HTT-40 delays were offset by ALH, AL-35FP and RD-33 deliveries. 20 LCAs are planned for FY27, and private-sector structures could take LCA capacity to about 30 a year."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C4",
+    "C6",
+    "G3",
+    "G5"
+   ]
+  },
+  "credibility": {
+   "score": 40,
+   "label": "low",
+   "summary": "Revenue growth guidance has been missed for years. FY23 promised double-digit growth from FY25 and 12-13% after that; FY26 delivered 6.8% against an 8-10% guide, and the 3y CAGR is 7.1%. Programme dates (Tejas Mk-1A, HTT-40, Mk-2 first flight) have slipped, and the margin guide was quietly reset from 26-27% to 30-31%. H1 FY27, at +14.7%, is the first period tracking ahead."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "on_track",
+    "evidence": "Check: FY27 revenue growth to date (2 of 4 quarters) is 14.7% YoY against a 10-12% minimum, with Q1 at +14.4% and Q2 at +14.8%. H2 can grow as little as about 6-9% and still meet the guide.",
+    "actual": "14.7% YoY H1 FY27"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "at_risk",
+    "evidence": "Check: FY27 EBITDA margin to date is 24.9% against a 30-31% guide, and Q2 FY27 was 22.8% (23.5% a year ago). Q4 is seasonally high (36.3% in Q4 FY26), but H2 would need roughly 35-37% to average 30%. The 'always maintained 30-31%' claim also contradicts the earlier 27% (G9) and 26-27% (G36) guides.",
+    "actual": "24.9% H1 FY27"
+   },
+   {
+    "guidance_id": "G8",
+    "status": "missed",
+    "evidence": "Check: FY26 revenue grew 6.8% against an 8-10% guide. Revenue went from INR30,981 crore to INR33,050 crore (C4), with Tejas Mk-1A and HTT-40 delays cited.",
+    "actual": "6.8% FY26 YoY"
+   },
+   {
+    "guidance_id": "G5",
+    "status": "pending",
+    "evidence": "About INR12,000 crore of new-capacity capex by 2030. The facts have no capex figure and the horizon is about 3 years out.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "at_risk",
+    "evidence": "Target of 20 LCAs in FY27. In the same call, management expected 'some delay... from a few places' because of supply-chain slowness (C5). An analyst noted the H2 revenue guide implies a single-digit LCA dispatch (C2). FY26 LCA deliveries were already delayed (C4), with about INR8,100 crore of inventory against LCAs not yet delivered (C3). No delivery count for H1 FY27 is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "Orders of about INR90,000 crore expected over 2 years from May 2026. The inputs contain no order-inflow data.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "Five-year capex of INR14,000-15,000 crore, repeated from Q4 FY24 (G13). Q4 FY26 instead cites INR12,000 crore by 2030 for new manufacturing projects (G5), possibly a narrower scope. Capex is not in the facts.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "on_track",
+    "evidence": "Operating margin target of about 27%. TTM margin is 29.3%, but H1 FY27 ran at 24.9% and quarters swing between 22.8% and 36.3%, so the target is met only on a trailing-year basis.",
+    "actual": "TTM 29.3%"
+   },
+   {
+    "guidance_id": "G32",
+    "status": "missed",
+    "evidence": "Promised in Q4 FY23: double-digit growth from FY25 onward. FY26 grew 6.8% (G8 check), and the 3y revenue CAGR is 7.1% (5y 7.8%). Only H1 FY27, at 14.7%, clears 10%.",
+    "actual": "FY26 6.8%; 3y CAGR 7.1%"
+   },
+   {
+    "guidance_id": "G37",
+    "status": "unverifiable",
+    "evidence": "Expected about INR48,000 crore of orders in FY24. The inputs have no order-inflow data. A year later management again guided about INR47,000 crore within one year (G14), which suggests at least part rolled over.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "pending",
+    "evidence": "Five-year capex of INR14,000-15,000 crore (about INR3,000 crore a year) from Q4 FY24, repeated in Q4 FY25 (G7). Capex is not in the facts.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "unverifiable",
+    "evidence": "Manpower cost was to fall to 16% of revenue in FY25. The inputs contain no employee-cost data.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G29",
+    "status": "unverifiable",
+    "evidence": "At least one breakthrough export order was expected in FY25. None of the later context confirms or denies one.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G33",
+    "status": "unverifiable",
+    "evidence": "FY25 growth guide of 10-11%. FY24 revenue is not in the inputs, so FY25 growth cannot be computed. The 3y CAGR of 7.1% combined with FY26 at 6.8% makes a 10-11% FY25 unlikely, but this cannot be confirmed.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G34",
+    "status": "missed",
+    "evidence": "Guided to 12-13% growth after FY25, stabilising at 14-15%. FY26 grew 6.8%. H1 FY27's 14.7% is in the band, but it is one half-year after a sub-7% year.",
+    "actual": "FY26 6.8%; H1 FY27 14.7%"
+   },
+   {
+    "guidance_id": "G36",
+    "status": "on_track",
+    "evidence": "Margin was to settle at 26-27%. TTM margin is 29.3% and the 3y change is +480 bps, so margin rose rather than settling down. The +480 bps implies about 24.5% three years ago, which conflicts with the stated 'FY23 peak of 31%' and points to a basis difference between the computed margin and management's EBITDA definition.",
+    "actual": "TTM 29.3%"
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "Tejas Mk II rollout by March 2027. The deadline has not arrived and there is no later call. This milestone replaced the earlier first-flight target of early CY2026 (G10).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "missed",
+    "evidence": "Q4 FY25 guided first flight of the Mk-2 prototype in early CY2026. By Q4 FY26 (May 2026) the guide was only 'roll out Mark II' by March 2027 (G4). Rollout comes before first flight, so the first-flight date has slipped at least a year, and the 2029 certification date is exposed.",
+    "actual": "First flight not achieved by May 2026; rollout re-guided to March 2027"
+   },
+   {
+    "guidance_id": "G11",
+    "status": "unverifiable",
+    "evidence": "Government approval for the Su-30 avionics upgrade was expected in FY26. The Q4 FY26 passages say nothing on it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "unverifiable",
+    "evidence": "A320 C-check revenue from Q1 FY27 'or maybe' FY28, a self-hedged date. The inputs have no segment revenue for it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "unverifiable",
+    "evidence": "About INR47,000 crore of orders expected within a year of Q4 FY24. The inputs report no order inflow. By Q4 FY26 the guide was INR90,000 crore over the next 2 years (G6).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G16",
+    "status": "pending",
+    "evidence": "A pipeline of INR1,60,000-1,70,000 crore was to materialise over 18 months to 3 years from May 2024, a window that runs to about May 2027. The inputs give no order bookings to measure progress.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G18",
+    "status": "unverifiable",
+    "evidence": "Target of 15-18% manufacturing growth every year. FY26 manufacturing revenue was INR9,227 crore (C4), but the prior year is not given. The Tejas Mk-1A and HTT-40 delays that year (C4) and 6.8% total growth suggest the target was not met in FY26.",
+    "actual": "FY26 manufacturing revenue INR9,227 crore"
+   },
+   {
+    "guidance_id": "G20",
+    "status": "missed",
+    "evidence": "Target of 8-9% ROH growth. In Q4 FY26 management said repair and overhaul was 'almost at the same level' as the prior year, with no new platforms added and only escalation on top, and spares fell INR500-600 crore (C1).",
+    "actual": "FY26 R&O roughly flat per management"
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "In FY23, management promised double-digit growth from FY25, then 12-13%, stabilising at 14-15%.",
+    "reality": "The 3y revenue CAGR is 7.1% (5y 7.8%), and FY26 grew 6.8% against an 8-10% guide. Quarterly growth recovered to 14.4% and 14.8% in H1 FY27, the first quarters in the promised band.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G32",
+     "G34",
+     "C9",
+     "G8",
+     "F:rev_cagr_3y",
+     "F:rev_cagr_5y",
+     "F:rev_yoy_last4_pct"
+    ]
+   },
+   {
+    "claim": "'The EBITDA margin, we have always maintained around 30%, 31%, and it will be maintained.'",
+    "reality": "Earlier guides were 27% (Q4 FY25) and 26-27% (Q4 FY23). H1 FY27 margin is 24.9%, Q2 was 22.8%, and the last four quarters range from 22.8% to 36.3%. TTM is 29.3%.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G2",
+     "G9",
+     "G36",
+     "F:margin_last4_pct",
+     "F:ttm_margin_pct"
+    ]
+   },
+   {
+    "claim": "Unbilled revenue relates to deliveries already made and is held up by documentation, not by LCA non-delivery. LCA inventory is about INR8,100 crore.",
+    "reality": "The cash conversion cycle has stretched from 475 to 788 days in 3 years, which is consistent with deliveries not converting to billing. Historical cash generation is still strong: 5y FCF of INR42,432 crore and CFO/PAT of 1.44x.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C3",
+     "C2",
+     "F:ccc_days_3y_ago",
+     "F:ccc_days_latest",
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y"
+    ]
+   },
+   {
+    "claim": "Supply chain shows 'slowness' with only 'minor delays', and 20 LCAs will be delivered in FY27.",
+    "reality": "FY26 already absorbed Tejas Mk-1A and HTT-40 delays, and the Mk-2 first flight slipped from early CY2026 to a rollout target of March 2027. H1 FY27 revenue rose 14.7%, but the inputs give no LCA delivery count.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "C5",
+     "G3",
+     "C4",
+     "G10",
+     "G4",
+     "G1"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "H1 FY27 revenue rose 14.7% YoY against a 10-12% minimum guide, with Q1 at +14.4% and Q2 at +14.8%. Q2 PAT rose 16.0%, and TTM revenue is INR34,769 crore.",
+    "evidence_ids": [
+     "G1",
+     "F:rev_yoy_last4_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:ttm_revenue_cr"
+    ]
+   },
+   {
+    "point": "The balance sheet is effectively debt-free: borrowings are INR10 crore and D/E is 0.0. 5y FCF was INR42,432 crore, CFO/PAT 1.44x and ROCE 32%. The INR12,000 crore capex plan to 2030 is fundable from internal cash.",
+    "evidence_ids": [
+     "F:borrowings_cr",
+     "F:debt_to_equity",
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:roce_latest_pct",
+     "G5"
+    ]
+   },
+   {
+    "point": "Management expects INR90,000 crore of orders over 2 years. About INR8,100 crore of LCA inventory is built and waiting to deliver, and four private suppliers (wings, centre fuselage, rear fuselage, fin) could lift LCA capacity to about 30 a year.",
+    "evidence_ids": [
+     "G6",
+     "C3",
+     "C6"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Growth guidance keeps missing: FY26 grew 6.8% against 8-10%, the double-digit promise from FY25 was missed, and the 3y CAGR is 7.1% against a promised 12-13%. ROH, at 62% of revenue, was roughly flat in FY26 against an 8-9% target.",
+    "evidence_ids": [
+     "G8",
+     "G32",
+     "G34",
+     "F:rev_cagr_3y",
+     "G20",
+     "C1"
+    ]
+   },
+   {
+    "point": "Margin is running well below the new guide: H1 FY27 was 24.9% against 30-31%, and Q2 was 22.8% against 23.5% a year earlier. The 30-31% anchor is itself higher than the 26-27% guided in earlier years.",
+    "evidence_ids": [
+     "G2",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "G9",
+     "G36"
+    ]
+   },
+   {
+    "point": "Cash is getting stuck: the cash conversion cycle rose from 475 to 788 days in 3 years, with INR8,100 crore of inventory against undelivered LCAs. Programme dates have slipped (Tejas Mk-1A, HTT-40, Mk-2 first flight), and management flags further supplier delays.",
+    "evidence_ids": [
+     "F:ccc_days_3y_ago",
+     "F:ccc_days_latest",
+     "C3",
+     "C4",
+     "G10",
+     "C5"
+    ]
+   }
+  ],
+  "questions": [
+   "How many Tejas Mk-1A aircraft were delivered and billed in H1 FY27 against the 20 guided for FY27, and how much of the INR8,100 crore of non-delivery inventory has turned into revenue?",
+   "You said EBITDA margin has 'always' been guided at 30-31%, but Q4 FY25 guided 27% and Q4 FY23 guided 26-27%. Which is the real anchor, and what lifts H2 FY27 from the 24.9% run in H1?",
+   "The cash conversion cycle rose from 475 to 788 days in 3 years. How much of that is unbilled revenue waiting on documentation, what is the oldest item, and when does it convert to cash?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HAL synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 5266,
+  "est_output_tokens": 6579,
+  "est_usd": 0.15264
+ }
+}

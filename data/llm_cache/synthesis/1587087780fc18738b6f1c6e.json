@@ -1,0 +1,164 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Large deposit-funded bank. Deposits grew 18.8% YoY in Q2 FY27 (4 percentage points of that from a special FCNR(B) window), and it added 1.7 million liability relationships in the quarter. Its lending includes an unsecured book, business banking, corporate and agri loans; the corporate bank grew 16.4% YoY. About 70% of the loan book is floating-rate. TTM revenue is INR359,956 crore and TTM PAT INR83,685 crore.",
+   "segments": [
+    {
+     "name": "Liabilities (deposits / CASA)",
+     "share_pct": null,
+     "comment": "Total deposits +18.8% YoY; CASA +10.8%; retail CASA +11.2% against 9% a year ago (C1)."
+    },
+    {
+     "name": "Corporate bank",
+     "share_pct": null,
+     "comment": "+2.8% QoQ, +16.4% YoY (C3). Loan-mix share not stated."
+    },
+    {
+     "name": "Business banking",
+     "share_pct": null,
+     "comment": "Guided to grow 18-21% (G4). The inputs report no actual growth figure."
+    },
+    {
+     "name": "Agri",
+     "share_pct": null,
+     "comment": "Agri gross NPA was flat from June to September despite the monsoon shortfall (C2)."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "G2",
+    "G4",
+    "F:ttm_revenue_cr",
+    "F:ttm_pat_cr"
+   ]
+  },
+  "credibility": {
+   "score": 50,
+   "label": "medium",
+   "summary": "Too early to score. The inputs hold four guidance items (NIM direction, December repricing, unsecured-book provision coverage, business-banking growth) and none can be tested against reported numbers. Management also declined to size the Q1 FY27 mobilisation drive (C4), so its guidance here is directional rather than numeric."
+  },
+  "promises": [
+   {
+    "guidance_id": "G2",
+    "status": "pending",
+    "evidence": "The October 2026 25 bps rate change is due to be largely reflected in margins by December, given about 70% of the book is floating. Q3 FY27 has not been reported.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G3",
+    "status": "unverifiable",
+    "evidence": "The inputs report no provision-coverage ratio for the unsecured book. No horizon was given.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "unverifiable",
+    "evidence": "The inputs report no business-banking growth. The only segment growth disclosed is the corporate bank at 16.4% YoY (C3), a different segment.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G1",
+    "status": "pending",
+    "evidence": "The inputs give no NIM series. Cost of funds was flat at 4.4% QoQ because FCNR time deposits offset back-book repricing (C3). Reported margin was 30.1% in Q2 against 30.6% a year earlier.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "The liabilities franchise is 'delivering with great vigor': deposits up 18.8% YoY (C1).",
+    "reality": "4 percentage points of that came from the special FCNR(B) window, so underlying growth was about 14.8%. CASA grew only 10.8%. Of the 1.57 trillion of deposit growth, about 1.3 trillion (83%) was time deposits, which kept cost of funds flat at 4.4% instead of falling (C3).",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C1",
+     "C3"
+    ]
+   },
+   {
+    "claim": "Margins can be neutral to positive from here as floating-rate repricing offsets the FCNR cost headwind (G1, G2).",
+    "reality": "Q2 revenue growth picked up to 9.4% YoY after 2.4%, 0.5% and 3.7% in the prior three quarters, but PAT grew only 5.8% and reported margin was 30.1% against 30.6% a year earlier. The December repricing has not been reported yet.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G1",
+     "G2",
+     "F:rev_yoy_last4_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   },
+   {
+    "claim": "No sign of agri stress despite the monsoon shortfall; kharif sowing was down only about 1.5-2% (C2).",
+    "reality": "Agri gross NPA was flat from June to September per management, but the inputs carry no agri NPA number and the crop outcome comes after the harvest.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "C2"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Deposit mobilisation: deposits +18.8% YoY (about 14.8% without FCNR), retail CASA growth up to 11.2% from 9% a year ago, and 1.7 million new liability relationships in Q2.",
+    "evidence_ids": [
+     "C1"
+    ]
+   },
+   {
+    "point": "Revenue reaccelerated to 9.4% YoY in Q2 after three quarters of 0.5-3.7%. The corporate bank grew 16.4% YoY, and the AT1 call in August removed a cost line.",
+    "evidence_ids": [
+     "F:rev_yoy_last4_pct",
+     "F:rev_yoy_last_q_pct",
+     "C3"
+    ]
+   },
+   {
+    "point": "Asset-quality signals are steady: agri gross NPA flat in September against June despite the monsoon shortfall. Management expects the October rate change to reprice about 70% of the book by December.",
+    "evidence_ids": [
+     "C2",
+     "G2"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Earnings growth has slowed: Q2 PAT was up only 5.8% YoY against a 3-year PAT CAGR of 19.7%. Reported margin is down 670 bps over three years, and ROE is 14.0%.",
+    "evidence_ids": [
+     "F:pat_yoy_last_q_pct",
+     "F:pat_cagr_3y",
+     "F:margin_change_3y_bps",
+     "F:roe_latest_pct"
+    ]
+   },
+   {
+    "point": "Deposit growth is being bought with time deposits: about 1.3 trillion of the 1.57 trillion increase was term deposits, including FCNR, so cost of funds stayed at 4.4% and CASA growth of 10.8% trails total deposits at 18.8%.",
+    "evidence_ids": [
+     "C3",
+     "C1"
+    ]
+   },
+   {
+    "point": "Reliance on wholesale funding: borrowings are INR594,144 crore (0.98x equity), and new borrowing to support leverage offset the AT1 call relief.",
+    "evidence_ids": [
+     "F:borrowings_cr",
+     "F:debt_to_equity",
+     "C3"
+    ]
+   }
+  ],
+  "questions": [
+   "Of the 1.3 trillion of time-deposit growth, how much is special-window FCNR(B), at what all-in cost after the swap, and when does it mature? What is the NIM effect when it reprices or runs off?",
+   "With about 70% of the book floating and the October rate change flowing through by December, what Q3 FY27 NIM do you expect against Q2, net of the FCNR mix?",
+   "What were business-banking growth (against the 18-21% guide) and unsecured-book provision coverage (against mid-70s) in Q2 FY27? In which states is agri exposure most concentrated, given the uneven monsoon?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HDFCBANK synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 3001,
+  "est_output_tokens": 3040,
+  "est_usd": 0.0728
+ }
+}

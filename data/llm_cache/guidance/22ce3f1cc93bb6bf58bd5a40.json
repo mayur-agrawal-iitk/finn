@@ -1,0 +1,97 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p3-11-1",
+    "quote": "Aavas is on track to cross the significant milestone of ₹250 billion in AUM during October 2026",
+    "statement": "AUM to cross INR 250 billion in October 2026",
+    "metric": "loan_growth",
+    "kind": "milestone",
+    "target_low": 250,
+    "target_high": 250,
+    "unit": "INR billion",
+    "horizon": "Oct-2026",
+    "speaker": "Manu Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p3-11-2",
+    "quote": "We aim to improve productivity to approximately 1.5 files / month by the end of FY27 and progressively scale it to 2 files / month",
+    "statement": "Productivity of about 1.5 files per month by end FY27, scaling to 2 files per month",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 1.5,
+    "target_high": 2,
+    "unit": "files per month",
+    "horizon": "by end of FY27",
+    "speaker": "Manu Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p3-11-3",
+    "quote": "progressively improve the Opex Ratio to below 3%",
+    "statement": "Opex ratio to fall below 3%",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 3,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Manu Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p3-11-4",
+    "quote": "we are confident of maintaining spreads above 5%",
+    "statement": "Spreads to be maintained above 5% despite rising borrowing costs",
+    "metric": "nim",
+    "kind": "quantitative",
+    "target_low": 5,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Manu Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p3-11-4",
+    "quote": "we expect our spreads and NIM to improve over the coming quarters",
+    "statement": "Spreads and NIM expected to improve over coming quarters",
+    "metric": "nim",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "coming quarters",
+    "speaker": "Manu Singh",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q2FY27-p10-48-1",
+    "quote": "we are confident of our guidance of credit cost within 25 bps",
+    "statement": "Credit cost guidance within 25 bps",
+    "metric": "credit_cost",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 25,
+    "unit": "bps",
+    "horizon": "unspecified",
+    "speaker": "Manu Singh",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says \"we are confident of maintaining spreads above 5%\" and reaffirms its credit cost guidance despite the rate hike."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AAVAS guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 3512,
+  "est_output_tokens": 812,
+  "est_usd": 0.00076
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q3FY26-p3-11-4",
+    "quote": "we are looking at a reasonable moderation in Q4",
+    "statement": "Vehicle finance credit costs to moderate reasonably in Q4FY26",
+    "metric": "credit_cost",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY26",
+    "speaker": "Vellayan Subbiah",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p6-32-2",
+    "quote": "And their target of ROA of 4.5%, pretax ROA",
+    "statement": "Pre-tax ROA target of 4.5% (management relies on this commitment)",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 4.5,
+    "target_high": null,
+    "unit": "% pre-tax ROA",
+    "horizon": "unspecified",
+    "speaker": "So that's because of the -",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p7-37-2",
+    "quote": "we are expecting the 6.4% of NCL of December quarter to further go down in quarter 4",
+    "statement": "CSEL net credit loss (NCL) of 6.4% to fall further in Q4FY26",
+    "metric": "asset_quality",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY26",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p8-39-1",
+    "quote": "it can come down definitely below 5% in next financial year",
+    "statement": "CSEL NCL to fall below 5% in FY27 from 6.4%",
+    "metric": "asset_quality",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 5,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p11-72-1",
+    "quote": "he will deliver 3.5% ROA, which is normally we targeted in the next financial year",
+    "statement": "CSEL ROA target of 3.5% in FY27",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": 3.5,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Ravindra Kundu",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p16-110-1",
+    "quote": "These two will still give us another 5 to 10 basis points on the cost of fund reduction in next quarter",
+    "statement": "Further 5-10 bps reduction in cost of funds in Q4FY26",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 5,
+    "target_high": 10,
+    "unit": "bps",
+    "horizon": "Q4FY26",
+    "speaker": "Arul Selvan",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p17-120-1",
+    "quote": "we hold a 20% to 22% AUM growth for the current year",
+    "statement": "AUM growth of 20-22% for the current year (FY26)",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 20,
+    "target_high": 22,
+    "unit": "%",
+    "horizon": "FY26",
+    "speaker": "Arul Selvan",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p18-127-1",
+    "quote": "It will again be at the same range bound, 1.7% to 1.8%",
+    "statement": "Opex ratio to stay in a 1.7-1.8% range",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 1.7,
+    "target_high": 1.8,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Suresh Kumar",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p18-127-2",
+    "quote": "if at all it would be 10 basis points maximum",
+    "statement": "Impact of new labour code on ROA at most 10 bps",
+    "metric": "roe_roa",
+    "kind": "quantitative",
+    "target_low": null,
+    "target_high": 10,
+    "unit": "bps",
+    "horizon": "unspecified",
+    "speaker": "Suresh Kumar",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p18-127-2",
+    "quote": "AUM growth will be around 28% to 30%",
+    "statement": "Home loan AUM growth of 28-30% for the next 2 years",
+    "metric": "loan_growth",
+    "kind": "quantitative",
+    "target_low": 28,
+    "target_high": 30,
+    "unit": "%",
+    "horizon": "next 2 years",
+    "speaker": "Prashanth Kumar",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p3-11-5",
+    "quote": "There's a balance of INR633 crores of CCDs, which is expected to be converted in July of 2026",
+    "statement": "Balance of INR 633 crore CCDs to convert in July 2026",
+    "metric": "other",
+    "kind": "milestone",
+    "target_low": 633,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "Jul-2026",
+    "speaker": "Vellayan Subbiah",
+    "confidence": "high"
+   }
+  ],
+  "tone": {
+   "label": "mixed",
+   "why": "Management expects Q4 to improve and NCLs to fall, but declines to give guidance beyond the current year (p17-120-1)."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "CHOLAFIN guidance Q3 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4457,
+  "est_output_tokens": 1391,
+  "est_usd": 0.00114
+ }
+}

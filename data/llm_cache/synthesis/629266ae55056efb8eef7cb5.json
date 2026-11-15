@@ -1,0 +1,226 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Indian value retailer operating DMart stores selling grocery/FMCG, general merchandise and apparel. It had 20.6 million sq ft of retail area at March 2026, revenue per sq ft of INR 33,422 (about flat) and FY26 turnover of about INR 67,000 crore. Subsidiaries are Avenue E-commerce (DMart Ready online grocery), Align Retail (grocery packing) and Avenue Food Plaza (food counters beside stores).",
+   "segments": [
+    {
+     "name": "General merchandise and apparel (GMA)",
+     "share_pct": 23,
+     "comment": "Run-rate share of about 23% cited in the Q1 FY25 call as the trend line; no later figure is in the inputs. Apparel was then the fastest-growing category."
+    },
+    {
+     "name": "Foods and FMCG (rest of store sales)",
+     "share_pct": null,
+     "comment": "Not stated; about 77% is implied if GMA is 23%. FMCG private label is run on a '20-20-20' rule: at least 20% price advantage, 20% higher margin than the benchmark, and 20% volume share."
+    },
+    {
+     "name": "Avenue E-commerce (DMart Ready)",
+     "share_pct": null,
+     "comment": "FY26 sales +17%, EBITDA down 43%, net loss INR 307 crore."
+    },
+    {
+     "name": "Align Retail and Avenue Food Plaza",
+     "share_pct": null,
+     "comment": "Align Retail sales +16.5% and PAT +24%; Food Plaza sales +35.5% with a 9% PAT margin after a prior-year loss."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "G5"
+   ]
+  },
+  "credibility": {
+   "score": 58,
+   "label": "medium",
+   "summary": "The 15-20% growth aspiration is being met: three-year revenue CAGR is 17.1% and Q2 FY27 grew 17.8%. But the store-opening benchmark keeps moving, from '10-15%' and 'about 40 a year' in Q1 FY25 to '15% of the base' in Q1 FY27, with analysts already flagging years of under-delivery. Profit has grown at less than half the revenue rate, and none of the store or gross-margin targets can be checked from reported data."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "unverifiable",
+    "evidence": "There is no store count in the inputs. In Q1 FY25 an analyst said additions had been 'trending below the 15% number' for several years, with FY25 expected at 40-45 stores (C5, C6), and the same benchmark was restated in Q1 FY27 without a dated commitment. It also conflicts with the '40, 40, 40' guide (G7).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G2",
+    "status": "unverifiable",
+    "evidence": "Gross margin is not in the inputs. Net margin was 4.8% in FY26 per management (C1, likely standalone), while TTM consolidated PAT of INR 3,115 crore on INR 74,224 crore revenue is about 4.2% (F:ttm_pat_cr, F:ttm_revenue_cr). Both are below the 5% marker, but it is a long-term 'North Star' with no date.",
+    "actual": "Net margin 4.8% FY26 standalone (C1); about 4.2% TTM consolidated"
+   },
+   {
+    "guidance_id": "G3",
+    "status": "pending",
+    "evidence": "FY27 has not ended. Net borrowing was about INR 965 crore and total debt including Ind AS 116 leases INR 2,267 crore at March 2026 (C1). The facts show borrowings of INR 4,264 crore (F:borrowings_cr) on an unstated date and basis. If that is like-for-like with the INR 2,267 crore, debt has already risen by about INR 2,000 crore, and it is unclear whether INR 2,000 crore is the total or the increment.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G4",
+    "status": "unverifiable",
+    "evidence": "No delivery-time or fulfilment data is in the inputs. The only e-commerce datapoints are 17% sales growth and an INR 307 crore loss (C2).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "unverifiable",
+    "evidence": "No category mix is reported after the Q1 FY25 call, so the 23% GMA trend line cannot be tracked.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G6",
+    "status": "unverifiable",
+    "evidence": "There is no store count in the inputs. The Q1 FY25 analyst exchange (C5, C6) says additions were running below the top of this 10-15% range, but gives no figure for FY25-FY27.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "unverifiable",
+    "evidence": "Gross margin is not in the facts. The operating margin has fallen 100 bps over three years (F:margin_change_3y_bps) and was 7.1% in Q2 FY27 against 7.3% a year earlier, which a flat gross margin would only explain if operating costs rose.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "on_track",
+    "evidence": "No horizon. Three-year revenue CAGR is 17.1% (F:rev_cagr_3y), and quarterly YoY growth over the last four quarters was 13.3%, 18.9%, 14.9% and 17.8% (F:rev_yoy_last4_pct), inside the 15-20% aspiration on average. FY26 revenue per sq ft was flat and like-for-like growth was 8.1% (C1), so roughly half the growth comes from new space.",
+    "actual": "3-year revenue CAGR 17.1%; Q2 FY27 +17.8% YoY"
+   },
+   {
+    "guidance_id": "G7",
+    "status": "unverifiable",
+    "evidence": "There is no store count in the inputs. A flat 40 stores a year means a falling percentage growth rate as the base grows, which contradicts the 10-15% (G6) and 15% (G1) benchmarks.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Aspiration of 15-20% growth driven by store additions (G9, G1).",
+    "reality": "Revenue CAGR is 17.1% over three years and 23.3% over five, and Q2 FY27 grew 17.8% YoY. FY26 like-for-like growth was 8.1% with revenue per sq ft flat at INR 33,422, so the rest of the growth came from new space.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "G9",
+     "G1",
+     "F:rev_cagr_3y",
+     "F:rev_cagr_5y",
+     "F:rev_yoy_last_q_pct",
+     "C1"
+    ]
+   },
+   {
+    "claim": "A net margin of about 5% is the 'North Star', and FY26 PAT was 4.8% (G2, C1).",
+    "reality": "TTM PAT of INR 3,115 crore on INR 74,224 crore revenue is about 4.2%, and three-year PAT CAGR of 7.7% is less than half the 17.1% revenue CAGR. The operating margin is down 100 bps over three years, and Avenue E-commerce lost INR 307 crore in FY26.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G2",
+     "C1",
+     "F:ttm_pat_cr",
+     "F:ttm_revenue_cr",
+     "F:pat_cagr_3y",
+     "F:rev_cagr_3y",
+     "F:margin_change_3y_bps",
+     "C2"
+    ]
+   },
+   {
+    "claim": "Stores open at about 15% of the base each year (G1), alongside 10-15% (G6) and '40, 40, 40' (G7).",
+    "reality": "In Q1 FY25 an analyst said additions had run below 15% for 'last few years', with FY25 tracking 40-45 stores, and that 55/65/75 a year would be needed for a 15% CAGR (C5, C6). A fixed 40 a year shrinks as a percentage of a growing base, so the three guides cannot all hold.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G1",
+     "G6",
+     "G7",
+     "C5",
+     "C6"
+    ]
+   },
+   {
+    "claim": "The balance sheet stays conservative: net borrowing about INR 965 crore at March 2026, possibly rising to about INR 2,000 crore to fund capex (C1, G3).",
+    "reality": "D/E is low at 0.16, but five-year FCF is INR -2,211 crore despite CFO/PAT of 1.05, so expansion capex has outrun internal cash. Reported borrowings are INR 4,264 crore, and inventory days rose to 33.2 with the cash cycle moving from 26 to 29 days.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "G3",
+     "F:debt_to_equity",
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:borrowings_cr",
+     "F:ccc_days_3y_ago",
+     "F:ccc_days_latest"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Growth is steady and in line with the stated aspiration: three-year revenue CAGR 17.1%, Q2 FY27 +17.8% YoY, TTM revenue INR 74,224 crore and FY26 like-for-like growth of 8.1%.",
+    "evidence_ids": [
+     "F:rev_cagr_3y",
+     "F:rev_yoy_last_q_pct",
+     "F:ttm_revenue_cr",
+     "C1",
+     "G9"
+    ]
+   },
+   {
+    "point": "Cash conversion is real and leverage is low: FY26 operating cash flow was INR 4,168 crore against INR 3,224 crore PAT, five-year CFO/PAT is 1.05, D/E is 0.16, and vendors are paid in 7.2 days, so growth is not funded by suppliers.",
+    "evidence_ids": [
+     "C1",
+     "F:cfo_to_pat_5y",
+     "F:debt_to_equity"
+    ]
+   },
+   {
+    "point": "Adjacencies are improving: Align Retail PAT +24% on sales +16.5%, and Avenue Food Plaza revenue +35.5% with a 9% PAT margin after a prior-year loss.",
+    "evidence_ids": [
+     "C2"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Profit is lagging sales: three-year PAT CAGR is 7.7% against 17.1% for revenue, the operating margin is down 100 bps over three years, and Q2 FY27 margin was 7.1% against 7.3%. FY26 ROCE (17.1%) and RoNW (13.5%) were 'slightly lower'.",
+    "evidence_ids": [
+     "F:pat_cagr_3y",
+     "F:rev_cagr_3y",
+     "F:margin_change_3y_bps",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "C1"
+    ]
+   },
+   {
+    "point": "Expansion is consuming cash and debt is rising: five-year FCF is INR -2,211 crore, management flags borrowing of about INR 2,000 crore by FY27-end, and reported borrowings stand at INR 4,264 crore. Inventory days have risen to 33.2.",
+    "evidence_ids": [
+     "F:fcf_5y_cr",
+     "G3",
+     "F:borrowings_cr",
+     "C1"
+    ]
+   },
+   {
+    "point": "Online is a growing drain and the store yardstick is soft: Avenue E-commerce EBITDA fell 43% to an INR 307 crore loss, about 9.5% of FY26 PAT of INR 3,224 crore. The store-addition target has been stated as 15%, 10-15% and '40 a year'.",
+    "evidence_ids": [
+     "C2",
+     "C1",
+     "G1",
+     "G6",
+     "G7"
+    ]
+   }
+  ],
+  "questions": [
+   "How many stores did you add in FY26 and H1 FY27 as a percentage of the opening base? Which guide should investors hold you to: 15% of base, 10-15%, or about 40 a year?",
+   "Avenue E-commerce lost INR 307 crore in FY26 with EBITDA down 43% on 17% sales growth. What is the timeline to break-even, and what share of orders currently meets the six-hour delivery target?",
+   "Reported borrowings are INR 4,264 crore against INR 2,267 crore total debt (including leases) and INR 965 crore net at March 2026. What is net debt today, is the INR 2,000 crore FY27 figure the total or the increment, and where is gross margin against the 14-15% band?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DMART synthesis",
+  "at": "2026-11-15T19:02:12",
+  "est_input_tokens": 3816,
+  "est_output_tokens": 4884,
+  "est_usd": 0.11294
+ }
+}

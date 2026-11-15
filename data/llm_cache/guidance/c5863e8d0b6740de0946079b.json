@@ -1,0 +1,58 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p18-13-1",
+    "quote": "the $2 billion by FY27, that's a run rate",
+    "statement": "Revenue run rate of USD 2 billion by FY27, within a quarter at worst",
+    "metric": "revenue",
+    "kind": "quantitative",
+    "target_low": 2000,
+    "target_high": 2000,
+    "unit": "USD million",
+    "horizon": "FY27",
+    "speaker": "Sandeep Kalra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p19-19-1",
+    "quote": "Q4 exit is where we are looking at the run rate being in the range of $500 million or so",
+    "statement": "Q4FY27 exit run rate of about USD 500 million",
+    "metric": "revenue",
+    "kind": "quantitative",
+    "target_low": 500,
+    "target_high": 500,
+    "unit": "USD million",
+    "horizon": "Q4FY27 exit",
+    "speaker": "Sandeep Kalra",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q4FY26-p26-58-1",
+    "quote": "Our aspiration continues to be in the 16 to 17% range.",
+    "statement": "EBIT margin aspiration of 16-17% (management says this is an aspiration, not guidance)",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 16,
+    "target_high": 17,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": "Vinit Teredesai",
+    "confidence": "low"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says \"we are confident, we are marching towards it steadily\" about the revenue run-rate target."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "PERSISTENT guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4161,
+  "est_output_tokens": 435,
+  "est_usd": 0.00063
+ }
+}

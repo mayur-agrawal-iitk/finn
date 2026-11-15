@@ -1,0 +1,32 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q4FY26-p12-80-1",
+    "quote": "that will continue to also be in that range of 18% to 20%, 21%, depending upon, obviously, some of the developments in the economy.",
+    "statement": "Business banking growth to stay around 18-21%, depending on the economy",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 18,
+    "target_high": 21,
+    "unit": "%",
+    "horizon": "unspecified",
+    "speaker": null,
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Expects continued momentum and 18-21% business banking growth, while noting geopolitical risk to the outlook."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HDFCBANK guidance Q4 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 3038,
+  "est_output_tokens": 202,
+  "est_usd": 0.0004
+ }
+}

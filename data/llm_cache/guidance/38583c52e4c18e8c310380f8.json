@@ -1,0 +1,97 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q3FY26-p24-159-1",
+    "quote": "revenue growth more than 15%",
+    "statement": "FY26 revenue growth of more than 15%",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 15,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY26",
+    "speaker": "Manoj Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p8-40-1",
+    "quote": "I can assure you it will not go below 27%",
+    "statement": "FY26 EBITDA margin not below 27%",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 27,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY26",
+    "speaker": "Manoj Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p18-108-1",
+    "quote": "INR 27,000 crores we are going to cross",
+    "statement": "FY26 order inflow above INR 27,000 crore",
+    "metric": "order_inflow",
+    "kind": "quantitative",
+    "target_low": 27000,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY26",
+    "speaker": "Manoj Jain",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p24-159-1",
+    "quote": "CAPEX INR 1,000 crore",
+    "statement": "FY26 capex of INR 1,000 crore",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 1000,
+    "target_high": 1000,
+    "unit": "INR crore",
+    "horizon": "FY26",
+    "speaker": "Manoj Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p20-132-1",
+    "quote": "our target is crossing INR 1,700 plus crores",
+    "statement": "FY26 R&D expenditure of at least INR 1,700 crore",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 1700,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY26",
+    "speaker": "Manoj Jain",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p15-89-2",
+    "quote": "Our aim is minimum INR (+1,000) crore next year onwards from data center type of business",
+    "statement": "Data centre business of at least INR 1,000 crore from FY27 onwards",
+    "metric": "segment",
+    "kind": "quantitative",
+    "target_low": 1000,
+    "target_high": null,
+    "unit": "INR crore",
+    "horizon": "FY27 onwards",
+    "speaker": "Manoj Jain",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management says it will cross the INR 27,000 crore order target and deliver revenue growth above 15% and EBITDA margin of at least 27%, with only the timing of QRSAM orders flagged as uncertain."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "BEL guidance Q3 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5814,
+  "est_output_tokens": 752,
+  "est_usd": 0.00096
+ }
+}

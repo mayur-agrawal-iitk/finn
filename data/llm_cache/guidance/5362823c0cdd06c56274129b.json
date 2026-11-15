@@ -1,0 +1,123 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q2FY27-p11-35-1",
+    "quote": "we should be targeting something along the lines of about 14% to 15% EBIT",
+    "statement": "Steady-state EBIT margin target of 14-15% next year, once commissioned assets run at steady state",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 14,
+    "target_high": 15,
+    "unit": "%",
+    "horizon": "FY28",
+    "speaker": "Maulik Mehta",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q2FY27-p11-31-2",
+    "quote": "it would be roughly in the range of about INR 400 crore, INR 420 crore",
+    "statement": "Incremental EBIT of INR 400-420 crore next year from existing assets",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 400,
+    "target_high": 420,
+    "unit": "INR crore",
+    "horizon": "FY28",
+    "speaker": "Maulik Mehta",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p11-31-1",
+    "quote": "there, I would expect about another INR 240 crore is what we're seeing this year",
+    "statement": "Incremental EBIT of about INR 240 crore this year from full asset utilization",
+    "metric": "other",
+    "kind": "quantitative",
+    "target_low": 240,
+    "target_high": 240,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Maulik Mehta",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p16-74-1",
+    "quote": "INR 2,200 crore-INR 2,400 crore next year, INR 2,500 crore in the second year",
+    "statement": "Planned investment of INR 2,200-2,400 crore in FY28, then INR 2,500 crore in FY29 (per passage context)",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 2200,
+    "target_high": 2400,
+    "unit": "INR crore",
+    "horizon": "FY28",
+    "speaker": "Sanjay Upadhyay",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q2FY27-p10-26-1",
+    "quote": "we continue to remain in line with our FY29 number",
+    "statement": "Remain in line with FY29 number for integrated propylene-to-polycarbonate commissioning",
+    "metric": "product_or_launch",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY29",
+    "speaker": "Maulik Mehta",
+    "confidence": "low"
+   },
+   {
+    "passage_id": "Q2FY27-p15-67-2",
+    "quote": "in FY31, you already have seen a fully optimized utilization of polycarbonate",
+    "statement": "Polycarbonate capacity fully utilised by FY31 after upstream integration",
+    "metric": "product_or_launch",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "FY31",
+    "speaker": "Maulik Mehta",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p17-96-1",
+    "quote": "we will be able to add another 80 to 100 KTPA in the market from the new capacity",
+    "statement": "Add 80-100 KTPA of market supply from new capacity",
+    "metric": "capacity",
+    "kind": "quantitative",
+    "target_low": 80,
+    "target_high": 100,
+    "unit": "KTPA",
+    "horizon": "unspecified",
+    "speaker": "Maulik Mehta",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q2FY27-p8-17-1",
+    "quote": "So I would assume that in Q4 EBIT percentage should be better than Q3.",
+    "statement": "Q4FY27 EBIT margin to be better than Q3FY27",
+    "metric": "ebitda_margin",
+    "kind": "qualitative",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q4FY27",
+    "speaker": "Maulik Mehta",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Management calls Q2 a record quarter and says it is confident of steady-state EBIT and of the new capacity ramp-up, while noting sequential margin moderation from input prices and freight."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "DEEPAKNTR guidance Q2 FY27",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 4766,
+  "est_output_tokens": 1140,
+  "est_usd": 0.00105
+ }
+}

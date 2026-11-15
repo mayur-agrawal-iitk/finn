@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "Binding term sheet for a semiconductor back-end (OSAT) JV via subsidiary KSPL, with Vishay taking a 49% stake. Not yet final.",
+  "so_what": "No deal value is disclosed, and terms still need definitive agreements and approvals, so this is an early step. The Vishay stake and captive line are the points to track.",
+  "key_numbers": [
+   {
+    "label": "Vishay stake in KSPL",
+    "value": "49%"
+   },
+   {
+    "label": "Term sheet date",
+    "value": "12 November, 2026"
+   },
+   {
+    "label": "Business",
+    "value": "Post-fab wafer processing, assembly, test and packaging"
+   }
+  ],
+  "expertise_needed": [
+   "semiconductor OSAT manufacturing",
+   "joint venture structuring"
+  ],
+  "questions": [
+   "What investment and capacity does the OSAT JV plan, and how quickly will the Vishay captive line ramp up?",
+   "Which approvals and definitive-agreement terms remain open, and what is the expected timeline to closing?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "KAYNES brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 1109,
+  "est_output_tokens": 295,
+  "est_usd": 0.00026
+ }
+}

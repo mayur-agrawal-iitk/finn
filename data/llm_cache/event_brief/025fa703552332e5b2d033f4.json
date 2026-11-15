@@ -1,0 +1,37 @@
+{
+ "output": {
+  "one_line": "Senior management head of the Business Banking, Emerging & Micro Enterprises group, Sanjay D'Souza, retires effective 31 Oct 2026.",
+  "so_what": "Routine SMP retirement after nearly 27 years; he built the SME franchise. Little near-term financial effect; watch who takes over the group and whether SME growth changes.",
+  "key_numbers": [
+   {
+    "label": "Retirement effective",
+    "value": "Close of business, 31 Oct 2026"
+   },
+   {
+    "label": "Tenure with the Bank",
+    "value": "Nearly 27 years"
+   },
+   {
+    "label": "Role ceased",
+    "value": "Group Head - Business Banking, Emerging & Micro Enterprises Group"
+   }
+  ],
+  "expertise_needed": [
+   "SME and micro-enterprise lending",
+   "senior management succession in banks"
+  ],
+  "questions": [
+   "Who succeeds him as head of the Business Banking, Emerging & Micro Enterprises group, and is the successor internal?",
+   "Does his departure change the bank's SME growth plan or credit approach in that segment?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "HDFCBANK brief",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 991,
+  "est_output_tokens": 314,
+  "est_usd": 0.00026
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "output": {
+  "items": [
+   {
+    "passage_id": "Q3FY26-p3-14-2",
+    "quote": "this division should grow in the range of 13% to 15% for the full year basis.",
+    "statement": "Consumer Durable division revenue growth of 13-15% for FY26",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 13,
+    "target_high": 15,
+    "unit": "%",
+    "horizon": "FY26",
+    "speaker": "Jasbir Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p14-72-1",
+    "quote": "we should be hitting a double-digit number in FY '27 for Electronics division.",
+    "statement": "Electronics division EBITDA margin in double digits in FY27",
+    "metric": "ebitda_margin",
+    "kind": "quantitative",
+    "target_low": 10,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p15-77-1",
+    "quote": "We should be starting our trial production in September of this 2026. And by January 2027, we should be coming in the mass production scale.",
+    "statement": "Hosur plant: trial production Sep 2026, mass production by Jan 2027",
+    "metric": "capacity",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q2FY27-Q4FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p15-77-3",
+    "quote": "So you can imagine that after 18 months, we will start the commercial production of that.",
+    "statement": "KCC JV commercial production about 18 months after groundbreaking (groundbreaking targeted around March 2026)",
+    "metric": "capacity",
+    "kind": "milestone",
+    "target_low": null,
+    "target_high": null,
+    "unit": null,
+    "horizon": "Q2FY28",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   },
+   {
+    "passage_id": "Q3FY26-p10-37-1",
+    "quote": "for the next year, the expenditure, which will be capitalized should be around, INR1,100 crores to INR1,200 crores.",
+    "statement": "FY27 capitalized capex of INR1,100-1,200 crore",
+    "metric": "capex",
+    "kind": "quantitative",
+    "target_low": 1100,
+    "target_high": 1200,
+    "unit": "INR crore",
+    "horizon": "FY27",
+    "speaker": "Sudhir Goyal",
+    "confidence": "high"
+   },
+   {
+    "passage_id": "Q3FY26-p16-79-1",
+    "quote": "I believe we should see somewhere about 40% growth kind of a story in Sidwal next year itself.",
+    "statement": "Sidwal revenue growth of about 40% in FY27",
+    "metric": "revenue_growth",
+    "kind": "quantitative",
+    "target_low": 40,
+    "target_high": null,
+    "unit": "%",
+    "horizon": "FY27",
+    "speaker": "Jasbir Singh",
+    "confidence": "medium"
+   }
+  ],
+  "tone": {
+   "label": "confident",
+   "why": "Reiterates division guidance and says ongoing projects are on schedule, despite a flat room AC industry and CCL cost pressure."
+  }
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "label": "AMBER guidance Q3 FY26",
+  "at": "2026-11-15T18:17:12",
+  "est_input_tokens": 5682,
+  "est_output_tokens": 882,
+  "est_usd": 0.00101
+ }
+}
