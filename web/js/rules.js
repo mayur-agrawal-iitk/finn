@@ -45,7 +45,8 @@ export function personalise(e, { weights, prefs, net }) {
     reasons.push(`${w}% of your book`);
   }
   if (!prefs.care.includes(e.category) && e.category !== "unclassified") {
-    s -= 12;
+    s = Math.min(s, 35);   // "others sink to routine" — the investor said they don't care about this type
+    reasons.push("Category you've muted");
   }
   if (net) {
     const close = net.people.filter((p) => p.career.some((c) => c.org_id === e.symbol));

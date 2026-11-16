@@ -106,7 +106,7 @@ chosen categories, and whether they know people there. Every rank shows its reas
 
 | Step | Model | Why this model | Guardrails |
 |---|---|---|---|
-| Classify announcements | **rules** (97% of filings); Claude Haiku 5.5 only for vague titles | Exchange subjects are a controlled vocabulary — rules are exact, auditable and free | regression tests on real misfires |
+| Classify announcements | **rules** (~97% of filings); Claude Haiku 5.5 only for vague titles | Exchange subjects are a controlled vocabulary — rules are exact, auditable and free | regression tests on real misfires |
 | Results headline numbers | **deterministic** from reported tables; Haiku reads the results PDF only when tables lag | Numbers should come from tables, not a model | all-null extraction → "pending", never a table of dashes |
 | People in a management change | Haiku 5.5 | Reading a short filing for a profile is extraction, not reasoning | only people named in *this* filing are kept; org names resolved by code |
 | One-line briefs for material events | Haiku 5.5 | Short, bounded summarisation | length limits; "say so plainly if routine" |
@@ -116,10 +116,15 @@ chosen categories, and whether they know people there. Every rank shows its reas
 
 **Cost discipline.** Every call is keyed by `sha256(task, prompt version, model, inputs)` and cached in
 `data/llm_cache/` (committed). Filings are immutable, so a daily refresh calls a model only for
-documents it has never seen. Per company, a full dossier is ~4 Haiku calls on ~4–5k tokens each (a tenth of
-a cent in total) plus one Opus call (~4–5k tokens in, ~5k out — about 13 US cents), and it is reused until a
-new quarter or a new call arrives. Measured for this build (estimated from token counts at API list prices):
-118 model outputs ≈ $2.69 — 98 Haiku extractions $0.08, 20 Opus judgements $2.61 (97% of the bill). The next levers, in order: the Batch API for the evening build
+documents it has never seen. That only holds if inputs are *stable*: model inputs carry filed facts and
+document text, never today's date, prices or market cap (`tests/test_cache_inputs.py` enforces this).
+On the first Monday refresh after this build, 4 of 118 model steps needed re-running — exactly the
+companies whose filed numbers had changed.
+
+Per company, a full dossier is ~4 Haiku calls on ~4–5k tokens each (a tenth of a cent in total) plus one
+Opus call (~4–5k tokens in, ~5k out — about 13 US cents), reused until a new quarter or a new call
+arrives. Measured for this build (estimated from token counts at API list prices): ≈ $2.70 for the whole
+demo, 97% of it the Opus judgements. The next levers, in order: the Batch API for the evening build
 (−50%), then Claude Sonnet 5.5 for synthesis if an eval shows it holds quality (−50% again).
 
 **Agents.** There is no autonomous agent in the serving path, by design: the workflow is a fixed
@@ -133,8 +138,8 @@ roadmap.
 The pipeline therefore wrote each model step as a self-contained job (rendered prompt + JSON schema) to
 `.cache/llm_jobs/`; those jobs were run offline on Claude Haiku 5.5 (extraction) and Claude Opus 5.5
 (synthesis) with the same prompts, schema-validated by `python -m finn llm-check`, and imported with
-`python -m finn llm-import`. Every cached record carries
-this provenance. With `ANTHROPIC_API_KEY` set, the identical prompts go through the API instead.
+`python -m finn llm-import`. Every cached record carries this provenance. With `ANTHROPIC_API_KEY` set,
+the identical prompts go through the API instead.
 
 ## 4. Cloud — what runs where
 

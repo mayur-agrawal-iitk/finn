@@ -1,0 +1,42 @@
+{
+ "output": {
+  "one_line": "JV with Toyokawa Techno for TFT display modules and FOG/COG bonding; KTIL to hold 90%, no deal value disclosed",
+  "so_what": "Not normal-course business and no deal value disclosed, so scale can't be sized against TTM revenue of INR 3,946 cr. Filing calls the JV wholly owned yet lists a 90:10 split.",
+  "key_numbers": [
+   {
+    "label": "KTIL stake in JV",
+    "value": "90%"
+   },
+   {
+    "label": "Toyokawa stake in JV",
+    "value": "10%"
+   },
+   {
+    "label": "JV board",
+    "value": "5 directors (2 each + 1 independent)"
+   },
+   {
+    "label": "TTM revenue",
+    "value": "INR 3,946 cr"
+   }
+  ],
+  "expertise_needed": [
+   "display module manufacturing",
+   "joint venture structuring",
+   "electronics contract manufacturing"
+  ],
+  "questions": [
+   "What is the total investment and KTIL's equity commitment for its 90% stake, and what capex or funding is planned for the JV?",
+   "Is the JV a wholly owned subsidiary or a 90:10 joint venture as the filing is inconsistent on this, and what customers and volumes are expected for TFT modules?"
+  ]
+ },
+ "meta": {
+  "model": "claude-haiku-5-5",
+  "provenance": "offline batch on claude-haiku-5-5 (same prompt and schema; no API key in the build environment)",
+  "label": "KAYNES brief",
+  "at": "2026-11-16T20:28:04",
+  "est_input_tokens": 3176,
+  "est_output_tokens": 335,
+  "est_usd": 0.00049
+ }
+}

@@ -53,9 +53,12 @@ export function renderNetwork(ctx, q = "") {
   const nudges = net.nudges(ctx.data.events.map((e) => ({ ...e, headline: headline(e) })), 4);
   const ex = net.expertise();
   const cold = net.people.map((p) => ({ p, t: net.tie(p) })).filter((x) => x.t.months >= 6).sort((a, b) => b.t.months - a.t.months);
-  const pubPeople = [...new Map(ctx.data.events.flatMap((e) => (e.people || []).filter((p) => p.change === "appointed").map((p) => [p.name, { p, e }]))).values()];
+  // New faces in the portfolio, best-connected first — a suggestion should never lead to "no path".
+  const pubPeople = [...new Map(ctx.data.events.flatMap((e) => (e.people || []).filter((p) => p.change === "appointed").map((p) => [p.name, { p, e }]))).values()]
+    .map((x) => ({ ...x, reach: net.pathsTo(x.p, 1).total }))
+    .sort((a, b) => b.reach - a.reach);
   const suggestions = [
-    pubPeople[0] ? `Path to ${pubPeople[0].p.name}` : null, "Who knows Kaynes?", "Specialty chemicals", "Rural lending", "Semiconductors", "Page Industries",
+    pubPeople[0]?.reach ? `Path to ${pubPeople[0].p.name}` : null, "Who knows Kaynes?", "Specialty chemicals", "Rural lending", "Semiconductors", "Page Industries",
   ].filter(Boolean);
   return `<div class="view">
     <header class="top"><div class="eyebrow">Network · on this device only</div><div class="h1">Who can help you understand it</div>

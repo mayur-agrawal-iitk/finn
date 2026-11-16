@@ -1,0 +1,320 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Electronics manufacturing services (EMS) for railways, automotive (including a large two-wheeler EV maker now in serial production), aerospace and defence, plus a smart-metering business that supplies and installs meters under state-government tenders. OSAT (semiconductor assembly/test) and PCB plants are being built, with revenue guided to start in Q3 FY27.",
+   "segments": [
+    {
+     "name": "EMS (rail, automotive/EV, aerospace, defence)",
+     "share_pct": 77.8,
+     "comment": "Q1 FY27: INR 946 crore total less INR 210 crore metering = ~INR 736 crore (C2); grew ~48% YoY in Q1 vs ~40% overall (C4). The Q4 FY26 call put EMS at 65% of revenue (C9). C2 also cites an unexplained 'INR 90 crores', so the split is approximate."
+    },
+    {
+     "name": "Smart metering",
+     "share_pct": 22.2,
+     "comment": "INR 210 crore in Q1 FY27 (C2), deliberately cut to prioritise collections (C1). FY26 metering sales INR 971 crore, ~27% of INR 3,632 crore revenue (G11, G14). Carries a disproportionate share of receivables (C9)."
+    },
+    {
+     "name": "OSAT and PCB (new)",
+     "share_pct": null,
+     "comment": "No revenue yet; INR 450-500 crore guided for FY27 starting Q3 (G4); FY27 capex INR 300 crore each (G3)."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C2",
+    "C4",
+    "C9",
+    "G3",
+    "G4",
+    "G11",
+    "G14"
+   ]
+  },
+  "credibility": {
+   "score": 30,
+   "label": "low",
+   "summary": "Every dated target that can be checked has slipped: FY26 revenue guidance was cut from INR 4,500 crore to 4,000 crore and still missed at 3,632, the FY26 OCF-positive promise was rolled into FY27, and Q2 FY27 revenue growth of 4.5% is far below the '2x market' (32-36%) commitment. The one beat, FY26 metering revenue of INR 971 crore vs 700-800 guided, came in the business that drove the receivables build."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "at_risk",
+    "evidence": "The same promise was made for FY26 (G15) and rolled forward. Q1 FY27 showed about INR 259 crore of negative cash flow from inventory (+INR 177 crore) and receivables (C3); Q2 FY27 PAT fell 65.5% YoY; cash conversion cycle is 193 days vs 162 three years ago; 5-year CFO/PAT is -0.63. Getting to positive FY27 OCF needs a large H2 working-capital release that the inputs do not show yet.",
+    "actual": "Q1 FY27 negative cash flow ~INR 259 crore (C3); H1 figure not in inputs"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "at_risk",
+    "evidence": "One quarter in, receivables still rose by INR 68-90 crore in Q1 FY27, 'mainly because of metering' (C3), even after management cut metering supply to force collections (C1). Earlier receivable commitments (INR 240 crore discounting, G23; 90-day collection goal, G24) have no confirmed delivery in the inputs.",
+    "actual": "Q1 FY27 receivables +INR 68-90 crore, mainly metering (C3)"
+   },
+   {
+    "guidance_id": "G3",
+    "status": "on_track",
+    "evidence": "Management said 'we are on track' after Q1 FY27 spend of about INR 230 crore (OSAT 90, PCB 90, EMS 50), 27% of the INR 850 crore plan in 25% of the year (C5). Q2 spend is not in the inputs. Management also said modular expansions will continue 'as and when we get the newer business', so the total could rise.",
+    "actual": "Q1 FY27 ~INR 230 crore (C5)"
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "Revenue is guided to start in Q3 FY27, which has not been reported. The FY27 figure (INR 450-500 crore for half a year) is below the INR 550-700 crore combined PCB and OSAT production value cited in Q4 FY26 (G12, G13), though those carried no stated horizon.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "at_risk",
+    "evidence": "With the market at 16-18% (G7), 2x implies 32-36% growth. Q1 FY27 delivered 40.6% but Q2 FY27 only 4.5%; H1 FY27 works out to roughly 20% (derived from F:ttm_revenue_cr, FY26 revenue of INR 3,632 crore and the quarterly growth rates). Hitting 32-36% for FY27 would need H2 revenue ~41-48% above H2 FY26. FY26 itself missed plan (G14).",
+    "actual": "Q2 FY27 revenue +4.5% YoY; H1 FY27 ~20% (derived)"
+   },
+   {
+    "guidance_id": "G6",
+    "status": "unverifiable",
+    "evidence": "No current NPD-led/value-added revenue share is disclosed in the inputs and no date was given beyond 'the coming years'.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G7",
+    "status": "at_risk",
+    "evidence": "Restated as G5 in Q1 FY27. A 16-18% market implies 32-36% growth; Q2 FY27 revenue growth was 4.5% and H1 FY27 roughly 20% (derived), after Q1's 40.6%.",
+    "actual": "Q2 FY27 revenue +4.5% YoY"
+   },
+   {
+    "guidance_id": "G8",
+    "status": "pending",
+    "evidence": "FY27 has not ended. C2 says railways grew in Q1 FY27 but gives no rate, and the company says it does not normally disclose segment numbers (C2), so this may end unverifiable.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "pending",
+    "evidence": "No rail segment margin is in the inputs and the company does not normally disclose segment data (C2). Consolidated margin fell to 12.6% in Q2 FY27 from 16.1% a year earlier, which says nothing direct about rail.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G10",
+    "status": "at_risk",
+    "evidence": "The Q1 FY27 call says installations were hit by floods and that metering was deliberately cut until collections improve (C1); metering revenue fell to INR 210 crore in Q1 (C2). Q3 FY27 has not been reported.",
+    "actual": "Q1 FY27 metering revenue INR 210 crore (C2)"
+   },
+   {
+    "guidance_id": "G11",
+    "status": "at_risk",
+    "evidence": "Q1 FY27 metering revenue of INR 210 crore (C2) annualises to ~INR 840 crore, 13% below FY26's INR 971 crore, and management says it chose to degrow metering until collections improve (C1). The guide allowed 'slightly up or down', so a shortfall would be by choice rather than lack of orders, but the Q1 run-rate is outside 'roughly flat'.",
+    "actual": "Q1 FY27 INR 210 crore (~INR 840 crore annualised)"
+   },
+   {
+    "guidance_id": "G12",
+    "status": "pending",
+    "evidence": "PCB revenue is guided to start in Q3 FY27 (G4) and FY27 PCB capex is INR 300 crore (G3); no production value reported yet and no horizon was given.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "pending",
+    "evidence": "OSAT revenue is guided to start in Q3 FY27 (G4) and FY27 OSAT capex is INR 300 crore (G3); no production value reported yet and no horizon was given.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "missed",
+    "evidence": "Check: FY26 revenue INR 3,632 crore, 9.2% below the INR 4,000 crore floor. The 4,000 was already a cut from the INR 4,500 crore guided at the start of the year (C6), so the shortfall to original guidance is 19%. Management blamed a ~90% revenue drop at a single-source EV customer and delayed government orders (C7, C8). Its claim of ~33% FY26 growth (C7) does not reconcile with 4,500 being 'almost 55% growth' (C6), which implies an FY25 base near INR 2,900 crore and ~25% growth at 3,632.",
+    "actual": "INR 3,632 crore (FY26 reported)"
+   },
+   {
+    "guidance_id": "G15",
+    "status": "missed",
+    "evidence": "FY26 OCF is not in the inputs, but in Q1 FY27 management re-promised turning cash positive 'by end of the financial year' (G1), i.e. the FY26 deadline passed without it. The Q4 FY26 call said total net working capital rose because of metering (C9); 5-year CFO/PAT is -0.63 and 5-year FCF is -INR 3,287 crore.",
+    "actual": "Not reported in inputs; target rolled to FY27 (G1)"
+   },
+   {
+    "guidance_id": "G16",
+    "status": "pending",
+    "evidence": "FY28 target. No exchange rate is in the inputs, so the gap to TTM revenue of INR 3,946 crore cannot be sized. The base has slipped: FY26 delivered INR 3,632 crore vs INR 4,500 crore originally guided (C6), and Q2 FY27 growth fell to 4.5%.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G17",
+    "status": "unverifiable",
+    "evidence": "No FY26 capex figure is in the inputs. 5-year FCF of -INR 3,287 crore shows heavy cumulative investment but cannot isolate Q4 FY26 spend.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G18",
+    "status": "pending",
+    "evidence": "FY27 PCB capex was reiterated at INR 300 crore with ~INR 90 crore spent in Q1 (C5, G3); cumulative spend to date is not disclosed, so the INR 1,400 crore total (also G22) cannot be tracked yet. PCB revenue is due from Q3 FY27 (G4).",
+    "actual": "Q1 FY27 PCB spend ~INR 90 crore (C5)"
+   },
+   {
+    "guidance_id": "G19",
+    "status": "delivered",
+    "evidence": "The Q4 FY26 call gives FY26 metering sales of INR 971 crore (G11), 21% above the top of the 700-800 range. The overshoot came in the business carrying most receivables (C9: metering ~25% of revenue but ~67% of receivables, transcript garbled) and preceded the FY26 OCF miss (G15) and the Q1 FY27 decision to cut metering (C1).",
+    "actual": "INR 971 crore (G11)"
+   },
+   {
+    "guidance_id": "G20",
+    "status": "unverifiable",
+    "evidence": "The Q1 FY27 plan still includes INR 250 crore of EMS capex for FY27 (G3, C5), and management added that 'modular capacity expansions will go on' as new business comes. The inputs do not state the earlier 'committed' EMS number, so whether 250 is within it cannot be judged.",
+    "actual": "FY27 EMS capex plan INR 250 crore; Q1 spend ~INR 50 crore (C5)"
+   },
+   {
+    "guidance_id": "G21",
+    "status": "pending",
+    "evidence": "Five-year plan; FY27 OSAT capex INR 300 crore with ~INR 90 crore spent in Q1 (C5). The quote says funding is via QIP while the ledger statement says internal accruals; neither is confirmed in later calls.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G22",
+    "status": "pending",
+    "evidence": "Reiterated as cumulative INR 1,400 crore PCB capex by FY27 (G18); FY27 PCB capex INR 300 crore (G3). Cumulative spend is not in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G23",
+    "status": "unverifiable",
+    "evidence": "No later call confirms the discounting. Metering receivables were still the main working-capital drag at Q4 FY26 (C9) and Q1 FY27 (C3).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G24",
+    "status": "at_risk",
+    "evidence": "No metering receivable-days figure is in the inputs, but the Q4 FY26 call put metering at ~25% of revenue and ~67% of receivables (C9, garbled), and in Q1 FY27 management cut metering supply to force collections (C1) and promised a receivables 'turnaround' by end-FY27 (G2). Both point to collections running well beyond the 90-day goal.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Growth momentum: 40% growth in Q1 FY27 with EMS ~48%, every segment growing (C2, C4), and a commitment to grow at 2x the market (G7).",
+    "reality": "The next quarter broke: Q2 FY27 revenue +4.5% YoY, PAT -65.5%, margin 12.6% vs 16.1% a year earlier. H1 FY27 growth works out to roughly 20%, against the 32-36% that 2x a 16-18% market implies.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C2",
+     "C4",
+     "G7",
+     "F:rev_yoy_last4_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   },
+   {
+    "claim": "Working capital is improving: Q1 FY27 negative cash flow of INR 259 crore vs INR 379 crore a year earlier, the inventory build is 'strategic', and standalone EMS NWC days fell from 64 to 54 (C3, C4, C9).",
+    "reality": "Cash conversion cycle is 193 days vs 162 three years ago; 5-year CFO/PAT is -0.63 and 5-year FCF -INR 3,287 crore; borrowings INR 1,986 crore. The FY26 OCF-positive target (G15) was missed and re-issued for FY27 (G1).",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "C3",
+     "C4",
+     "C9",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "F:cfo_to_pat_5y",
+     "F:fcf_5y_cr",
+     "F:borrowings_cr",
+     "G15",
+     "G1"
+    ]
+   },
+   {
+    "claim": "Metering was cut deliberately to collect cash first (C1).",
+    "reality": "The cut is visible: metering revenue INR 210 crore in Q1 FY27 (22% of INR 946 crore) vs INR 971 crore for FY26 (~27% of revenue). But receivables still rose INR 68-90 crore in the quarter, 'mainly because of metering' (C3). No collection benefit in the numbers yet.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "C1",
+     "C2",
+     "C3",
+     "G11"
+    ]
+   },
+   {
+    "claim": "FY27 capex of INR 850 crore is on track (C5, G3).",
+    "reality": "Q1 FY27 spend of ~INR 230 crore is 27% of the plan in the first quarter, in line with it; debt/equity is 0.4.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C5",
+     "G3",
+     "F:debt_to_equity"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Q1 FY27 showed what EMS can do: revenue +40.6% YoY with EMS ~48% while metering was cut; a large two-wheeler EV customer moved into serial production and aerospace recovered (C2, C4).",
+    "evidence_ids": [
+     "F:rev_yoy_last4_pct",
+     "C2",
+     "C4"
+    ]
+   },
+   {
+    "point": "Long-run compounding: revenue CAGR 47.7% (3y) / 53.9% (5y), PAT CAGR 56.5% / 105.2%, margin +590 bps over 5 years; FY26 metering revenue of INR 971 crore beat the 700-800 guide (G19).",
+    "evidence_ids": [
+     "F:rev_cagr_3y",
+     "F:rev_cagr_5y",
+     "F:pat_cagr_3y",
+     "F:pat_cagr_5y",
+     "F:margin_change_5y_bps",
+     "G19",
+     "G11"
+    ]
+   },
+   {
+    "point": "New revenue lines: OSAT and PCB are guided to add INR 450-500 crore from Q3 FY27 (G4), 11-13% of TTM revenue of INR 3,946 crore, with FY27 capex tracking plan (INR 230 crore of INR 850 crore in Q1, C5) at debt/equity of 0.4.",
+    "evidence_ids": [
+     "G4",
+     "G3",
+     "C5",
+     "F:ttm_revenue_cr",
+     "F:debt_to_equity"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Q2 FY27 earnings fell sharply: revenue +4.5%, PAT -65.5%, margin 12.6% vs 16.1% a year ago, straight after a quarter of 40.6% growth. No Q2 call commentary is in the inputs to explain it.",
+    "evidence_ids": [
+     "F:rev_yoy_last_q_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   },
+   {
+    "point": "Cash burn: 5-year FCF -INR 3,287 crore, CFO/PAT -0.63, cash conversion cycle 193 days (162 three years ago), ROCE 13%. The OCF-positive promise was missed for FY26 (G15) and re-issued for FY27 (G1) after a ~INR 259 crore Q1 outflow (C3).",
+    "evidence_ids": [
+     "F:fcf_5y_cr",
+     "F:cfo_to_pat_5y",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "F:roce_latest_pct",
+     "G15",
+     "G1",
+     "C3"
+    ]
+   },
+   {
+    "point": "Guidance record: FY26 revenue guide cut from INR 4,500 crore to 4,000 crore and delivered 3,632 (C6, G14), blamed on a ~90% revenue drop at an EV OEM where Kaynes was sole supplier and on delayed government orders (C7, C8), which is concentration risk the guidance did not allow for. The metering installation deadline (G10) is already hit by floods (C1).",
+    "evidence_ids": [
+     "C6",
+     "G14",
+     "C7",
+     "C8",
+     "G10",
+     "C1"
+    ]
+   }
+  ],
+  "questions": [
+   "What drove Q2 FY27 revenue growth down to 4.5% and PAT down 65.5% after Q1's 40.6%: an EMS slowdown, a further metering cut, or the still-delayed government order? What was the Q2 EMS/metering split?",
+   "What was FY26 consolidated operating cash flow against the promise to be OCF-positive by end-FY26 (G15), how many days are metering receivables outstanding against the 90-day goal (G24), and what H2 FY27 inventory and receivable release underpins the FY27 cash-positive target after Q1's ~INR 259 crore outflow?",
+   "How much of the INR 450-500 crore OSAT/PCB revenue guided for H2 FY27 (G4) is under signed orders from qualified customers, and why is it below the INR 550-700 crore production value cited in Q4 FY26 (G12, G13)?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "offline batch on claude-opus-5-5 (same prompt and schema; no API key in the build environment)",
+  "label": "KAYNES synthesis",
+  "at": "2026-11-16T20:28:04",
+  "est_input_tokens": 5940,
+  "est_output_tokens": 7703,
+  "est_usd": 0.17782
+ }
+}

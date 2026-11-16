@@ -48,6 +48,30 @@ def write_research(symbol: str) -> dict:
     return d
 
 
+def _retain(events: list[dict]) -> None:
+    """An event, once seen, stays until it ages out of the window.
+
+    screener.in lists only each company's five latest filings, so a busy week pushes older ones off the
+    list; the NSE feed holds ~130 items. Without this, a results filing could vanish a day after it landed.
+    """
+    from datetime import datetime, timedelta
+
+    prev = _previous("events.json") or []
+    cutoff = now_ist() - timedelta(days=push.WINDOW_DAYS)
+    have = {e["id"] for e in events}
+    for p in prev:
+        if p["id"] in have:
+            continue
+        dt = datetime.fromisoformat(p["dt"])
+        if dt < cutoff:
+            continue
+        twin = any(e["symbol"] == p["symbol"] and e["category"] == p["category"]
+                   and abs(datetime.fromisoformat(e["dt"]) - dt) <= timedelta(hours=6) for e in events)
+        if not twin:
+            events.append({**p, "retained": True})
+    events.sort(key=lambda e: e["dt"], reverse=True)
+
+
 def _carry_over(events: list[dict]) -> None:
     """Keep enrichment from the last snapshot when this run couldn't recompute it."""
     prev = {e["id"]: e for e in (_previous("events.json") or [])}
@@ -82,6 +106,15 @@ def build(research_too: bool = True, research: bool | None = None) -> None:
     print("[3/5] filings → events")
     events = push.build_events(companies, eod)
     _carry_over(events)
+    _retain(events)
+    # A results card that was waiting on numbers gets re-checked against today's tables.
+    from datetime import datetime
+    for e in events:
+        if e.get("retained") and e["category"] == "results" and e.get("subtype") == "filing" \
+                and (e.get("results") or {}).get("pending") and e["symbol"] in companies:
+            tmp = {**e, "dt": datetime.fromisoformat(e["dt"])}
+            push._attach_results(tmp, companies[e["symbol"]])
+            e["results"] = tmp["results"]
     print(f"      {len(events)} events · tiers:", {t: sum(e['tier'] == t for e in events) for t in ('material', 'notable', 'routine')})
 
     holdings = []

@@ -11,7 +11,7 @@ FINN is a mobile-first investor workflow built for ENAM's Founding AI Engineer c
 
 <p>
   <img src="docs/screens/brief.png" width="260" alt="Brief: six things need you this week, Page Industries' results with the person best placed to explain">
-  <img src="docs/screens/research.png" width="260" alt="Research: Kaynes management credibility 32/100 with the promise ledger">
+  <img src="docs/screens/research.png" width="260" alt="Research: Kaynes management credibility 30/100 with the promise ledger">
   <img src="docs/screens/network.png" width="260" alt="Network: ranked paths to HDFC Bank's new CEO, each explained">
 </p>
 
@@ -19,10 +19,11 @@ FINN is a mobile-first investor workflow built for ENAM's Founding AI Engineer c
 
 ## A 60-second tour
 
-1. **Brief** opens on the last 24 hours (data as of Sunday 15 Nov): *2 things need you*, both Kaynes.
-   Tap **7 days**: *6 things need you · 33 filings across 15 holdings · 18 routine tucked away · 10 unusual
-   moves*. Page Industries' Q2 card shows Revenue / EBITDA / PBT / PAT YoY and QoQ, and the stock's −13.1% vs
-   Nifty the next session.
+1. **Brief** opens on the last 24 hours (data as of Monday 16 Nov). It was quiet, so it says so — *9 filings,
+   none material* — and offers a wider window. Tap **7 days**: *6 things need you · 40 filings across 14
+   holdings · 23 routine tucked away · 12 unusual moves*. Page Industries' Q2 card shows Revenue / EBITDA /
+   PBT / PAT YoY and QoQ, and the stock's −13.1% vs Nifty the next session; Kaynes' shows revenue +4.5% and
+   PAT −66% YoY.
 2. Every card ends in a person. Page's card names Ritika Shah — now CFO at a direct peer, earlier Page's
    financial controller. Page's FEMA clarification adds the lawyer you lean on for foreign-exchange rules.
    Tap **30 days** → HDFC Bank's new MD & CEO: **Anup Bagchi's career from the filing itself** and seven paths
@@ -31,9 +32,10 @@ FINN is a mobile-first investor workflow built for ENAM's Founding AI Engineer c
    either explained by a nearby filing or flagged: *"No filing explains this move — worth a call."*
 4. **Research → Kaynes**: the numbers are computed (5-year CFO/PAT −0.63x — profits not turning into cash;
    debtor days 74 → 154). **Promises** lists what management said on each call, verbatim with page links,
-   scored against what was reported ("FY26 revenue at least ₹4,000 cr" → reported ₹3,626 cr: **missed**).
-   Credibility **32/100**: *"cut its FY26 revenue guide from ₹4,500 cr to ₹4,000 cr and still delivered only
-   ₹3,626 cr, and its FY26 OCF-positive promise was re-issued for FY27…"*
+   scored against what was reported ("FY26 revenue at least ₹4,000 cr" → reported ₹3,632 cr: **missed**).
+   Credibility **30/100**: *"Every dated target that can be checked has slipped: FY26 revenue guidance was
+   cut from ₹4,500 crore to 4,000 crore and still missed at 3,632, the FY26 OCF-positive promise was rolled
+   into FY27, and Q2 FY27 revenue growth of 4.5% is far below the '2x market' commitment."*
 5. **Network → "specialty chemicals"** gives your go-to people by years in the sector. **Reconnect** finds
    people who have gone quiet and hands you a reason to call — *"Anup Bagchi, HDFC Bank's new MD & CEO,
    overlapped with Arjun at ICICI Bank"* (your classmate; last spoke 8 months ago).
@@ -58,7 +60,7 @@ FINN is a mobile-first investor workflow built for ENAM's Founding AI Engineer c
 
 | Layer | Working workflows |
 |---|---|
-| **Push** | Windowed digest (24h / 3d / 7d / 30d) across the portfolio, ranked into *Needs you · Worth a glance · Routine*; results cards with Revenue / EBITDA / PBT / PAT QoQ & YoY (financing profit for lenders, with NPAs); management-change cards with the appointee's profile from the filing and network paths to them; material-event cards (M&A, legal, orders sized against revenue) with the best person to call and questions to ask; EOD triggers with configurable thresholds, index-relative moves and filing attribution. |
+| **Push** | Windowed digest (24h / 3d / 7d / 30d) across the portfolio, ranked into *Needs you · Worth a glance · Routine*; results cards with Revenue / EBITDA / PBT / PAT QoQ & YoY (for lenders: Revenue / PBT / PAT plus gross NPA, since EBITDA isn't meaningful for a lender); management-change cards with the appointee's profile from the filing and network paths to them; material-event cards (M&A, legal, orders sized against revenue) with the best person to call and questions to ask; EOD triggers with configurable thresholds, index-relative moves and filing attribution. |
 | **Pull** | A dossier for any NSE symbol: business, what's changing (multi-year trajectory in plain sentences), flags, numbers (12 quarters, 10 years), balance sheet (D/E, funding mix, working-capital cycle; asset quality for lenders), cash quality (CFO vs PAT, FCF), **promise ledger** with guidance drift and tone by call, management credibility, narrative vs numbers, bull/bear, questions to ask. Primary sources only. |
 | **Network** | Tie strength (relationship × recency × frequency); inferred links to people in filings (overlapping employer, years, function, seniority, org size); who-to-call for any company (counterparty → alumni → competitor → sector → tagged expertise), insider-information caution; second-degree paths; expertise map; reconnect nudges; free-text ask ("Anup Bagchi", "Who knows Kaynes?", "rural lending"). |
 
@@ -83,9 +85,9 @@ diagram and the privacy model: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 | Credibility, narrative vs numbers, bull/bear | Claude Opus 5.5 | 1 call/company/quarter |
 | Everything else (classification, numbers, promise checks, drift, network) | code | — |
 
-**What this demo cost to compute**, at API list prices: ≈ **$2.69** for 118 model outputs — 98 Haiku
+**What this demo cost to compute**, at API list prices: ≈ **$2.72** for 119 model outputs — 99 Haiku
 extractions ($0.08 in total) and 20 Opus judgements (~13¢ each). 477 guidance quotes verified, 0 dropped.
-A daily refresh costs ≈ $0 unless a company files something new.
+A daily refresh costs ≈ $0 unless a company files something new: the first Monday refresh re-ran 4 steps.
 
 ## Honest notes
 
@@ -105,8 +107,9 @@ A daily refresh costs ≈ $0 unless a company files something new.
   says so where it doesn't. ITC does not publish concall transcripts, so it has no promise ledger.
 - **Static vs live.** The Pages build carries 21 pre-built dossiers; any other symbol needs the live
   engine (`python -m finn serve`, or the one-click `render.yaml`).
-- **Known analytical limits** (noted in the affected promises' evidence): lender KPIs (AUM, NIM, credit cost) aren't in the standardised tables, so
-  most lender guidance is judged from later calls rather than computed; some companies' latest transcript
+- **Known analytical limits** (noted in the affected promises' evidence): lender KPIs (AUM, NIM, credit
+  cost) aren't in the standardised tables, so most lender guidance is judged from later calls rather than
+  computed; some companies' latest transcript
   lags their latest reported quarter; the extractor occasionally records the same promise twice or reads a
   segment target as company-level; *drift* only catches like-for-like numeric revisions, the synthesis
   catches the rest (e.g. Reliance's ARPU ambition easing from 5–6% to 4–5%). Fixes are on the roadmap:
@@ -119,7 +122,7 @@ pip install -r requirements.txt
 python -m finn build            # ~6 min cold, ~1 min warm; writes web/data/
 python -m finn serve            # app + live research API on :8000
 python -m finn research POLYCAB # one dossier for any NSE symbol
-python -m pytest -q tests       # 20 tests; tests/ui_smoke.py screenshots every screen
+python -m pytest -q tests       # 25 tests; tests/ui_smoke.py screenshots every screen
 ```
 
 Optional: `export ANTHROPIC_API_KEY=...` to run model steps through the API instead of the job queue.

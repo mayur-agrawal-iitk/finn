@@ -16,5 +16,50 @@
 "url": "https://nsearchives.nseindia.com/corporate/xbrl/ANN_AGREEMENT_20675_WebXMLFile_20261115_001332109.xml",
 "dt": "2026-11-15T00:13:33+05:30",
 "source": "NSE live feed"
+},
+"https://nsearchives.nseindia.com/corporate/kavinavora_16112026192449_SE_16112026__1_.pdf": {
+"symbol": "RELIANCE",
+"title": "Updates",
+"subject": "Updates",
+"summary_src": "This is further to the disclosure dated November 6, 2026 made by the Company. We wish to inform you that the Company executives participated in the Institutional Investors' Meeting - CLSA India Forum and no unpublished price sensitive information was shared/discussed in the said one-on-one meeting.",
+"url": "https://nsearchives.nseindia.com/corporate/kavinavora_16112026192449_SE_16112026__1_.pdf",
+"dt": "2026-11-16T19:26:15+05:30",
+"source": "NSE live feed"
+},
+"https://nsearchives.nseindia.com/corporate/PAGEIND_16112026183124_NEWSPAPERRESULTS30092026.pdf": {
+"symbol": "PAGEIND",
+"title": "Copy of Newspaper Publication",
+"subject": "Copy of Newspaper Publication",
+"summary_src": "Page Industries Limited has informed the Exchange about Copy of Newspaper Publication",
+"url": "https://nsearchives.nseindia.com/corporate/PAGEIND_16112026183124_NEWSPAPERRESULTS30092026.pdf",
+"dt": "2026-11-16T18:33:29+05:30",
+"source": "NSE live feed"
+},
+"https://nsearchives.nseindia.com/corporate/PAGEIND_16112026182736_INVESTORMEET23NOV2026.pdf": {
+"symbol": "PAGEIND",
+"title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+"subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+"summary_src": "Page Industries Limited has informed the Exchange about Schedule of meet",
+"url": "https://nsearchives.nseindia.com/corporate/PAGEIND_16112026182736_INVESTORMEET23NOV2026.pdf",
+"dt": "2026-11-16T18:29:18+05:30",
+"source": "NSE live feed"
+},
+"https://nsearchives.nseindia.com/corporate/KAYNESTECH_16112026151706_NewpaperPublicationsigned.pdf": {
+"symbol": "KAYNES",
+"title": "Copy of Newspaper Publication",
+"subject": "Copy of Newspaper Publication",
+"summary_src": "Kaynes Technology India Limited has informed the Exchange about Copy of Newspaper Publication",
+"url": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_16112026151706_NewpaperPublicationsigned.pdf",
+"dt": "2026-11-16T15:17:19+05:30",
+"source": "NSE live feed"
+},
+"https://nsearchives.nseindia.com/corporate/KAYNESTECH_16112026151446_EaringCallIntimationaudiorecording.pdf": {
+"symbol": "KAYNES",
+"title": "Analysts/Institutional Investor Meet/Con. Call Updates",
+"subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+"summary_src": "Kaynes Technology India Limited has informed the Exchange about Link of Recording",
+"url": "https://nsearchives.nseindia.com/corporate/KAYNESTECH_16112026151446_EaringCallIntimationaudiorecording.pdf",
+"dt": "2026-11-16T15:15:14+05:30",
+"source": "NSE live feed"
 }
 }

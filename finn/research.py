@@ -660,7 +660,8 @@ def _synthesis(co: dict, an: dict, g: dict) -> dict | None:
     top = prioritise(g["ledger"], 24)
     ledger = [{k: x.get(k) for k in ("id", "call", "metric", "kind", "statement", "quote", "horizon", "target_low", "target_high", "unit", "check")} for x in top]
     facts = {k: v for k, v in an["facts"].items() if v is not None}
-    return llm.run("synthesis", {"company": co["name"], "kind": co["kind"], "as_of": now_ist().date().isoformat(),
+    # Inputs must be stable for the cache to work: no "today", no prices — only filed facts and transcripts.
+    return llm.run("synthesis", {"company": co["name"], "kind": co["kind"],
                                   "facts": facts, "ledger": ledger, "drift": g["drift"], "context": ctx},
                    label=f"{co['symbol']} synthesis")
 

@@ -1,0 +1,304 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Lender to low-income borrowers, built on microfinance Group Loans and extending into Individual Business Loans, secured business loans, affordable housing loans and two-wheeler finance as customers' needs grow (6-8% of customers a year expected to move to individual loans, G13). AUM INR 30,946 crore at Q2 FY27 across 2,326 branches in 460 districts (C1).",
+   "segments": [
+    {
+     "name": "Group Loans (microfinance)",
+     "share_pct": null,
+     "comment": "Core product. Management concedes Group Loan growth is below guided levels in H1 FY27 and frames microfinance growth at 10-12% (G7, G12). Share of AUM not stated in inputs."
+    },
+    {
+     "name": "Retail: individual business, secured business, affordable housing, two-wheeler loans",
+     "share_pct": null,
+     "comment": "Growth engine fed by graduating Group Loan customers (C1, G13). Share of AUM not stated in inputs."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "G7",
+    "G12",
+    "G13"
+   ]
+  },
+  "credibility": {
+   "score": 68,
+   "label": "medium",
+   "summary": "Guidance is set low and then raised: the FY27 targets issued in Q4 FY26 sat below that quarter's own results (NIM 12.8-13.2% vs 14.2% actual, cost-to-income 33-35% vs 30.4%) and were lifted at H1 for ROA, ROE, NIM and cost-to-income. Against that, the FY27 NIM guide was cut ~125 bps and then raised ~155 bps across three calls, AUM growth of 19.5% sits just under the 20-25% range that was 'retained', and no full-year outcome can yet be checked."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "on_track",
+    "evidence": "H1 FY27 ROA 5.9% (C1) is above the top of the raised 5.2-5.8% range, which implies H2 ROA of roughly 4.5-5.7% as the 50 bps lending-rate cuts (G11) feed through. Raised from 4.0-4.8% (G25).",
+    "actual": "H1 FY27 ROA 5.9% (C1)"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "on_track",
+    "evidence": "H1 FY27 ROE 23.8% (C1), inside the raised 21-24% range. F:roe_latest_pct of 11.0% looks like a trailing full-year figure and is not comparable; H1 PAT of INR 995 crore annualised on implied equity of ~INR 8,900 crore (borrowings / debt-to-equity) gives ~22%, consistent with the guide.",
+    "actual": "H1 FY27 ROE 23.8% (C1)"
+   },
+   {
+    "guidance_id": "G3",
+    "status": "at_risk",
+    "evidence": "AUM grew 19.5% YoY to INR 30,946 crore at Q2 FY27, just below the 20% floor, and only 2.1% QoQ (~9% annualised) (C1). Management concedes Group Loan growth is below guided levels and needs an H2 recovery (G7). Disbursements +19.4% YoY.",
+    "actual": "AUM +19.5% YoY, +2.1% QoQ at Q2 FY27 (C1)"
+   },
+   {
+    "guidance_id": "G4",
+    "status": "on_track",
+    "evidence": "No H1 NIM figure is in the inputs; management says current NIMs are at their highest levels (C2), above the 14.2% Q4 FY26 exit (C4). H2 absorbs 50 bps lending-rate cuts in Q3 and Q4 (G11) with borrowing cost guided flat at 9.2-9.3% (G9), so H2 NIM should run below H1.",
+    "actual": "H1 FY27 NIM not in inputs; Q4 FY26 NIM 14.2% (C4)"
+   },
+   {
+    "guidance_id": "G5",
+    "status": "on_track",
+    "evidence": "Management says credit cost is 'within the guided range' and has 'held its ground' (C2); no H1 credit-cost figure is in the inputs. The 3.5-4% steer given on the same call (G8) puts the outcome in the upper half of the range. Lowered from 4-4.5% guided in Q3 FY26 (G31).",
+    "actual": "Not disclosed; within range per management (C2)"
+   },
+   {
+    "guidance_id": "G6",
+    "status": "pending",
+    "evidence": "Cut from 33-35% (G23). No H1 cost-to-income figure in the inputs; Q4 FY26 was 30.4% (C4). 60 branches added in Q2 (C1) add cost.",
+    "actual": "Q4 FY26 30.4% (C4); H1 FY27 not disclosed"
+   },
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "H2 FY27 not reported. The promise itself confirms Group Loan growth was below guided levels in H1; total AUM grew 2.1% QoQ in Q2 (C1).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "on_track",
+    "evidence": "A narrower steer inside the 3-4% headline (G5), at its upper half; management says credit cost is within the guided range (C2). No reported figure in the inputs.",
+    "actual": "Not disclosed; within range per management (C2)"
+   },
+   {
+    "guidance_id": "G9",
+    "status": "on_track",
+    "evidence": "Reiterated in Q2 FY27: maturing debt is being refinanced at similar rates and an October USD 175m ECB replaces a costlier USD 200m ECB; balance-sheet blended rate ~9% (C3). Risks: repo rates have risen (C2), ~30% of borrowings are repo-linked and Q3 marginal cost will be higher (C3).",
+    "actual": "Blended ~9% per management (C3); Q4 FY26 9.2% (C4)"
+   },
+   {
+    "guidance_id": "G10",
+    "status": "unverifiable",
+    "evidence": "Steady-state target with no date. H1 FY27 ROA of 5.9% (C1) and the FY27 guide of 5.2-5.8% (G1) are both above it, so management is signalling that current returns exceed what it considers sustainable, implying a 90-140 bps step-down from H1 levels at some point.",
+    "actual": "H1 FY27 ROA 5.9% (C1)"
+   },
+   {
+    "guidance_id": "G11",
+    "status": "pending",
+    "evidence": "The first 50 bps cut falls in Q3 FY27, not yet reported. Management has already made the next cut conditional: if borrowing costs rise 'we have the right to reprice or not necessarily pass back the 50 bps' (C2), with repo rates up and ~30% of borrowings repo-linked (C3).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G12",
+    "status": "at_risk",
+    "evidence": "Management concedes Group Loan growth is below guided levels in H1 FY27 (G7); no microfinance growth figure is disclosed. The Q2 FY27 wording ('could be range bound... 10% to 12%') is softer than the 12% net MFI growth stated in Q4 FY26 (G28).",
+    "actual": null
+   },
+   {
+    "guidance_id": "G13",
+    "status": "unverifiable",
+    "evidence": "No customer-conversion data in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G14",
+    "status": "at_risk",
+    "evidence": "From INR 30,946 crore at Sep-2026 (C1), reaching INR 50,000 crore by Dec-2028 needs ~24% annual growth over 27 months; at the current 19.5% YoY pace AUM would reach ~INR 46,200 crore, ~8% short.",
+    "actual": "INR 30,946 crore at Q2 FY27 (C1)"
+   },
+   {
+    "guidance_id": "G17",
+    "status": "on_track",
+    "evidence": "The Q1 FY27 guide of ~9.3% average (ending ~9.4%) was narrowed in Q2 FY27 to 9.2-9.3% through March (G9, C3). No reported FY27 borrowing-cost figure in the inputs.",
+    "actual": "Not disclosed; Q2 FY27 guide 9.2-9.3% (C3)"
+   },
+   {
+    "guidance_id": "G18",
+    "status": "on_track",
+    "evidence": "Management says credit cost is within the 3-4% guided range (C2), consistent with TTM below 4%, but no TTM credit-cost figure is in the inputs. The 'towards 3%' part is not supported: the Q2 FY27 steer is 3.5-4% for FY27 (G8).",
+    "actual": "Not disclosed in inputs"
+   },
+   {
+    "guidance_id": "G21",
+    "status": "at_risk",
+    "evidence": "Same target as G3, set in Q4 FY26 and retained in Q2 FY27; H1 tracking at 19.5% YoY with 2.1% QoQ growth in Q2 (C1), and Group Loan growth below guide (G7).",
+    "actual": "AUM +19.5% YoY at Q2 FY27 (C1)"
+   },
+   {
+    "guidance_id": "G22",
+    "status": "on_track",
+    "evidence": "Superseded upward: raised to 14.4-14.7% in Q2 FY27 (G4). When issued, Q4 FY26 NIM was already 14.2% (C4), so the guide assumed 100-140 bps of compression that has not happened. The FY27 NIM guide moved 14-14.5% (Q3 FY26) to 12.8-13.2% (Q4 FY26) to 14.4-14.7% (Q2 FY27).",
+    "actual": "Q4 FY26 NIM 14.2% (C4); guide raised to 14.4-14.7% (G4)"
+   },
+   {
+    "guidance_id": "G23",
+    "status": "on_track",
+    "evidence": "Superseded: lowered (improved) to 29-30% in Q2 FY27 (G6). Q4 FY26 cost-to-income was already 30.4% (C4) when the 33-35% guide was issued.",
+    "actual": "Q4 FY26 30.4% (C4)"
+   },
+   {
+    "guidance_id": "G24",
+    "status": "on_track",
+    "evidence": "Maintained at 3-4% in Q2 FY27 (G5), with management saying credit cost is within range (C2); the same call's steer is 3.5-4% (G8).",
+    "actual": "Not disclosed; within range per management (C2)"
+   },
+   {
+    "guidance_id": "G25",
+    "status": "on_track",
+    "evidence": "Superseded upward to 5.2-5.8% (G1); H1 FY27 ROA 5.9% (C1). Q4 FY26 ROA was 4.4% (C4) when this was issued.",
+    "actual": "H1 FY27 ROA 5.9% (C1)"
+   },
+   {
+    "guidance_id": "G26",
+    "status": "on_track",
+    "evidence": "Superseded upward to 21-24% (G2); H1 FY27 ROE 23.8% (C1) vs 17.8% in Q4 FY26 (C4).",
+    "actual": "H1 FY27 ROE 23.8% (C1)"
+   },
+   {
+    "guidance_id": "G28",
+    "status": "at_risk",
+    "evidence": "Restated in Q2 FY27 as a 10-12% range (G12), with Group Loan growth below guided levels in H1 (G7); no MFI growth figure in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G31",
+    "status": "on_track",
+    "evidence": "Lowered (improved) to 3-4% in Q4 FY26 (G24) and held in Q2 FY27 (G5); management says credit cost is within that range (C2).",
+    "actual": "Not disclosed; within 3-4% per management (C2)"
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "Record quarterly profit of INR 502 crore and 'a clear turnaround': H1 PAT INR 995 crore vs INR 778 crore for all of FY26 (C1).",
+    "reality": "The numbers agree: Q2 PAT +298.4% YoY, margin 35.2% vs 11.2% a year earlier, TTM PAT INR 1,587 crore. But 3-year PAT CAGR is -2.0%, so TTM profit is still below its level three years ago; this is a recovery to prior earnings, not beyond them.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "F:pat_yoy_last_q_pct",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:ttm_pat_cr",
+     "F:pat_cagr_3y"
+    ]
+   },
+   {
+    "claim": "AUM growth guidance of 20-25% retained (G3).",
+    "reality": "AUM +19.5% YoY and +2.1% QoQ at Q2 FY27 (C1); management concedes Group Loan growth is below guided levels (G7). The guide was held while the run-rate sits under its floor.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G3",
+     "C1",
+     "G7"
+    ]
+   },
+   {
+    "claim": "H1 ROE of 23.8% supports raising FY27 ROE guidance to 21-24% (C1, G2).",
+    "reality": "F:roe_latest_pct shows 11.0%, but that appears to be a trailing full-year figure; H1 PAT of INR 995 crore annualised on implied equity of ~INR 8,900 crore (borrowings INR 25,128 crore / debt-to-equity 2.82) gives ~22%, inside the new range.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "G2",
+     "F:roe_latest_pct",
+     "F:borrowings_cr",
+     "F:debt_to_equity"
+    ]
+   },
+   {
+    "claim": "NIM will hold at 14.4-14.7% for FY27 while passing on 50 bps lending-rate cuts in Q3 and Q4 (G4, G11), with borrowing cost flat at 9.2-9.3% (G9).",
+    "reality": "Margin already slipped from 37.0% in Q1 to 35.2% in Q2; repo rates have risen, ~30% of borrowings are repo-linked and Q3 marginal borrowing cost will be higher (C2, C3). Whether NIM holds through 100 bps of yield cuts is not yet visible.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "G4",
+     "G11",
+     "G9",
+     "C2",
+     "C3",
+     "F:margin_last4_pct"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Earnings reset: Q2 PAT INR 502 crore (+298.4% YoY); H1 PAT of INR 995 crore already exceeds FY26's INR 778 crore; H1 ROA 5.9% / ROE 23.8% sit at or above the raised 5.2-5.8% / 21-24% guides.",
+    "evidence_ids": [
+     "C1",
+     "F:pat_yoy_last_q_pct",
+     "G1",
+     "G2"
+    ]
+   },
+   {
+    "point": "Guidance has room: FY27 targets issued in Q4 FY26 sat below that quarter's actuals (NIM 12.8-13.2% vs 14.2%; cost-to-income 33-35% vs 30.4%) and have been raised to 14.4-14.7% and 29-30%; the credit-cost guide fell from 4-4.5% (Q3 FY26) to 3-4%.",
+    "evidence_ids": [
+     "G22",
+     "G23",
+     "C4",
+     "G4",
+     "G6",
+     "G31",
+     "G24"
+    ]
+   },
+   {
+    "point": "Franchise still expanding: revenue growth accelerated 8.0%, 13.5%, 21.9%, 26.3% over four quarters; 4.9 lakh new borrowers in H1 (35% new-to-credit in Q2), 60 branches added to 2,326, digital collections 26.3% vs 18.1%; borrowing cost guided flat at 9.2-9.3% with 30% of borrowings fixed-rate.",
+    "evidence_ids": [
+     "F:rev_yoy_last4_pct",
+     "C1",
+     "C3",
+     "G9"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Peak returns: management's own steady-state ROA of 4.5-5% (G10) is 90-140 bps below H1's 5.9%, and three 50 bps lending-rate cuts start in Q3 (G11) just as repo rates rise and Q3 marginal borrowing cost goes up (C2, C3).",
+    "evidence_ids": [
+     "G10",
+     "C1",
+     "G11",
+     "C2",
+     "C3"
+    ]
+   },
+   {
+    "point": "Book growth lags guidance: AUM +19.5% YoY and +2.1% QoQ vs 20-25% guided (G3); Group Loan growth below guide (G7); INR 50,000 crore by CY2028 (G14) needs ~24% a year from INR 30,946 crore.",
+    "evidence_ids": [
+     "C1",
+     "G3",
+     "G7",
+     "G14"
+    ]
+   },
+   {
+    "point": "Credit cost is the swing factor at 2.82x debt/equity (borrowings INR 25,128 crore): the 3.5-4% steer (G8) is the top half of the 3-4% guide (G5), and the last credit cycle left 3-year PAT CAGR at -2.0% and margin down 1,470 bps over three years.",
+    "evidence_ids": [
+     "G8",
+     "G5",
+     "F:debt_to_equity",
+     "F:borrowings_cr",
+     "F:pat_cagr_3y",
+     "F:margin_change_3y_bps"
+    ]
+   }
+  ],
+  "questions": [
+   "What were H1 FY27 annualised credit cost and monthly PAR 15 accretion against the 30-35 bps built into the Q3 FY26 guide (G31), and why steer to 3.5-4% (G8) when the headline guide is 3-4%?",
+   "What Q4 FY27 exit NIM does the 14.4-14.7% full-year guide assume after 100 bps of lending-rate cuts (G11), and why was the FY27 NIM guide cut to 12.8-13.2% in Q4 FY26 when that quarter printed 14.2%?",
+   "With AUM up only 2.1% QoQ in Q2, what Group Loan versus retail growth was achieved in H1, and what H2 disbursement run-rate is needed to reach 20% FY27 AUM growth and INR 50,000 crore by CY2028?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "offline batch on claude-opus-5-5 (same prompt and schema; no API key in the build environment)",
+  "label": "CREDITACC synthesis",
+  "at": "2026-11-16T20:28:04",
+  "est_input_tokens": 5161,
+  "est_output_tokens": 6722,
+  "est_usd": 0.15508
+ }
+}

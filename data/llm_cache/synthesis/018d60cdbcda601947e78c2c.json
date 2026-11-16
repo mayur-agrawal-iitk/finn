@@ -1,0 +1,247 @@
+{
+ "output": {
+  "business": {
+   "what_it_does": "Makes and sells textile products measured in pieces (61.9 million in Q1 FY27) through a distributor network that is being moved onto a distributor management system (DMS); key inputs are cotton, nylon, fabrics and petroleum-based synthetics. The inputs do not name brands, product categories or segments.",
+   "segments": [
+    {
+     "name": "Single reported business (no split in inputs)",
+     "share_pct": null,
+     "comment": "Q1 FY27 revenue INR 14,204 million (+7.9% YoY), volume +5.7%, EBITDA margin 20.3% (C1); TTM revenue INR 5,500 crore."
+    }
+   ],
+   "source_ids": [
+    "C1",
+    "C3",
+    "C4",
+    "F:ttm_revenue_cr"
+   ]
+  },
+  "credibility": {
+   "score": 65,
+   "label": "medium",
+   "summary": "Reliable on the variable it controls: the 19-21% EBITDA margin band has been restated on four calls, H1 FY27 printed 20.6%, and the Q3 FY26 warning that ~22% margins would not last proved right. Growth promises are restated rather than met: double-digit volume is still the FY27 goal after Q1 volume grew 5.7%, and revenue has compounded 3.6% a year over three years."
+  },
+  "promises": [
+   {
+    "guidance_id": "G1",
+    "status": "on_track",
+    "evidence": "Check: H1 FY27 EBITDA margin 20.6% (Q1 20.4%, Q2 20.8%), inside 19-21%. Margin is down YoY (Q2 20.8% vs 21.7%; Q1 20.3% vs 22.4% per C1) after cotton and nylon inflation, which management says had largely normalised by end-June (C3).",
+    "actual": "20.6% (H1 FY27, 2 of 4 quarters)"
+   },
+   {
+    "guidance_id": "G2",
+    "status": "at_risk",
+    "evidence": "Q1 FY27 volume grew 5.7% (C1). Assuming similar-sized quarters, the remaining three need ~11.4% on average to reach 10% for the year. Q2 volume is not in the inputs; Q2 revenue grew 11.5% but included Q1 billing shifted into Q2 (G3).",
+    "actual": "Q1 FY27 volume +5.7% (C1)"
+   },
+   {
+    "guidance_id": "G3",
+    "status": "unverifiable",
+    "evidence": "Q2 FY27 revenue growth rose to 11.5% from 7.8% in Q1, consistent with deferred billing landing in Q2, but the size of the Q1 shortfall was never quantified, so 'majority' cannot be tested. The two quarters average ~9.7%, so the shift moved revenue between quarters rather than adding to H1.",
+    "actual": "Q2 FY27 revenue +11.5% YoY vs Q1 +7.8%"
+   },
+   {
+    "guidance_id": "G4",
+    "status": "pending",
+    "evidence": "As of the Q1 FY27 call only 'a very small portion' of distributors were on DMS (C4). The deadline is end-FY27 with Q1 FY28 as fallback, and management adds another quarter to stabilise before efficiencies show.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G5",
+    "status": "on_track",
+    "evidence": "Check: H1 FY27 EBITDA margin 20.6%, inside the band; the same range was restated in Q1 FY27 (G1).",
+    "actual": "20.6% (H1 FY27, 2 of 4 quarters)"
+   },
+   {
+    "guidance_id": "G6",
+    "status": "at_risk",
+    "evidence": "Restated in Q1 FY27 (G2). Q1 FY27 volume +5.7% (C1) against a 10% floor; the rest of the year needs ~11.4% on average.",
+    "actual": "Q1 FY27 volume +5.7% (C1)"
+   },
+   {
+    "guidance_id": "G7",
+    "status": "pending",
+    "evidence": "FY27 has not ended and no subsidy receipts are reported in the inputs. INR 40-50 crore equals ~0.7-0.9% of TTM revenue (INR 5,500 crore), so where it is booked matters for the margin band.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G8",
+    "status": "unverifiable",
+    "evidence": "The ledger notes the referent of 'close to 5%' is unclear from the passage; nothing in the inputs can be matched to it.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G9",
+    "status": "on_track",
+    "evidence": "Check: H1 FY27 EBITDA margin 20.6%. The range has been held unchanged on every call since (G5, G1) and is also framed as a long-term range.",
+    "actual": "20.6% (H1 FY27, 2 of 4 quarters)"
+   },
+   {
+    "guidance_id": "G10",
+    "status": "delivered",
+    "evidence": "Margin stepped down from 22.9% in Q3 FY26 to 20.8%, 20.4% and 20.8% in the next three quarters, as warned; the Q1 FY27 call attributed the decline to cotton, nylon and synthetics inflation (C3).",
+    "actual": "20.4-20.8% in Q4 FY26-Q2 FY27"
+   },
+   {
+    "guidance_id": "G11",
+    "status": "at_risk",
+    "evidence": "No timeline. Revenue growth over the last four quarters was 5.6%, 14.1%, 7.8% and 11.5%: two of four in double digits, average ~9.8%. Q2's 11.5% was helped by billing moved from Q1 (G3). 3-year revenue CAGR is 3.6%.",
+    "actual": "Q2 FY27 +11.5%; 4-quarter average ~9.8%"
+   },
+   {
+    "guidance_id": "G12",
+    "status": "on_track",
+    "evidence": "'Near double-digit' with no date: the last four quarters averaged ~9.8% (5.6%, 14.1%, 7.8%, 11.5%), which meets 'near', though it follows a 3-year revenue CAGR of only 3.6%.",
+    "actual": "4-quarter average ~9.8%"
+   },
+   {
+    "guidance_id": "G13",
+    "status": "on_track",
+    "evidence": "Unspecified horizon. Q4 FY26 to Q2 FY27 margins of 20.8%, 20.4% and 20.8% are inside the band; Q3 FY26 was above it at 22.9% and TTM is 21.2%.",
+    "actual": "TTM 21.2%; last four quarters 22.9%, 20.8%, 20.4%, 20.8%"
+   },
+   {
+    "guidance_id": "G14",
+    "status": "unverifiable",
+    "evidence": "No FY26 capex figure is in the inputs.",
+    "actual": null
+   },
+   {
+    "guidance_id": "G15",
+    "status": "unverifiable",
+    "evidence": "No marketing spend figure is in the inputs.",
+    "actual": null
+   }
+  ],
+  "narrative_vs_numbers": [
+   {
+    "claim": "EBITDA margin will stay within 19-21% for FY27 despite input-cost inflation (C3, G1).",
+    "reality": "H1 FY27 margin 20.6% (Q1 20.4%, Q2 20.8%), inside the band, though Q2 is down 90 bps YoY from 21.7%.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C3",
+     "G1",
+     "F:margin_last4_pct",
+     "F:margin_same_q_last_year_pct"
+    ]
+   },
+   {
+    "claim": "'The annual goal remains unchanged... double-digit growth in volume' (G2), with revenue also targeted back at double digits (G11).",
+    "reality": "Q1 FY27 volume +5.7% and revenue +7.8%; Q2 revenue +11.5% was partly Q1 billing moved into Q2 (G3). 3-year revenue CAGR is 3.6% vs 13.1% over five years.",
+    "verdict": "diverges",
+    "evidence_ids": [
+     "G2",
+     "G11",
+     "C1",
+     "G3",
+     "F:rev_yoy_last4_pct",
+     "F:rev_cagr_3y",
+     "F:rev_cagr_5y"
+    ]
+   },
+   {
+    "claim": "Input costs had largely normalised by end-June and are expected to stay stable (C3).",
+    "reality": "Q2 FY27 margin recovered only 40 bps QoQ to 20.8%, and PAT grew 4.1% YoY on revenue +11.5%, so profit is lagging sales while margin stays below last year's 21.7%.",
+    "verdict": "too_early",
+    "evidence_ids": [
+     "C3",
+     "F:margin_last_q_pct",
+     "F:margin_same_q_last_year_pct",
+     "F:pat_yoy_last_q_pct",
+     "F:rev_yoy_last_q_pct"
+    ]
+   },
+   {
+    "claim": "Working capital tightening: inventory days 73 to 66 and net working capital days 56 to 54 in Q1 FY27 (C1).",
+    "reality": "Consistent with the longer trend: cash conversion cycle 138 days vs 240 three years ago, 5-year CFO/PAT 1.07, ROCE 64%.",
+    "verdict": "agrees",
+    "evidence_ids": [
+     "C1",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "F:cfo_to_pat_5y",
+     "F:roce_latest_pct"
+    ]
+   }
+  ],
+  "bull": [
+   {
+    "point": "Margin guidance is dependable: 19-21% restated on four calls (G13, G9, G5, G1), H1 FY27 at 20.6%, and the Q3 FY26 call correctly warned that ~22% would not last (G10).",
+    "evidence_ids": [
+     "G13",
+     "G9",
+     "G5",
+     "G1",
+     "G10",
+     "F:margin_last4_pct"
+    ]
+   },
+   {
+    "point": "Capital efficiency: ROCE 64%, 5-year CFO/PAT 1.07, cash conversion cycle cut from 240 to 138 days over three years; borrowings only INR 396 crore (debt/equity 0.26).",
+    "evidence_ids": [
+     "F:roce_latest_pct",
+     "F:cfo_to_pat_5y",
+     "F:ccc_days_latest",
+     "F:ccc_days_3y_ago",
+     "F:borrowings_cr",
+     "F:debt_to_equity"
+    ]
+   },
+   {
+    "point": "Growth is picking up from a low base: revenue +14.1% and +11.5% in two of the last four quarters vs a 3-year CAGR of 3.6%, and the full DMS rollout due by end-FY27 / Q1 FY28 is aimed at distribution efficiencies (C4, G4).",
+    "evidence_ids": [
+     "F:rev_yoy_last4_pct",
+     "F:rev_cagr_3y",
+     "G4",
+     "C4"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "point": "Volume goal already behind: Q1 FY27 volume +5.7% vs a double-digit FY27 target (G2, G6), so the remaining quarters need ~11.4%, and Q2's 11.5% revenue growth was flattered by Q1 billing shifted into Q2 (G3).",
+    "evidence_ids": [
+     "C1",
+     "G2",
+     "G6",
+     "G3",
+     "F:rev_yoy_last_q_pct"
+    ]
+   },
+   {
+    "point": "Margin upside capped by management's own band: TTM margin 21.2% is at the 21% ceiling (G1) and management said ~22% was not sustainable (G10), so PAT growth must come from revenue; Q2 PAT grew only 4.1% on 11.5% revenue growth.",
+    "evidence_ids": [
+     "F:ttm_margin_pct",
+     "G1",
+     "G10",
+     "F:pat_yoy_last_q_pct",
+     "F:rev_yoy_last_q_pct"
+    ]
+   },
+   {
+    "point": "Growth promises are repeated, not delivered: 'near double-digit' (Q2 FY26, G12) and 'double-digit' (Q3 FY26, G11) aspirations carry no date, while 3-year revenue CAGR is 3.6% and 3-year PAT CAGR of 10.2% came largely from +370 bps of margin.",
+    "evidence_ids": [
+     "G12",
+     "G11",
+     "F:rev_cagr_3y",
+     "F:pat_cagr_3y",
+     "F:margin_change_3y_bps"
+    ]
+   }
+  ],
+  "questions": [
+   "What was Q2 FY27 volume growth, and how much of Q2's 11.5% revenue growth was Q1 billing shifted into Q2 (G3)? In other words, what is underlying H1 growth against the double-digit volume goal (G2)?",
+   "Where will the INR 40-50 crore FY27 subsidy (G7) be booked? If it sits inside EBITDA it is worth ~70-90 bps of margin, so what is the 19-21% band excluding it?",
+   "What did the Q4 FY26 'close to 5%' target (G8) refer to (marketing spend vs the 4-4.5% FY26 budget in G15, or something else), and how much H1 FY27 spend went toward it?"
+  ]
+ },
+ "meta": {
+  "model": "claude-opus-5-5",
+  "provenance": "offline batch on claude-opus-5-5 (same prompt and schema; no API key in the build environment)",
+  "label": "PAGEIND synthesis",
+  "at": "2026-11-16T20:28:04",
+  "est_input_tokens": 3960,
+  "est_output_tokens": 4735,
+  "est_usd": 0.11054
+ }
+}

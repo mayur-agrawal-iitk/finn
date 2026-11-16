@@ -29,9 +29,9 @@ built around one question: *what changed, what is real, and who do I know who ca
   rules), seven ranked paths to HDFC Bank's new CEO, an expertise map, and reconnect nudges ("Anup Bagchi,
   HDFC Bank's new MD & CEO, overlapped with Arjun at ICICI Bank" — a classmate you last spoke to 8 months ago).
 
-On real data it already says things worth knowing. Kaynes gets a management-credibility score of 32/100:
-it cut FY26 revenue guidance from ₹4,500 cr to ₹4,000 cr and then delivered ₹3,626 cr, while five-year
-operating cash flow is negative against ₹977 cr of profit.
+On real data it already says things worth knowing. Kaynes gets a management-credibility score of 30/100.
+It cut FY26 revenue guidance from ₹4,500 cr to ₹4,000 cr and then reported ₹3,632 cr. Its latest quarter
+grew revenue 4.5% while PAT fell 66%, and five-year operating cash flow is negative against ₹977 cr of profit.
 
 ### Key decisions and trade-offs
 

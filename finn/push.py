@@ -311,8 +311,8 @@ def enrich(e: dict, co: dict, store: list[dict] | None = None) -> None:
     if cat in BRIEF_CATS and e["tier"] != "routine":
         text = _filing_text(e.get("url"))
         if text:
-            facts = {"amount_cr": e["facts"].get("amount_cr"), "ttm_revenue_cr": ttm_revenue(co),
-                     "market_cap": co.get("top_ratios", {}).get("Market Cap")}
+            # Stable inputs only (no market cap: it moves daily and would invalidate the cache every day).
+            facts = {"amount_cr": e["facts"].get("amount_cr"), "ttm_revenue_cr": ttm_revenue(co)}
             out = llm.run("event_brief", {"company": co["name"], "category": cat, "title": e["title"],
                                            "filing_text": text, "facts": facts}, label=f"{e['symbol']} brief")
             if out:
@@ -409,7 +409,8 @@ def build_events(companies: dict[str, dict], eod: dict[str, list[dict]]) -> list
             twin["people"] = e.get("people", [])
             twin.setdefault("facts", {}).setdefault("also", []).append("management_change")
             twin.setdefault("related", []).append({"title": e["title"], "url": e["url"], "source": e["source"]})
-            twin["brief"] = twin.get("brief") or e.get("brief")
+            if e.get("brief") and not twin.get("brief"):
+                twin["brief"] = e["brief"]   # only set when there is one, so carry-over can still fill it
             events.remove(e)
     out = []
     for e in sorted(events, key=lambda x: x["dt"], reverse=True):
