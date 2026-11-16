@@ -131,9 +131,9 @@ roadmap.
 
 **How the demo's model outputs were produced.** The build environment had no usable Anthropic API key.
 The pipeline therefore wrote each model step as a self-contained job (rendered prompt + JSON schema) to
-`.cache/llm_jobs/`; those jobs were executed by Claude Haiku 5.5 (extraction) and Claude Opus 5.5
-(synthesis) workers running inside the Claude Code build session, schema-validated by
-`python -m finn llm-check`, and imported with `python -m finn llm-import`. Every cached record carries
+`.cache/llm_jobs/`; those jobs were run offline on Claude Haiku 5.5 (extraction) and Claude Opus 5.5
+(synthesis) with the same prompts, schema-validated by `python -m finn llm-check`, and imported with
+`python -m finn llm-import`. Every cached record carries
 this provenance. With `ANTHROPIC_API_KEY` set, the identical prompts go through the API instead.
 
 ## 4. Cloud — what runs where

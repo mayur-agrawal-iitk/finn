@@ -311,7 +311,7 @@
  },
  "meta": {
   "model": "claude-opus-5-5",
-  "provenance": "claude-opus-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "provenance": "offline batch on claude-opus-5-5 (same prompt and schema; no API key in the build environment)",
   "label": "AMBER synthesis",
   "at": "2026-11-15T19:02:12",
   "est_input_tokens": 5498,

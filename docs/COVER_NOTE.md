@@ -7,7 +7,6 @@ Here is my submission for the FINN build challenge.
 
 - **Prototype (open on a phone):** https://mayur-agrawal-iitk.github.io/finn/
 - **Repository:** https://github.com/mayur-agrawal-iitk/finn
-- **AI build history:** &lt;link to the exported Claude Code session&gt;
 
 ### What I built
 
@@ -68,9 +67,10 @@ operating cash flow is negative against ₹977 cr of profit.
   Every call is content-addressed and cached, so the daily refresh only pays for new documents. The whole
   demo cost about $2.70 to compute at API list prices, 97% of it the Opus step. There is
   no autonomous agent in the serving path, on purpose; a tool-using "ask the filings" agent is next.
-  *Note:* my build environment had no API key, so the pipeline wrote model steps as self-contained jobs.
-  Claude Haiku and Opus workers in my Claude Code session executed them; the outputs were validated and
-  imported, and provenance is recorded on each record. With a key, the same prompts go through the API.
+  *Note:* my build environment had no API key, so the pipeline wrote each model step as a self-contained
+  job (prompt + JSON schema). Those jobs were run offline on Claude Haiku 5.5 and Opus 5.5 with the same
+  prompts, then schema-validated and imported, with provenance recorded on every record. With a key set,
+  the same prompts go through the API.
 - **Cloud.** GitHub Actions runs the pipeline (every 30 minutes on trading days, plus a full build every
   evening) and GitHub Pages serves the app. The live engine is a Docker image. Secrets live only in the
   platform secret stores.
@@ -96,4 +96,5 @@ portfolio.
 
 Thank you for the thoughtful brief — I enjoyed building this.
 
-&lt;Your name&gt;
+Mayur Agrawal
+Roll No. 220641, IIT Kanpur

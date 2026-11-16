@@ -35,7 +35,7 @@
  },
  "meta": {
   "model": "claude-haiku-5-5",
-  "provenance": "claude-haiku-5-5 via Claude Code subagent (offline batch; no API key in build env)",
+  "provenance": "offline batch on claude-haiku-5-5 (same prompt and schema; no API key in the build environment)",
   "label": "TCS guidance Q4 FY26",
   "at": "2026-11-15T18:17:12",
   "est_input_tokens": 3720,

@@ -2,8 +2,8 @@
 
 **What changed in my portfolio, what did the company actually deliver, and who do I know who can explain it.**
 
-FINN is a mobile-first investor workflow built for ENAM's Founding AI Engineer challenge. It runs on
-live NSE/BSE data for a 17-stock demo portfolio and any NSE symbol on demand.
+FINN is a mobile-first investor workflow built for ENAM's Founding AI Engineer challenge by Mayur Agrawal
+(IIT Kanpur, 220641). It runs on live NSE/BSE data for a 17-stock demo portfolio and any NSE symbol on demand.
 
 - **Try it on your phone:** <https://mayur-agrawal-iitk.github.io/finn/> (static, refreshed by a cron) — add it to your home screen.
 - **Run the live engine** (research on *any* NSE symbol): `pip install -r requirements.txt && python -m finn serve` → <http://127.0.0.1:8000>
@@ -94,10 +94,10 @@ A daily refresh costs ≈ $0 unless a company files something new.
   (employer + years), never asserted. In real use the network comes from the investor's own LinkedIn data
   export, calendar and notes, and stays on the device.
 - **Model outputs in this build** were produced without an API key: the pipeline emitted each model
-  step as a self-contained job, executed by Claude Haiku 5.5 / Opus 5.5 workers in the Claude Code build
-  session, schema-validated and imported (`python -m finn llm-pending | llm-export | llm-check |
-  llm-import`). Every cached record carries that provenance. With `ANTHROPIC_API_KEY` set, the same
-  prompts run through the API.
+  step as a self-contained job (prompt + JSON schema), which was run offline on Claude Haiku 5.5 / Opus 5.5
+  with the same prompts, then schema-validated and imported (`python -m finn llm-pending | llm-export |
+  llm-check | llm-import`). Every cached record carries that provenance. With `ANTHROPIC_API_KEY` set,
+  the same prompts run through the API.
 - **Data limits.** screener.in exposes the five most recent filings per company, so the 45-day history
   is partial until the NSE RSS log has been running for a while (it starts at this build). One filing
   older than the poller was backfilled from NSE's archive (`data/backfill.json`). Some company IR sites
@@ -105,8 +105,7 @@ A daily refresh costs ≈ $0 unless a company files something new.
   says so where it doesn't. ITC does not publish concall transcripts, so it has no promise ledger.
 - **Static vs live.** The Pages build carries 21 pre-built dossiers; any other symbol needs the live
   engine (`python -m finn serve`, or the one-click `render.yaml`).
-- **Known analytical limits** (most were surfaced by the synthesis workers themselves and are noted in the
-  affected promises' evidence): lender KPIs (AUM, NIM, credit cost) aren't in the standardised tables, so
+- **Known analytical limits** (noted in the affected promises' evidence): lender KPIs (AUM, NIM, credit cost) aren't in the standardised tables, so
   most lender guidance is judged from later calls rather than computed; some companies' latest transcript
   lags their latest reported quarter; the extractor occasionally records the same promise twice or reads a
   segment target as company-level; *drift* only catches like-for-like numeric revisions, the synthesis
